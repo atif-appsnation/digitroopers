@@ -24,6 +24,7 @@
 	<link href="{{asset('css/swiper.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/all.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/manrope.css')}}" rel="stylesheet">
+	<link href="{{asset('css/carousel.css')}}" rel="stylesheet">
 	<link href="{{asset('css/owl.carousel.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/owl.theme.default.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/style.css')}}" rel="stylesheet">
@@ -50,6 +51,15 @@
 		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
 	</noscript>
 	<!-- End Meta Pixel Code -->
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-Y5E91ZZDGJ');
+	</script>
 
 </head>
 

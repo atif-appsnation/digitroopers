@@ -314,7 +314,7 @@ File Description: Main JS file of the template*/
         margin: 10,
         loop: true,
         autoplay: true,
-        autoplayTimeout: 6000,
+        autoplayTimeout: 3000,
         autoplayHoverPause: true,
         smartSpeed: 500,
         autoHeight: true,
@@ -326,10 +326,10 @@ File Description: Main JS file of the template*/
                 items: 1
             },
             1024: {
-                items: 3
+                items: 1
             },
             1400: {
-                items: 3
+                items: 1
             }
         }
     });

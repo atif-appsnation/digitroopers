@@ -3,7 +3,7 @@
 
 <section class="hero-slider hero-style" id="hero-slider">
 	<video playsinline autoplay muted loop width="100%" height="100%">
-		<source src="video/banner1.mp4" type="video/mp4">
+		<source src="video/banner.mp4" type="video/mp4">
 	</video>
 	<div class="hero-main-rp container main-ban hidden">
 		<div class="row align-items-center">
@@ -149,7 +149,7 @@
 <section class="about-sec-app py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6">
+			<div class="col-lg-6 my-auto">
 				<div class="common-heading text-l">
 					<h2 class="mb30"><span class="text-second text-bold">DigiTroopers</span> Leading Digital Marketing Specialists of your choice</h2>
 					<p>DigiTroopers, is a versatile and dynamic digital marketing agency which helps you to develop an online marketing service to drive more proficient visitors to your site. Our main purpose is client satisfaction as we want our client partners to feel that our Digital Marketing Specialists and experts are an integrated part of their own team</p>
@@ -230,7 +230,8 @@
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8">
 				<div class="common-heading">
-					<h2 class="mb-3">THINGS WE ARE BEST IN</h2>
+					<div class="sctxt">Services</div>
+					<h2 class="mb-3 mt-3">THINGS WE ARE BEST IN</h2>
 					<p>We will be part of the growth of your brand identifying, planning, executing, and measuring all digital activities to achieve all your objectives. We carry out our strategies of Web Designing & Development, Graphic Designing, Search Engine Optimization (SEO), Social Media Marketing (SMM),Pay Per Click (PPC) / Paid marketing , Content Writing, E-Commerce Management and Email Marketing</p>
 				</div>
 			</div>
@@ -238,8 +239,8 @@
 	</div>
 </section>
 
-<section class="service-section-full pt-3 pb-5">
-	<div class="container-fluid">
+<section class="service-section-full pb-5">
+	<div class="container">
 		<div class="forfullcard upset">
 			<div class="fullservicecards">
 				<div class="service-sec-list srvc-bg-nx srcl1">
@@ -382,8 +383,6 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12">
-								
-								
 								<div id="headerPopup" class="mfp-hide embed-responsive embed-responsive-21by9">
 									<iframe class="embed-responsive-item" preload="none" width="854" height="480" src="https://www.youtube.com/embed/PMUow6i-DLE?autoplay=1" frameborder="0"  encrypted-media allowfullscreen></iframe>
 								</div>
@@ -405,8 +404,9 @@
 <section class="portfolio-section-nx py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-8">
-				<div class="common-heading">
+			<div class="col-12">
+				<div class="sctxt">Portfolio</div>
+				<div class="common-heading mt-3">
 					<span>Our Work</span>
 					<h2 class="mb0">Our Latest Creative Work</h2>
 				</div>
@@ -533,13 +533,14 @@
 <section class="work-category py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-8">
-				<div class="common-heading ptag">
-					<h2>Companies we have worked for</h2>
+			<div class="col-12">
+				<div class="sctxt">Industries</div>
+				<div class="common-heading ptag mt-3">
+					<h2>Companies We Have Worked For</h2>
 				</div>
 			</div>
 		</div>
-		<div class="row mt30">
+		<div class="row mt10">
 			<div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.1s">
 				<div class="industry-workfor hoshd"> <img src="images/icons/house.webp" alt="img">
 					<h6>Real estate</h6>
@@ -606,19 +607,22 @@
 <!--End Work Category-->
 
 <!--Start Testinomial-->
-<section class="testinomial-section-nx bg-gradient6 py-5">
+<section class="testinomial-section bg-gradient6 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12 px-2">
+			<div class="col-lg-5 v-center">
 				<div class="common-heading text-l">
-					<h2 class="mb0">What our clients say about our services</h2>
+					<span>Clients Testimonial</span>
+					<h2 class="mb0">What our clients say about our Company.</h2>
 				</div>
-				<div class="owl-carousel testimonial-card-b mt60">
+			</div>
+			<div class="col-lg-7">
+				<div class="owl-carousel testimonial-card-b pl25">
 					@foreach($testimonial as $items)
-					<div class="tcd card h-100">
-						<div class="testimonial-card card-body">
+					<div class="t-text">
+						<div class="testimonial-card ps-2">
 							<p>{{$items['title']}}</p>
-							<div class="-client-details- mt20"> <i class="fas fa-quote-left posiqut"></i>
+							<div class="-client-details- mt20">
 								<div class="reviewer-text">
 									<h4>{{$items['name']}}</h4>
 									<p>{{$items['location']}}</p>
@@ -648,7 +652,9 @@
 	<div class="container">
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8">
-				<div class="common-heading"> <span class="text-effect">what's going on</span>
+				<div class="sctxt">Blogs</div>
+				<div class="common-heading mt-5">
+					<span class="text-effect">what's going on</span>
 					<h2 class="mb30">Latest Stories</h2>
 				</div>
 			</div>

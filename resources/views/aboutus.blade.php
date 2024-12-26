@@ -30,7 +30,7 @@
 				<div class="about-image"> <img src="images/about/about-us-570.webp" alt="about us" class="img-fluid" /> </div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading text-l ">
+				<div class="common-heading text-l">
 					<span>THE BEST WAY TO SUCCESS</span>
 					<h2>NOT JUST WELL-KNOWN…. WE’LL MAKE YOU FAMOUS</h2>
 					<p>DigiTroopers is eager to partner with all kinds of business from those that operate within defined geolocation to those with a multi-location business model. We want our client partners to feel that our content specialists and digital marketing experts are an integrated part of their own team. All our clients must have real-time access and a sound understanding of the reports we create, data we gather, utilize or produce. We will do everything it takes to work transparently while we create awareness and traction for your brand. All marketing campaign data is therefore accessible 24/7 through secure cloud storage or directly from our team during our regular check-in meetings.</p>
@@ -68,10 +68,11 @@
 <section class="why-choose py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-6">
-				<div class="common-heading">
+			<div class="col-12">
+				<div class="sctxt">Choose Us</div>
+				<div class="common-heading mt-3">
 					<span>We Are Awesome</span>
-					<h2 class="mb30">Why Choose Us</h2>
+					<h2>Why Choose Us</h2>
 				</div>
 			</div>
 		</div>
