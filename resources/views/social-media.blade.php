@@ -145,7 +145,7 @@
         <div class="row">
             <div class="col-lg-4 my-auto">
                 <div class="image-block wow fadeIn">
-                    <img src="images/service/social-media-advertising-services.webp" alt="image" class="img-fluid no-shadow" />
+                    <img src="images/services/social-media-advertising-services.webp" alt="image" class="img-fluid no-shadow" />
                 </div>
             </div>
             <div class="col-lg-8 block-1">
@@ -241,7 +241,7 @@
             </div>
             <div class="col-lg-4 my-auto">
                 <div class="image-block wow fadeIn">
-                    <img src="images/service/social-media-marketing.webp" alt="image" class="img-fluid no-shadow" />
+                    <img src="images/services/social-media-marketing.webp" alt="image" class="img-fluid no-shadow" />
                 </div>
             </div>
         </div>

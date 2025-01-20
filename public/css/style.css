@@ -1562,7 +1562,7 @@ video {
 }
 
 .service-img1:after {
-    background: url(../images/service/service-img-1.webp);
+    background: url(../images/services/service-img-1.webp);
 }
 
 .service-img2 {
@@ -1570,7 +1570,7 @@ video {
 }
 
 .service-img2:after {
-    background: url(../images/service/service-img-2.webp);
+    background: url(../images/services/service-img-2.webp);
 }
 
 .service-img3 {
@@ -1578,7 +1578,7 @@ video {
 }
 
 .service-img3:after {
-    background: url(../images/service/service-img-3.webp);
+    background: url(../images/services/service-img-3.webp);
 }
 
 .service-img4 {
@@ -1586,7 +1586,7 @@ video {
 }
 
 .service-img4:after {
-    background: url(../images/service/service-img-4.webp);
+    background: url(../images/services/service-img-4.webp);
 }
 
 .wide-block:after {
@@ -5861,7 +5861,8 @@ h3 a {
     top: 0;
     font-weight: 900;
     -webkit-text-stroke: 1px #e8e8e8;
-    -webkit-text-fill-color: #fff
+    -webkit-text-fill-color: #fff;
+    margin-bottom: 20px;
 }
 
 
@@ -8981,6 +8982,7 @@ html .mt15 {
     background: #fff;
     border-radius: 8px;
     margin-left: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .footerdex {
@@ -9377,6 +9379,10 @@ html .mt15 {
     margin: 0 auto;
 }
 
+.breadcrumb-areav2 .card {
+    border-radius: 1rem;
+}
+
 @keyframes scroll {
     0% {
         transform: translateX(0);
@@ -9387,7 +9393,7 @@ html .mt15 {
 }
 
 .slider {
-    background: white;
+    background: red;
     box-shadow: 0 10px 20px -5px rgba(0, 0, 0, .125);
     height: 100px;
     margin: auto;
@@ -9424,4 +9430,9 @@ html .mt15 {
 .slider .slide {
     height: 100px;
     width: 250px;
+}
+
+.services .card, .techonology-used .card, .website-block .card {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 1px solid transparent;
 }

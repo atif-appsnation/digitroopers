@@ -150,7 +150,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/ecommerce-agency.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/ecommerce-agency.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -163,7 +163,7 @@
 		<div class="row">
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/ecommerce-marketing-agency.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/ecommerce-marketing-agency.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-8 block-1">
@@ -240,7 +240,7 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/ecommerce-management.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/ecommerce-management.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>

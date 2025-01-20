@@ -162,7 +162,7 @@
 			</div>
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/google-partner.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/google-partner.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>

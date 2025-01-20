@@ -141,7 +141,7 @@
 		<div class="row">
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/email-marketing-campaigns.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/email-marketing-campaigns.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-8 block-1">
@@ -168,7 +168,7 @@
 			</div>
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/email-marketing-agency.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/email-marketing-agency.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -181,7 +181,7 @@
 		<div class="row">
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/email-marketing-agency-2.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/email-marketing-agency-2.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-8 block-1">
@@ -225,7 +225,7 @@
 			</div>
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/email-marketing-services.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/email-marketing-services.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -238,7 +238,7 @@
 		<div class="row">
 			<div class="col-lg-4 my-auto">
 				<div class="image-block wow fadeIn">
-					<img src="images/service/business-email-marketing.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/business-email-marketing.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-8 block-1">

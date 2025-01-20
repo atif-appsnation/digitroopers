@@ -47,19 +47,6 @@
 								</div>
 								<div class="row" hidden>
 									<input type="hidden" name="service" value="development">
-									<!-- <div class="form-group col-sm-12 col-md-12 col-lg-6">
-										<select name="service" id="Dtype" required>
-											<option value="">Select Service</option>
-											<option value="designing">Designing</option>
-											<option value="development">Development</option>
-											<option value="social-media">Social Media</option>
-											<option value="seo">SEO</option>
-											<option value="email-marketing">Email Marketing</option>
-											<option value="paind-marketing">Paid Marketing</option>
-											<option value="ecommerce-managment">E-Commerce Management</option>
-										</select>
-										<div class="help-block with-errors"></div>
-									</div> -->
 								</div>
 								<div class="row">
 									<div class="fform-group col-sm-12 col-md-12">
@@ -79,8 +66,8 @@
 									</div>
 								</div>
 								<div class="form-group mb-2 captchaContainer2" id="captchaContainer" style="display: none;">
-								{!! NoCaptcha::display() !!}
-							</div>
+									{!! NoCaptcha::display() !!}
+								</div>
 								<button type="submit" name="submit" id="form-submit" class="btn-main bg-btn lnk">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
 								<div id="msgSubmit" class="h3 text-center hidden"></div>
 								<div class="clearfix"></div>
@@ -149,39 +136,70 @@
 </div>
 <!--End Hero-->
 
-<!--Start About-->
-<section class="service bg-gradient2 py-5">
+<!--Start Service-->
+<section class="services bg-gradient2 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-1">
-				<p>Business Website</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-md-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Business Website</p>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-1">
-				<p>ECommerce Site</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-md-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">ECommerce Site</p>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-1">
-				<p>Portfolio Website</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Portfolio Website</p>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-1">
-				<p>Blog Website</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3 mt-lg-0">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Blog Website</p>
+					</div>
+				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-2">
-				<p>Affiliate Website</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Affiliate Website</p>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-2">
-				<p>Directory Sites</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Directory Sites</p>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-2">
-				<p>Landing Pages</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Landing Pages</p>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-3 web-services-2">
-				<p>Custom Website</p>
+			<div class="col-sm-12 col-md-6 col-lg-3 mt-3">
+				<div class="card">
+					<div class="card-body text-center">
+						<p class="pb-0">Custom Website</p>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div class="row py-5">
-			<div class="col-lg-8 d-block mx-auto text-center">
+			<div class="col-12 d-block mx-auto text-center">
+				<div class="sctxt">Services</div>
 				<h3>Explore Our Services</h3>
 				<p>DigiTroopers professional web development services are dedicated to the principles of searchability, speed, and simplicity. In response to the evolving demands and the current trends of internet users.</p>
 			</div>
@@ -189,7 +207,7 @@
 		<div class="row">
 			<div class="col-lg-6 block-1 my-auto">
 				<div class="common-heading text-l pl25">
-				    <span>Overview</span>
+					<div class="sctxt">Overview</div>
 					<h2>Our Web Development Services</h2>
 					<p>We are the best Website Development agency if you are seeking a CMS-based solution for your website. Our &nbsp;Website experts provide you <a href="https://digitroopers.com/seo">SEO optimized</a>, mobile responsive websites that are able to work with WordPress, Joomla, Shopify, Drupal, Squarespace, Wix, Bitrix, Magento, PrestaShop, OpenCart as well as TYPO3. DigiTroopers deliver a seamlessly responsive, data-driven design ensuring that your website attains and maintains high views, click rate &amp; conversions.</p>
 				</div>
@@ -200,81 +218,161 @@
 		</div>
 	</div>
 </section>
-<!--End About-->
+<!--End Service-->
 
 <!--Start Tech-->
-<div class="techonology-used- bg-gradient3 py-5">
+<div class="techonology-used bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 text-center">
-				<img src="images/service/loading.webp" alt="image" class="icons mb-3" />
-				<h4>Speed Optimized</h4>
-				<p>Our Web Design will always be Speed optimized that will easily interact with users with a minimum Bounce rate.</p>
+				<div class="card">
+					<div class="card-body">
+						<img src="images/services/website/loading.webp" alt="image" class="icons mb-3" />
+						<h4>Speed Optimized</h4>
+						<p>Our Web Design will always be Speed optimized that will easily interact with users with a minimum Bounce rate.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-lg-4 text-center">
-				<img src="images/service/label.webp" alt="image" class="icons mb-3" />
-				<h4>SEO Friendly</h4>
-				<p>We always approach SEO friendly Website Designs that can easily rank on Search Engines and make leads.</p>
+				<div class="card">
+					<div class="card-body">
+						<img src="images/services/website/label.webp" alt="image" class="icons mb-3" />
+						<h4>SEO Friendly</h4>
+						<p>We always approach SEO friendly Website Designs that can easily rank on Search Engines and make leads.</p>
+					</div>
+				</div>
 			</div>
 			<div class="col-lg-4 text-center">
-				<img src="images/service/thumbs-up.webp" alt="image" class="icons mb-3" />
-				<h4>User Friendly</h4>
-				<p>Our Web Design will be responsive for all devices and user-friendly for making User interaction easy.</p>
+				<div class="card">
+					<div class="card-body">
+						<img src="images/services/website/thumbs-up.webp" alt="image" class="icons mb-3" />
+						<h4>User Friendly</h4>
+						<p>Our Web Design will be responsive for all devices and user-friendly for making User interaction easy.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
 <!--End Tech-->
 
-<!--Start Service-->
-<section class="service-block bg-gradient4 py-5">
+<!--Start Website-->
+<section class="website-block bg-gradient4 py-5">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6">
 				<div class="common-heading ptag text-center">
+					<div class="sctxt">Website</div>
 					<h2>Plan Your Next Website With Us</h2>
 				</div>
 			</div>
 		</div>
 		<div class="row upset">
-			<div class="col-sm-12 col-md-6 col-lg-6 mt30 wow fadeInUp" data-wow-delay=".2s">
-				<div class="s-block wd-block">
-					<h4>CMS based Websites</h4>
-					<p>CMS based web development is industry terminology for organizing the CMS and its technical considerations leading to custom website development.</p>
-					<div class="s-card-icon mx-auto d-block web-image-div">
-						<img src="images/service/business-website.webp" alt="service" class="img-fluid web-development-img" />
+			<div class="col-sm-12 col-md-6 col-lg-6 mt30 wow">
+				<div class="card h-100">
+					<div class="card-body text-center">
+						<h4>CMS based Websites</h4>
+						<p>CMS based web development is industry terminology for organizing the CMS and its technical considerations leading to custom website development.</p>
+						<div class="s-card-icon mx-auto d-block web-image-div">
+							<img src="images/services/website/business-website.webp" alt="service" class="img-fluid web-development-img" />
+						</div>
+						<p>We are the best Website Development agency if you are seeking a CMS based solution for you website. Our &nbsp;Website Development experts in&nbsp;<a href="https://digitroopers.com/seo-service/">SEO optimized</a>, mobile responsive websites are able to work with&nbsp;WordPress, Joomla, Shopify, Drupal, Squarespace, Wix, Bitrix, Magento, PrestaShop, OpenCart as well as TYPO3. DigiTroopers deliver a seamlessly responsive, data driven design ensuring that your website attains and maintains high views, click rate &amp; conversions.</p>
 					</div>
-					<p>We are the best Website Development agency if you are seeking a CMS based solution for you website. Our &nbsp;Website Development experts in&nbsp;<a href="https://digitroopers.com/seo-service/">SEO optimized</a>, mobile responsive websites are able to work with&nbsp;WordPress, Joomla, Shopify, Drupal, Squarespace, Wix, Bitrix, Magento, PrestaShop, OpenCart as well as TYPO3. DigiTroopers deliver a seamlessly responsive, data driven design ensuring that your website attains and maintains high views, click rate &amp; conversions.</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-6 col-lg-6 mt30 wow fadeInUp" data-wow-delay=".4s">
-				<div class="s-block wd-block">
-					<h4>Custom Website</h4>
-					<p>A website has to be primed for search engines, cybersecurity, loading speed, consistency, and flow. Custom Website for automation, unique site features & functionality.</p>
-					<div class="s-card-icon mx-auto d-block web-image-div">
-						<img src="images/service/blogging-websites.webp" alt="service" class="img-fluid web-development-img" />
+			<div class="col-sm-12 col-md-6 col-lg-6 mt30 wow">
+				<div class="card h-100">
+					<div class="card-body text-center">
+						<h4>Custom Website</h4>
+						<p>A website has to be primed for search engines, cybersecurity, loading speed, consistency, and flow. Custom Website for automation, unique site features & functionality.</p>
+						<div class="s-card-icon mx-auto d-block web-image-div">
+							<img src="images/services/website/blogging-websites.webp" alt="service" class="img-fluid web-development-img" />
+						</div>
+						<p>Our web development professionals makes you a titan in your niche. Our web development principles and data-informed analytics guide us towards customizing your website offering to the exact needs of your customers, to provide them with a delightful user experience when interacting with your site. DigiTroopers expert front-end and back-end developers are able to produce spectacular, multi-platform websites using HTML, CSS & Javascript as well PHP, Laravel, Python & .NET.</p>
 					</div>
-					<p>Our web development professionals makes you a titan in your niche. Our web development principles and data-informed analytics guide us towards customizing your website offering to the exact needs of your customers, to provide them with a delightful user experience when interacting with your site. DigiTroopers expert front-end and back-end developers are able to produce spectacular, multi-platform websites using HTML, CSS & Javascript as well PHP, Laravel, Python & .NET.</p>
 				</div>
 			</div>
 		</div>
-		<div class="row mt-5">
-			<div class="col-lg-6">
-				<h3>We also offer WEBSITE SUPPORT & MAINTENANCE SERVICES</h3>
+	</div>
+</section>
+<!--End Website-->
+
+<!--Start Services-->
+<section class="services-block bg-gradient4 py-5">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="slider">
+                <div class="slide-track">
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Start Services-->
+
+<!--Start Services-->
+<section class="website-block bg-gradient4 py-5">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 my-auto">
+				<div class="sctxt">Services</div>
+				<h3>We also offer Website Support & Maintenance Services</h3>
 				<p>DigiTroopers takes as much pride in genuine customer care as in quality of output and technical prowess. We have dedicated resources to provide fully managed ongoing support in operating and maintaining websites. We pre-empt future issues and detect current ones, based on performance data analytics. Our experience allows us to be flexible to your changing needs and we ensure that our service provides you a long-term competitive advantage.</p>
 			</div>
 			<div class="col-lg-6">
-				<img src="images/service/website-development-services.webp" alt="service" class="img-fluid" />
+				<img src="images/services/website/maintenance-and-support.webp" alt="Website Support & Maintenance" class="img-fluid d-block mx-auto" />
 			</div>
 		</div>
 		<div class="-cta-btn mt40 text-center">
-			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
+			<div class="free-cta-title v-center wow">
 				<p>Hire a <span>Dedicated Web Developer</span></p> <a href="{{url('/contactus')}}" class="btn-main bg-btn2 lnk">Get a Free Quote <i class="fas fa-chevron-right fa-icon"></i></a>
 			</div>
 		</div>
 	</div>
 </section>
-<!--End Service-->
+<!--End Services-->
 
 <!--Start Pricing-->
 <section class="block-a1 bg-gradient6 py-5">
@@ -282,7 +380,7 @@
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8">
 				<div class="common-heading ptag">
-					<span>Pricing</span>
+					<div class="sctxt">Pricing</div>
 					<h2>Pricing Table</h2>
 				</div>
 			</div>
@@ -302,7 +400,6 @@
 							<div class="scrollbar">
 								<ul>
 									{!! $items['description'] !!}
-
 								</ul>
 							</div>
 						</div>
@@ -321,9 +418,7 @@
 						<p class="duration">{{$items['duration']}}</p>
 						<div class="details">
 							<div class="scrollbar">
-
 								{!! $items['description'] !!}
-
 							</div>
 						</div>
 					</div>
@@ -343,7 +438,7 @@
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-6">
 				<div class="common-heading ptag">
-					<span>Our Projects</span>
+					<div class="sctxt">Projects</div>
 					<h2>Some of Our Works</h2>
 					<p class="mb0">We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
 				</div>
@@ -352,7 +447,7 @@
 		<div class="row">
 
 			@foreach($portfolio_prime as $items)
-			<div class="col-12 col-sm-12 col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
+			<div class="col-12 col-sm-12 col-md-6 col-lg-4 wow">
 				<div class="isotope_item hover-scale">
 					<div class="item-image">
 						<a href="#"><img src="uploads/{{$items['image']}}" alt="portfolio" class="img-fluid" /> </a>
@@ -376,59 +471,66 @@
 </section>
 <!--End Projects-->
 
-<!--Start reveiws-->
+<!--Start Reveiws-->
 <section class="reviews-block bg-gradient2 py-5">
-	<div class="container">
-		<div class="row justify-content-center text-center">
-			<div class="col-lg-8">
-				<div class="common-heading ptag">
-					<span>Service Testimonials</span>
-					<h2>Client Speaks</h2>
-					<p class="mb30">Check our customers success stories.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-8">
+                <div class="common-heading ptag">
+                    <div class="sctxt">Testimonials</div>
+                    <h2>Client Speaks</h2>
+                    <p class="mb30">Check our customers success stories.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
 
-			@foreach($testimonial as $k=>$items)
-			@if($k < 3)
-			<div class="col-md-4 mt30 testimonial">
-				<div class="reviews-card pr-shadow">
-					<div class="row v-center">
-						<div class="col"> <span class="revbx-lr"><i class="fas fa-quote-left"></i></span> </div>
-						<!-- <div class="col"> <span class="revbx-rl"><img src="uploads/{{$items['image']}}" alt="review service logo"></span> </div> -->
-					</div>
-					<div class="review-text">
-						<p class="text1">{{$items['title']}}</p>
-					</div>
-					<div class="-client-details-">
-
-						<div class="reviewer-text">
-							<h4>{{$items['name']}}</h4>
-							<p>{{$items['location']}}</p>
-							<div class="star-rate">
-								<ul>
-									<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-									</li>
-									<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-									</li>
-									<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-									</li>
-									<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-									</li>
-									<li> <a href="javascript:void(0)"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-		</div>
-		@endif
-		@endforeach
-	</div>
+            @foreach($testimonial as $k=>$items)
+            @if($k < 3)
+            <div class="col-md-4 mt30 testimonial">
+                <div class="card reviews-card h-100">
+                    <div class="card-body">
+                        <div class="row v-center">
+                            <div class="col">
+                                <span class="revbx-lr">
+                                    <i class="fas fa-quote-left"></i>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="review-text">
+                            <p class="text1">{{$items['title']}}</p>
+                            <button class="btn btn-link toggle-btn px-0">View More</button>
+                        </div>
+                        <div class="-client-details-">
+                            <div class="reviewer-text">
+                                <h4>{{$items['name']}}</h4>
+                                <p>{{$items['location']}}</p>
+                                <div class="star-rate">
+                                    <ul>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @endif
+            @endforeach
+        </div>
+    </div>
 </section>
-<!--End reviews-->
-<!--Start contact-->
+<!--End Reviews-->
+
+<!--Start Contact-->
 <section class="contact--block bg-gradient1 py-5">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -530,7 +632,6 @@
 					</div>
 				</div>
 			</div>
-			<!--xxxxxxxx-->
 		</div>
 	</div>
 </section>
