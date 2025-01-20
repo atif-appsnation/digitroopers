@@ -27,8 +27,8 @@
 	<!--Start About-->
 	<section class="career py-5 block-1 dark-bg3">
 		<div class="container">
-			<div class="row">
-				<div class="col-12">
+			<div class="row justify-content-center">
+				<div class="col-lg-8">
 					<div class="card">
 						<div class="card-body">
 							<h4>Use this form to apply at Digi Troopers, Beyond &amp; Huddle Co-working.</h4>

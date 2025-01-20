@@ -102,7 +102,7 @@
 				</div>
 			</div>
 			<div class="col-lg-5">
-                <img src="images/process/deployment.webp" alt="Process" class="img-fluid" />
+                <img src="images/process/deployment.webp" alt="Deployment" class="img-fluid" />
 			</div>
 		</div>
 	</div>

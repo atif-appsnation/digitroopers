@@ -374,6 +374,22 @@ File Description: Main JS file of the template*/
 			}
 		}
 	});
+
+	document.addEventListener('DOMContentLoaded', function () {
+		document.querySelectorAll('.toggle-btn').forEach(function (button) {
+			button.addEventListener('click', function () {
+				const text = this.previousElementSibling;
+				if (text.classList.contains('expanded')) {
+					text.classList.remove('expanded');
+					this.textContent = 'View More';
+				} else {
+					text.classList.add('expanded');
+					this.textContent = 'View Less';
+				}
+			});
+		});
+	});
+
 	//Counter Up	
 	$(".counter").counterUp({
 		delay: 10,

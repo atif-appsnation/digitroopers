@@ -3149,7 +3149,7 @@ footer.ftshap:before {
 
 .ps-block span {
     font-size: 60px;
-    font-family: "Poppins", sans-serif;
+    /* font-family: "Poppins", sans-serif; */
     border-radius: 100%;
     border: 1px solid #e8e8e8;
     width: 100px;
@@ -3158,7 +3158,8 @@ footer.ftshap:before {
     text-align: center;
     line-height: 100px;
     margin: 0 0 20px 0;
-    color: #6a6a8e;
+    /* color: #6a6a8e; */
+    color: var(--orange-color);
     border-radius: 68% 32% 64% 36% / 59% 59% 41% 41%;
     background: #f5f5ff;
     animation: border-transform 6s linear infinite;
@@ -3875,11 +3876,16 @@ blockquote {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 9;
-    /* number of lines to show */
-    line-clamp: 9;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
     -webkit-box-orient: vertical;
-    height: 250px;
+    padding-bottom: 0px;
+    /* height: 250px; */
+}
+
+.text1.expanded {
+    -webkit-line-clamp: unset;
+    display: block;
 }
 
 /*.blogs {*/
@@ -4206,8 +4212,10 @@ blockquote {
     position: relative;
     z-index: 9;
     background: #fff;
-    padding: 25px;
+    /* padding: 25px; */
     border-radius: 8px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 1px solid transparent;
 }
 
 .right-review-box p {
@@ -6620,12 +6628,12 @@ h5 {
 }
 
 h6 {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 26px;
 }
 
 p {
-    font-size: 17px;
+    font-size: 16px;
     line-height: 28px;
 }
 
@@ -9362,4 +9370,58 @@ html .mt15 {
 .career .card {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     border: 1px solid var(--white-color);
+}
+
+.brand-logo img {
+    display: block;
+    margin: 0 auto;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+   }
+    100% {
+        transform: translateX(calc(-250px * 7));
+   }
+}
+
+.slider {
+    background: white;
+    box-shadow: 0 10px 20px -5px rgba(0, 0, 0, .125);
+    height: 100px;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.slider::before, .slider::after {
+    background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    content: "";
+    height: 100px;
+    position: absolute;
+    width: 200px;
+    z-index: 2;
+}
+
+.slider::after {
+    right: 0;
+    top: 0;
+    transform: rotateZ(180deg);
+}
+
+.slider::before {
+    left: 0;
+    top: 0;
+}
+
+.slider .slide-track {
+    animation: scroll 40s linear infinite;
+    display: flex;
+    width: calc(250px * 14);
+}
+
+.slider .slide {
+    height: 100px;
+    width: 250px;
 }

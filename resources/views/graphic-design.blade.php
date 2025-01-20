@@ -88,9 +88,6 @@
 						</div>
 					</div>
 				</div>
-
-
-				
 			</div>
             <!-- ----- -->
         </div>
@@ -136,14 +133,15 @@
     </div>
 </div>
 <!--End Hero-->
+
 <!--Start About-->
 <section class="service bg-gradient2 py-5">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 my-auto">
+            <div class="col-lg-5 my-auto">
                 <div class="single-image bg-shape-dez mt0 wow fadeIn"> <img src="images/service/graphic-design-services.webp" alt="image" class="img-fluid no-shadow" /> </div>
             </div>
-            <div class="col-lg-8 block-1 m-mt50">
+            <div class="col-lg-7 block-1 m-mt50">
                 <div class="common-heading text-l pl25">
                     <span>Overview</span>
                     <h2>GRAPHIC DESIGN SERVICES</h2>
@@ -156,7 +154,8 @@
     </div>
 </section>
 <!--End About-->
-<!--Start Key points-->
+
+<!--Start Key Points-->
 <section class="service bg-gradient3 py-5">
     <div class="container">
         <div class="row mb-5">
@@ -175,9 +174,65 @@
         </div>
     </div>
 </section>
-<!--End Key points-->
-<!--Start Service-->
-<section class="service-block bg-gradient4 py-5">
+<!--End Key Points-->
+
+<!--Start Services-->
+<section class="services-block bg-gradient4 py-5">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="slider">
+                <div class="slide-track">
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+                    </div>
+                    <div class="slide">
+                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Start Process-->
+
+<!--Start Process-->
+<section class="process-block bg-gradient4 py-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -187,7 +242,20 @@
                     <p>This is followed by our creative team getting to work on technical and thematic outlines for the development of artistic assets. We present a couple of draft ideas from which you can pick and choose to your liking. At this point we finalise the visual communication elements and develop the final set of options for you.</p>
                     <p>As a final step after you have selected and again got the chance to fine tune the design, we produce high quality graphics ready for use anywhere as your propriety digital artwork.</p>
                     <p>Also, if you are not completely delighted with our final output we request our designers to give the utmost to satisfy your goals for the project and if you still believe its not good to go… no worries! DigiTroopers give you 100% money back guarantee so that you know we value your trust and honor the privilege of your patronage.</p>
-                    <h3>OUR CREATIVE DESIGN AGENCY RESOURCES</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Start Process-->
+
+<!--Start Resource-->
+<section class="resource-block bg-gradient4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="common-heading ptag">
+                    <h2>OUR CREATIVE DESIGN AGENCY RESOURCES</h2>
                     <p>There’s no limit to what you can get designed by DigiTroopers Graphic Design Experts. Colors, strokes, shapes, font, and words will define your business. For marketing campaigns on social media, proper visual communication with a creative combination of illustrations and text is vital to deliver effective compositions.</p>
                     <p>Get the perfect graphics to ensure that your message and brand identity is deeply embedded in the minds of your target audience. Whether its a snappy logo or some stunning social media ads, our supremely talented designers can make it happen to your complete satisfaction. DigiTroopers takes pride in its team of creative designers, delivering the best graphic design services.</p>
                     <p>In line with DigiTroopers vision to be the creative design agency of choice for start-up and small business, its design services start at a low price with options to suit any budget.</p>
@@ -196,7 +264,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row mt-4">
             <div class="col-sm-12">
                 <h4 class="text-center">GRAPHIC DESIGN SERVICES</h4>
             </div>
@@ -283,13 +351,14 @@
             </div>
         </div>
         <div class="-cta-btn mt40 text-center">
-            <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.1s">
-                <p>Hire a <span>Dedicated Graphic Designer</span></p> <a href="{{url('/contactus')}}" class="btn-main bg-btn2 lnk">Get a Free Quote <i class="fas fa-chevron-right fa-icon"></i></a>
+            <div class="free-cta-title v-center wow">
+                <p>Hire a <span>Dedicated Graphic Designer</span></p>
+                <a href="{{url('/contactus')}}" class="btn-main bg-btn2 lnk">Get a Free Quote <i class="fas fa-chevron-right fa-icon"></i></a>
             </div>
         </div>
     </div>
 </section>
-<!--End Service-->
+<!--End Resource-->
 
 <!--Start Pricing-->
 <section class="block-a1 bg-gradient6 py-5">
@@ -318,10 +387,10 @@
                                 <ul>
                                     {!! $items['description'] !!}
                                     <!-- <li>Social Media Marketing</li>
-											<li>2.100 Keywords</li>
-											<li>One Way Link Building</li>
-											<li>5 Free Optimization</li>
-											<li>3 Press Releases</li> -->
+                                    <li>2.100 Keywords</li>
+                                    <li>One Way Link Building</li>
+                                    <li>5 Free Optimization</li>
+                                    <li>3 Press Releases</li> -->
                                 </ul>
                             </div>
                         </div>
@@ -343,12 +412,12 @@
 
                                 {!! $items['description'] !!}
                                 <!-- <ul>
-												<li>Social Media Marketing</li>
-												<li>2.100 Keywords</li>
-												<li>One Way Link Building</li>
-												<li>5 Free Optimization</li>
-												<li>3 Press Releases</li>
-											</ul> -->
+                                    <li>Social Media Marketing</li>
+                                    <li>2.100 Keywords</li>
+                                    <li>One Way Link Building</li>
+                                    <li>5 Free Optimization</li>
+                                    <li>3 Press Releases</li>
+                                </ul> -->
                             </div>
                         </div>
                     </div>
@@ -377,10 +446,10 @@
                 </div>
             </div>
         </div>
-        <div class="row mb-5">
+        <div class="row">
 
         @foreach($portfolio_prime as $items)
-        <div class="col-12 col-sm-12 col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".2s">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 wow">
                 <div class="isotope_item hover-scale">
                     <div class="item-image">
                         <a href="#"><img src="uploads/{{$items['image']}}" alt="portfolio" class="img-fluid" /> </a>
@@ -460,7 +529,7 @@
             </div> -->
         </div>
         <div class="row">
-            <div class="col-lg-12 maga-btn mt60">
+            <div class="col-lg-12 maga-btn mt30">
                 <a href="{{url('/portfolio')}}" class="btn-main bg-btn lnk">View More Projects
                     <i class="fas fa-chevron-right fa-icon"></i>
                 </a>
@@ -486,38 +555,42 @@
             @foreach($testimonial as $k=>$items)
             @if($k < 3)
             <div class="col-md-4 mt30 testimonial">
-                <div class="reviews-card pr-shadow">
-                    <div class="row v-center">
-                        <div class="col"> <span class="revbx-lr"><i class="fas fa-quote-left"></i></span> </div>
-                        <!-- <div class="col"> <span class="revbx-rl"><img src="uploads/{{$items['image']}}" alt="review service logo"></span> </div> -->
-                    </div>
-                    <div class="review-text">
-                        <p class="text1">{{$items['title']}}</p>
-                    </div>
-                    <div class="-client-details-">
+                <div class="card reviews-card h-100">
+                    <div class="card-body">
+                        <div class="row v-center">
+                            <div class="col"> <span class="revbx-lr"><i class="fas fa-quote-left"></i></span> </div>
+                            <!-- <div class="col"> <span class="revbx-rl"><img src="uploads/{{$items['image']}}" alt="review service logo"></span> </div> -->
+                        </div>
+                        <div class="review-text">
+                            <p class="text1">{{$items['title']}}</p>
+                            <button class="btn btn-link toggle-btn px-0">View More</button>
+                        </div>
+                        <div class="-client-details-">
 
-                        <div class="reviewer-text">
-                            <h4>{{$items['name']}}</h4>
-                            <p>{{$items['location']}}</p>
-                            <div class="star-rate">
-                                <ul>
-                                    <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
-                                    </li>
-                                    <li> <a href="javascript:void(0)"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-                                </ul>
+                            <div class="reviewer-text">
+                                <h4>{{$items['name']}}</h4>
+                                <p>{{$items['location']}}</p>
+                                <div class="star-rate">
+                                    <ul>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a>
+                                        </li>
+                                        <li> <a href="javascript:void(0)"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+            @endif
+            @endforeach
         </div>
-        @endif
-        @endforeach
     </div>
 </section>
 <!--End reviews-->
