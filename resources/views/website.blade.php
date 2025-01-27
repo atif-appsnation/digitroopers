@@ -23,7 +23,7 @@
 					<div class="card-body">
 						<h3 class="text-center pb-3">Request For Quote</h3>
 						<div class="form-block">
-					{!! NoCaptcha::renderJs() !!}
+							{!! NoCaptcha::renderJs() !!}
 
 							<form action="{{route('leads')}}" method="post" id="contactForm2" data-toggle="validator" class="shake">
 								@csrf
@@ -83,7 +83,7 @@
 <!--Clients-->
 <div class="statistics-wrap bg-gradient1 py-5">
 	<div class="container">
-		<div class="row t-ctr">
+		<div class="row small t-ctr mt0">
 			<div class="col-lg-3 col-sm-6">
 				<div class="statistics">
 					<div class="statistics-img">
@@ -109,11 +109,12 @@
 			</div>
 			<div class="col-lg-3 col-sm-6">
 				<div class="statistics">
-					<div class="statistics-img">
+					<div class="statistics-img"> 
 						<img src="images/icons/worker.svg" alt="work" class="img-fluid">
 					</div>
 					<div class="statnumb">
-						<span class="counter">95</span><span>k</span>
+						<span class="counter">95</span>
+						<span>k</span>
 						<p>Hours Worked</p>
 					</div>
 				</div>
@@ -484,7 +485,6 @@
             </div>
         </div>
         <div class="row">
-
             @foreach($testimonial as $k=>$items)
             @if($k < 3)
             <div class="col-md-4 mt30 testimonial">
