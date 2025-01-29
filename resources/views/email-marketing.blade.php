@@ -148,7 +148,7 @@
 			<div class="col-lg-8 block-1 my-auto">
 				<div class="common-heading text-l pl25">
 					<div class="sctxt">Services</div>
-					<h2>EMAIL MARKETING <span style="color: #ff0000;">SERVICES</span></h2>
+					<h2>Email Marketing Services</h2>
 					<p><u>Email marketing isn’t</u>&nbsp;an unsolicited direct mass marketing method which may also be called <u>spam</u>.</p>
 					<p>This is an important distinction to bear in mind when weighing the utility of its incorporation in a digital marketing strategy.</p>
 					<p>Email marketing is an extremely cost-effective <a href="https://digitroopers.com/">digital marketing</a> approach that utilizes a solicited and curated list of Email addresses to develop and maintain close relationships with qualified prospects and customers. The primary goal of an effective email marketing strategy is to connect with and convert prospects into customers, eventually winning them over as loyal patrons. People across all demographics prefer email over other permission-based <a href="https://digitroopers.com/social-media">advertising</a> which is perhaps why Email marketing has the highest ROI relative to other digital marketing methods.</p>
@@ -163,16 +163,16 @@
 <section class="service bg-gradient3 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 block-1 my-auto">
+			<div class="col-lg-8 block-1">
 				<div class="common-heading text-l pl25">
 					<div class="sctxt">Email Marketing</div>
-					<h2>OUR APPROACH TO <span style="color: #ff0000;">EMAIL MARKETING</span></h2>
+					<h2>Our Approach To Email Marketing</h2>
 					<p>DigiTroopers is an accomplished boutique <a href="https://digitroopers.com/">digital marketing company</a> that you will be discovered to be at par with the best email marketing agency you can find. Bulk email marketing services are no longer useful as they are liable to classified as spam and usually blocked or directed to trash bins. We start with understanding your <a href="https://digitroopers.com/ecommerce">business model</a> and goals to develop an effective Email Marketing Strategy for you. The next step is email list maintenance, where we set about creating a plan of action collect, segment and regularly update a list of subscribers for the informational and marketing content we intend to distribute.</p>
 				</div>
 			</div>
-			<div class="col-lg-4">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/email-marketing-agency.webp" alt="image" class="img-fluid no-shadow" />
+			<div class="col-lg-4 my-auto">
+				<div class="image-block">
+					<img src="images/services/email-marketing/email-marketing-approach.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -185,14 +185,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4">
-				<div class="image-block wow fadeIn">
-					<img src="images/services/email-marketing-agency-2.webp" alt="image" class="img-fluid no-shadow" />
+				<div class="image-block">
+					<img src="images/services/email-marketing/email-marketing-experties.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 			<div class="col-lg-8 block-1 my-auto">
-				<div class="common-heading text-l pl25">
+				<div class="common-heading pl25">
 					<div class="sctxt">Marketing Expertise</div>
-					<h2>DIGITROOPERS EMAIL <span style="color: #ff0000;">MARKETING EXPERTISE</span></h2>
+					<h2>DigiTroopers Email Marketing Expertise</h2>
 					<p>Depending on factors like your revenue and outreach goals as well as budget we create the content and determine the frequency and timing of communication. We are experts in designing and implementing all types of Email Marketing ad Advertising Campaigns from special or one off promotions to running a regular Digital Magazine or Subscription Newsletter on a periodic basis. DigiTroopers are also equipped to create assets like E-Books, White Papers, Guides and Product Catalogues. These are vital elements that entice users to share their contact details with you and allow you to send them relevant information and marketing offers directly into their inboxes.</p>
 				</div>
 			</div>
@@ -208,7 +208,7 @@
 			<div class="col-sm-12 block-1">
 				<div class="common-heading text-center pl25">
 					<div class="sctxt">Email Marketing</div>
-					<h2 class="text-center">WHY IMPLEMENT <span style="color: #ff0000;">EMAIL MARKETING</span></h2>
+					<h2 class="text-center">Why Implement Email Marketing</span></h2>
 					<p class="text-center">The primary goal of an effective email marketing strategy is to connect with and convert prospects into customers, eventually winning them over as loyal patrons. People across all demographics prefer email over other permission-based advertising which is perhaps why Email marketing has the highest ROI relative to other digital marketing methods used by both B2B and B2C marketers.</p>
 				</div>
 			</div>
@@ -226,16 +226,16 @@
 <section class="service bg-gradient6 py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 block-1 my-auto">
+			<div class="col-lg-8 block-1">
 				<div class="common-heading text-l pl25">
 					<div class="sctxt">Email Design</div>
-					<h2>DIGITROOPERS CUSTOMIZED <span style="color: #ff0000;">EMAIL DESIGN & DELIVERY</span></h2>
+					<h2>DigiTroopers Customized Email Design & Delivery</h2>
 					<p>Our Custom Email Designs are going to give you a definitive edge in the market. Customisation, personalization and device optimization is vital because recipients of your message should continue to derive value from your messages and you should be able to get as much value from their patronage in terms of business growth. Whether you need to send automated responses like kickback emails from lead offers, thank you emails after purchase, promote a new product or service offering or even boost current campaigns; our designs can make the difference and make the call-to-action “pop” driving the results your desire and building the relationships you need.</p>
 				</div>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-4 my-auto">
 				<div class="image-block">
-					<img src="images/services/email-marketing-services.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/email-marketing/customized-email-design.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -255,7 +255,7 @@
 			<div class="col-lg-8 block-1 my-auto">
 				<div class="common-heading text-l pl25">
 					<div class="sctxt">Email Marketing</div>
-					<h2>EMAIL MARKETING <span style="color: #ff0000;">PERFORMANCE MANAGEMENT</span></h2>
+					<h2>Email Marketing Performance Management</span></h2>
 					<p>We are an ROI-focused email marketing services provider obsessed with taking the guesswork out of optimizing targeted email marketing campaigns. This is why let actual data drive our email marketing decisions. We build accurate buyer profiles based on email subscriber actions and perform A/B testing on segmented recipient lists. Some of the metrics we track, analyse and share with our clients are open rates, CTR, link performance, bounce & unsubscribe rates. Our Email marketing performance reporting is transparent, detailed and easy to understand so that you can stay on top of the email marketing game.</p>
 				</div>
 			</div>

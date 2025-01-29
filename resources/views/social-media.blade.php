@@ -13,7 +13,7 @@
                             <i class="fas fa-chevron-right fa-icon"></i>
                         </a>
                     </div>
-                    <p>  +1 (253) 528-4057</p>
+                    <p>+1 (253) 528-4057</p>
                 </div>
             </div>
             <!-- form div -->
@@ -149,7 +149,7 @@
                 <div class="common-heading text-l pl25">
                     <div class="sctxt">Overview</div>
                     <h2>A Social Media Marketing Agency which is zeroed on Social dominance through</h2>
-                    <h3><span style="color: #ff0000;">Active Engagement &amp; Influential Content</span></h3>
+                    <h3>Active Engagement &amp; Influential Content</h3>
                     <p>If you are a start-up with a goal to establish your digital footprint or a fledgling brand geared to take your customer relations to the next level your search for a reliable social media marketing consultant or a full-service social media marketing agency ends here. DigiTroopers is a data-driven <a href="https://digitroopers.com/">social media marketing agency</a> providing strategy and execution for digital marketing on all social media platforms. We are able to blend exceptional creativity and data-informed logic to create phenomenal social media campaigns that deliver measurable results for our clients.</p>
                 </div>
             </div>
@@ -164,7 +164,7 @@
         <div class="row justify-content-center">
             <div class="col-sm-12">
                 <div class="service-desc- text-center">
-                    <h3 class="mb20">HOW WE WORK?</h3>
+                    <h3 class="mb20">How We Work?</h3>
                     <p>With millions of active users social media platforms are a treasure trove potential leads and customers. DigiTroopers advanced social media marketing strategy can help you cut through the competition and reach your desired revenue and ROI targets whether your business model is B2B, B2C or C2C.</p>
                 </div>
             </div>
@@ -235,7 +235,7 @@
             <div class="col-lg-8 block-1">
                 <div class="common-heading text-l pl25">
                     <div class="sctxt">Overview</div>
-                    <h2>SOCIAL MEDIA ADVERTISING SERVICES</h2>
+                    <h2>Social Media Advertising Services</h2>
                     <p>DigiTroopers are determined to be the most affordable social media marketing outfits with <a href="https://digitroopers.com/paid-marketing">Google Ads</a> from among all other social media marketing companies in the market. In order to maximize Return on Ad Spend (ROAS), our social media marketing service pricing is flexible to your needs. Our packages suit all <a href="http://www.marketingteacher.com/marketing-budget/#:~:text=A%20marketing%20budget%20is%20an,cost%20of%20office%20space%20etc.&amp;text=This%20is%20called%20advertising%20or%20marketing%20communications%20research.">marketing budgets</a> and with the help of our in-house graphic designers, copywriters, and ad management experts we ensure that your social advertising campaigns are managed through data-driven decisions providing the highest return on your investment.</p>
                 </div>
             </div>

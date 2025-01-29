@@ -8,7 +8,7 @@
             <div class="col-sm-12 col-md-12 col-lg-6 my-auto">
                 <div class="bread-titlev2">
                     <h5>Be Found, Be Trusted, Be Prominent</h5>
-                    <h2>SEO SERVICES FOR ORGANIC GROWTH</h2>
+                    <h2>SEO Services For Organic Growth</h2>
                     <div data-swiper-parallax="500" class="quote-btn">
                         <a href="#" class="btn-main bg-btn lnk">Get a Free Quote
                             <i class="fas fa-chevron-right fa-icon"></i>
@@ -162,7 +162,7 @@
             <div class="col-lg-8 block-1 my-auto">
                 <div class="common-heading text-l pl25">
                     <div class="sctxt">SEO Services</div>
-                    <h2>DIGITROOPERS SEO SERVICES</h2>
+                    <h2>DigiTroopers SEO Services</h2>
                     <p>In an intensely competitive SEO battlefield, it&#8217;s vital that websites reach out effectively to a precisely targeted demographic. DigiTroopers operates as an integrated SEO agency in a multidisciplinary setting, combining design and novel SEO strategies in response to changing search algorithms.</p>
                     <p>In response to location-specific and voice-based queries on search engines DigiTroopers have fine-tuned long-tail keywords and geo-targeting strategies that ensure that your content and offers reach precise high-intent demographics. Our <a href="https://digitroopers.com/web-design-and-development/">SEO optimized websites</a> quickly attain and organically retain an authoritative position.</p>
                     <p><a href="https://digitroopers.com/">DigiTroopers</a> are happy to offer local SEO services to local businesses at local SEO pricing. We offer affordable SEO packages for small businesses which include many of the elements you would expect from any leading SEO consulting services company or managed service provider.</p>
@@ -180,7 +180,7 @@
             <div class="col-lg-12">
                 <div class="common-heading ptag text-center">
                     <div class="sctxt">Services</div>
-                    <h3>OUR SEO AGENCY HAVE THE BEST SOLUTIONS FOR SEARCH ENGINE OPTIMIZATION</h3>
+                    <h3>Our Seo Agency Have The Best Solutions For Search Engine Optimization</h3>
                 </div>
             </div>
         </div>
@@ -188,7 +188,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4 mt30">
                 <div class="card h-100">
                     <div class="card-body">
-                        <h4>ON-PAGE SEO</h4>
+                        <h4>On-Page SEO</h4>
                         <p>Search engines seek out these tags on a website to “understand” the meaning, relevancy, and intent of any content. On-page SEO is all about managing tags and the keywords or information within, enabling search engines to satisfy a user query. This is very important for top ranking.</p>
                         <p>DigiTroopers On-page SEO Services strive to balance between the demands of search engine algorithms and the information that a website user obtains from clicking on a link. We produce impeccable work, shun keyword stuffing, and dedicate ourselves to quality content that boosts page visibility precisely defining relevancy to the subject.</p>
                     </div>
@@ -197,7 +197,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4 mt30">
                 <div class="card h-100">
                     <div class="card-body">
-                        <h4>OFF-PAGE SEO</h4>
+                        <h4>Off-Page SEO</h4>
                         <p>Off-Page SEO experts at <a href="https://agency.sortlist.com/agency/digitroopers/profile">DigiTroopers</a> create ranking signals that are passed on to search engines. Algorithms run by these search engines track and analyze these signals to determine how helpful, popular, and authoritative a page or website is when compared to millions of others which may be similar.</p>
                         <p>DigiTroopers Off-Page SEO services include backlink profiling, link building, guest posting, and other growth hacking off-page SEO techniques are the secret weapons of inbound marketing. our team engages social influencers and creates local business listing especially suited to small businesses &amp; start-ups.</p>
                     </div>
@@ -206,7 +206,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4 mt30">
                 <div class="card h-100">
                     <div class="card-body">
-                        <h4>TECHNICAL SEO</h4>
+                        <h4>Technical SEO</h4>
                         <p>Technical SEO concerns itself with tweaks to the structure, data, and back-end coding of a page or website. A well managed Technical SEO from the start can provide a website with a definitive advantage over the competition in terms of ranking.</p>
                         <p>DigiTroopers SEO marketing services cater to the requirements of Technical SEO from the get-go. Our professional SEO services focus attention on boosting site speed, data caching, utilizing content distribution networks (CDN), reducing media file sizes, and making websites mobile responsive. All these factors put together to provide the greatest upward push to a website or page rank.</p>
                     </div>
@@ -229,13 +229,13 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="text-l service-desc- pr25">
-                    <h3 class="mb20">LOCAL SEO MARKETING COMPANY FOR LOCAL BUSINESSES</h3>
+                    <h3 class="mb20">Local Seo Marketing Company For Local Businesses</h3>
                     <p>Small local businesses are usually lacking in experience, time, or funds to adequately market themselves online. Resource constraints are reality are typically more conspicuous when it comes to marketing budgets. This is basically why start-ups and small businesses are constantly on the lookout for affordable SEO services to boost their online customer outreach. To such businesses and emerging brands, DigiTroopers are happy to offer local SEO services to local businesses at local SEO pricing. In fact, apart from our fixed price SEO packages, we offer <strong><u>affordable SEO packages for small businesses</u>&nbsp;</strong>which include many of the elements you would expect from any leading SEO consulting services company or managed service provider.</p>
                 </div>
             </div>
             <div class="col-lg-5">
                 <div class="servie-key-points">
-                    <h4>AFFORDABLE SEO SERVICES FOR YOUR BUSINESS</h4>
+                    <h4>Affordable Seo Services For Your Business</h4>
                     <ul class="key-points mt20">
                         <li>Website Audits</li>
                         <li>Keyword Research</li>

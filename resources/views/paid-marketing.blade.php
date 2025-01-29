@@ -66,8 +66,8 @@
 									</div>
 								</div>
 								<div class="form-group mb-2 captchaContainer2" id="captchaContainer" style="display: none;">
-								{!! NoCaptcha::display() !!}
-							</div>
+									{!! NoCaptcha::display() !!}
+								</div>
 								<button type="submit" name="submit" id="form-submit" class="btn-main bg-btn lnk">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
 								<div id="msgSubmit" class="h3 text-center hidden"></div>
 								<div class="clearfix"></div>
@@ -144,7 +144,7 @@
 			<div class="col-lg-12 block-1">
 				<div class="common-heading text-center pl25">
 					<div class="sctxt">Paid Marketing</div>
-					<h2 class="text-center">PAID MARKETING COMPANY THAT PROVIDES ALL SOLUTIONS FOR GOOGLE LEADS</h2>
+					<h2 class="text-center">Paid Marketing Company That Provides All Solutions For Google Leads</h2>
 					<p class="text-center">DigiTroopers is a premier Google Ads Management Agency geared towards providing, search engine marketing & PPC management to get your business the impressions, traffic and leads it needs to outperform the competition. So if you were on the market for a PPC specialist or Google AdWords campaign management services provider your search ends here. Our PPC services are rendered by experts with years of experience in providing Google AdWords PPC management and Google Lead Services to several brands in diverse industries. Just let us now and we will take up your digital advertising goals as our own.</p>
 				</div>
 			</div>
@@ -160,7 +160,7 @@
 			<div class="col-lg-8 block-1">
 				<div class="common-heading text-l pl25">
 					<div class="sctxt">Lead Generation</div>
-					<h2>LEAD GENERATION CAMPAIGNS</h2>
+					<h2>Lead Generation Campaigns</h2>
 					<p>Meticulous planning of lead generation campaigns requires a deep understanding of specific buyers’ persona within a target audience coupled with meticulous keyword research. Only then can unique and compelling Ads can be designed to meet your goals. You can trust <a href="https://agency.sortlist.com/agency/digitroopers/profile">DigiTroopers</a> to to take on the challenge of targeting high quality traffic, generate hot leads for your <a href="https://digitroopers.com/ecommerce">business</a> and watch your conversions explode.</p>
 				</div>
 			</div>
@@ -190,7 +190,7 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt30">
 				<div class="card h-100">
 					<div class="card-body">
-						<h4>SEARCH ADS</h4>
+						<h4>Search Ads</h4>
 						<p>Be prominent on SERPs whenever products or services similar to yours are searched</p>
 					</div>
 				</div>
@@ -198,7 +198,7 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt30">
 				<div class="card h-100">
 					<div class="card-body">
-						<h4>DISPLAY ADS</h4>
+						<h4>Display Ads</h4>
 						<p>Appear in front of your potential customers when they are intently considering a purchase.</p>
 					</div>
 				</div>
@@ -206,7 +206,7 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt30">
 				<div class="card h-100">
 					<div class="card-body">
-						<h4>APP ADS</h4>
+						<h4>App Ads</h4>
 						<p>Call specific actions from users and get them to install your App.</p>
 					</div>
 				</div>
@@ -214,7 +214,7 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt30">
 				<div class="card h-100">
 					<div class="card-body">
-						<h4>RE-MARKETING</h4>
+						<h4>Re-Marketing</h4>
 						<p>Reconnect with existing customers or user’s who are liable to but still haven’t purchased.</p>
 					</div>
 				</div>
@@ -222,7 +222,7 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt30">
 				<div class="card h-100">
 					<div class="card-body">
-						<h4>SHOPPING ADS</h4>
+						<h4>Shopping Ads</h4>
 						<p>High intent users considering a product purchase are ripe for shopping ads</p>
 					</div>
 				</div>
@@ -230,7 +230,7 @@
 			<div class="col-sm-12 col-md-6 col-lg-4 mt30">
 				<div class="card h-100">
 					<div class="card-body">
-						<h4>REWARDED ADS</h4>
+						<h4>Rewarded Ads</h4>
 						<p>Provide an opportunity for users to watch a video or engage with a Playable ad in exchange for a “reward” within your app/website</p>
 					</div>
 				</div>
