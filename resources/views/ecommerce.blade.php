@@ -7,7 +7,7 @@
 			<div class="col-sm-12 col-md-12 col-lg-6 my-auto">
 				<div class="bread-titlev2">
 					<h5>Performance, Flexbility, Scalability, Security</h5>
-					<h2>E-COMMERCE MANAGEMENT SERVICES</h2>
+					<h2>E-ommerce Management Services</h2>
 					<div data-swiper-parallax="500" class="quote-btn">
 						<a href="#" class="btn-main bg-btn lnk">Get a Free Quote
 							<i class="fas fa-chevron-right fa-icon"></i>
@@ -119,6 +119,7 @@
 	</div>
 </div>
 <!--End Hero-->
+
 <!--Start About-->
 <section class="service bg-gradient2 py-5">
 	<div class="container">
@@ -155,7 +156,7 @@
 			<div class="col-lg-8">
 				<div class="common-heading pl25">
 					<div class="sctxt">E-Commerce</div>
-					<h2>E-COMMERCE IS COMPLEX… YOU’LL NEED A CRACK TEAM</h2>
+					<h2>E-Commerce is Complex.. Youll Need a Crack Team</h2>
 					<p>As a full-service eCommerce solutions agency <a href="https://digitroopers.com/">DigiTroopers</a> are single-mindedly devoted to maximizing revenue and minimizing operational risks. Creating exceptional and customized experiences is crucial to winning customers and capturing market share.</p>
 					<p>When the right combination of products and branding comes together, users are highly likely to stay on-site and once they are in the funnel they are more likely to buy. User experience and revenue go hand in hand. When users find shopping difficult or slow they simply move away and conversion opportunities are lost.</p>
 					<p>We provide the complete range of eCommerce Management Services to broaden and protect your customer base and strengthen your presence across all geographies. Rest assured that DigiTroopers are fully equipped to provide the best eCommerce Development Solutions, converting innovative concepts into high-value brands.</p>
@@ -173,7 +174,7 @@
 			<div class="col-lg-12 block-1">
 				<div class="common-heading text-center pl25">
 					<div class="sctxt">E-Commerce</div>
-					<h2>THE DIGITROOPERS ECOMMERCE ADVANTAGE</h2>
+					<h2>The DigiTrooopers E-Commerce Advantage</h2>
 					<p>DigiTroopers are your end-to-end eCommerce partners, able to act as your single point of contact for all tasks related to eCommerce management. Without a professionally developed site, you are placing your bet on a great experience built on weak foundations.</p>
 					<p>This is a recipe for disaster. We have the technical expertise and experience to optimize, tune-up, and secure your eCommerce portal. We offer year-round and round-the-clock services to match the pace of your target market.</p>
 					<p>Our dedicated account managers will be by your side, armed with comprehensive knowledge of all major eCommerce shopping cart platforms including Woo Commerce, Shopify, OpenCart, BigCommerce, Square Space, and also Magento to provide your customers with a seamless online shopping experience including payment solutions to facilitate transactions.</p>
@@ -194,6 +195,7 @@
 	</div>
 </section>
 <!--End About-->
+
 <!--Start Key Points-->
 <section class="service bg-gradient2 py-5">
 	<div class="container">
@@ -201,7 +203,7 @@
 			<div class="col-lg-7">
 				<div class="text-l">
 					<div class="sctxt">E-Commerce</div>
-					<h3 class="mb20">E-COMMERCE PRODUCT INFORMATION & CATALOGUE MANAGEMENT SERVICES</h3>
+					<h3 class="mb20">E-Commerce Product Information and Catalogue Management Services</h3>
 					<p>DigiTroopers provide Product Categorization, Product Data Entry Services, Description Writing, Product updates, and upload services including imaging editing & tagging. Catalogs provide a user-friendly, responsive virtual store-front to conveniently showcase your products or services.</p>
 					<p>Our eCommerce Catalogue Management Services enable the presentation of appropriate product information for marketplaces like Amazon, eBay as well as Facebook Shops, WhatsApp Business, and Google Merchant Center.</p>
 					<p>With DigiTroopers you can be sure that you are poised to scale your business to new heights. We provide economical, fast, and professional online catalog processing services for your e-commerce business enables you to improve revenue as well as profitability by cutting costs. This is particularly valuable for better small business management.</p>
@@ -209,8 +211,8 @@
 			</div>
 			<div class="col-lg-5 block-1 my-auto">
 				<div class="servie-key-Points">
-					<h4>ORDER MANAGEMENT SERVICES</h4>
-					<ul class="key-Points mt20">
+					<h4>Order Management Services</h4>
+					<ul class="key-points mt20">
 						<li>Order Taking</li>
 						<li>Payment Processing</li>
 						<li>Order Tracking & Reporting</li>
@@ -231,13 +233,13 @@
 			<div class="col-lg-8 my-auto">
 				<div class="common-heading text-l pl25">
 					<div class="sctxt">E-Commerce</div>
-					<h2>ECOMMERCE BUSINESS PERFORMANCE MANAGEMENT</h2>
+					<h2>E-Commerce Business Performance Management</h2>
 					<p>We provide accurate data, complete transparency and full access to monitor back-end eCommerce management operations. including online store development, online order fulfilment, service management solutions, E-commerce inventory control, E-commerce marketing solutions, B2B eCommerce solutions, eCommerce Management services not only help to increase a company’s sales but also help to enhance business performance.</p>
 				</div>
 			</div>
 			<div class="col-lg-4">
 				<div class="image-block">
-					<img src="images/services/ecommerce-management.webp" alt="image" class="img-fluid no-shadow" />
+					<img src="images/services/ecommerce/ecommerce-management.webp" alt="image" class="img-fluid no-shadow" />
 				</div>
 			</div>
 		</div>
@@ -252,7 +254,7 @@
 			<div class="col-lg-12">
 				<div class="common-heading text-center pl25">
 					<div class="sctxt">Services</div>
-					<h2>ECOMMERCE MARKETING AND ADVERTISING SERVICES</h2>
+					<h2>E-Commerce Marketing and Advertising Services</h2>
 					<p>As your <a href="https://digitroopers.com/">boutique&nbsp;eCommerce marketing agency</a> of the first choice, DigiTroopers not only aims to delight your brand’s customers with a memorable experience but also make sure that your digital offering is visible and attracting interest. We also offer<a href="https://digitroopers.com/social-media-marketing-services/"> SMM</a>, SEM, PPC, and on-page and off-page SEO services tailored for eCommerce websites and landing pages to drive top-of-funnel traffic to your online offer.</p>
 					<p>As an eCommerce agency, we will offer your customers well-crafted content supported by the top-notch integrated digital marketing strategies. Our compelling, ROAS focussed marketing and CTA centered advertising campaigns, will build your brand and strengthen your positioning, bringing invaluable traffic, and attracting repeat purchase.</p>
 					<p>DigiTroopers also offers Affiliate Marketing, Email Marketing, and re-marketing services. <a href="https://digitroopers.com/contact-us/">Contact us</a> to learn more about how we amplify your web clout.</p>
