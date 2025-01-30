@@ -214,7 +214,7 @@
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="image-block upset bg-shape wow fadeIn"> <img src="images/about/web1.webp" alt="image" class="img-fluid" /> </div>
+				<img src="images/services/website/web-development-services.webp" alt="image" class="img-fluid" />
 			</div>
 		</div>
 	</div>

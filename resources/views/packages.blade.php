@@ -31,38 +31,37 @@
 		<!-- Nav pills -->
 		<ul class="nav nav-pills justify-content-center">
 			<li class="nav-item">
-				<a class="nav-link active" data-toggle="pill" href="#design">Design</a>
+				<a class="nav-link active" data-bs-toggle="pill" href="#design">Design</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#web-development">Web Development</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#web-development">Web Development</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#social-media">Social Media</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#social-media">Social Media</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#seo">SEO</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#seo">SEO</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#email-marketing">Email Marketing</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#email-marketing">Email Marketing</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#paid-marketing">Paid Marketing</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#paid-marketing">Paid Marketing</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#ecommerce">E-Commerce Management</a>
-			</li>
-			<!-- added more tabs -->
-			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#logo-design">Logo Design</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#ecommerce">E-Commerce Management</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#animation">Animation</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#logo-design">Logo Design</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" data-bs-toggle="pill" href="#animation">Animation</a>
 			</li>
 			<!--<li class="nav-item">-->
-			<!--	<a class="nav-link" data-toggle="pill" href="#game-development">Game Development</a>-->
+			<!--	<a class="nav-link" data-bs-toggle="pill" href="#game-development">Game Development</a>-->
 			<!--</li>-->
 			<li class="nav-item">
-				<a class="nav-link" data-toggle="pill" href="#ecommerce-web">E-Commerce Web</a>
+				<a class="nav-link" data-bs-toggle="pill" href="#ecommerce-web">E-Commerce Web</a>
 			</li>
 		</ul>
 
