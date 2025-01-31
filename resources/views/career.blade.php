@@ -34,18 +34,21 @@
 							<h4>Use this form to apply at Digi Troopers, Beyond &amp; Huddle Co-working.</h4>
 							<form action="{{route('applicant')}}" class="mt-3" method="post" enctype="multipart/form-data">
 								@csrf
-								<div class="form-group">
-									<label for="name">Your Full Name: <span class="asterick">*</span></label>
-									<input type="text" name="name" class="form-control" placeholder="" id="name" required> </div>
-								<div class="form-group">
-									<label for="email">Your Email: <span class="asterick">*</span></label>
-									<input type="email" name="email" class="form-control" placeholder="" id="email" required> </div>
-								<div class="form-group">
-									<label for="phone">Phone Number: <span class="asterick">*</span></label>
-									<input type="tel" name="phone" class="form-control" placeholder="" id="phone" required> </div>
-								<div class="form-group">
-									<label for="job">Job Role Applying for:</label>
-									<select name="job" class="custom-select">
+								<div class="mb-3">
+									<label for="name" class="form-label">Your Full Name: <span class="asterick">*</span></label>
+									<input type="text" name="name" class="form-control" placeholder="" id="name" required>
+								</div>
+								<div class="mb-3">
+									<label for="email" class="form-label">Your Email: <span class="asterick">*</span></label>
+									<input type="email" name="email" class="form-control" placeholder="" id="email" required>
+								</div>
+								<div class="mb-3">
+									<label for="phone" class="form-label">Phone Number: <span class="asterick">*</span></label>
+									<input type="tel" name="phone" class="form-control" placeholder="" id="phone" required>
+								</div>
+								<div class="mb-3">
+									<label for="job" class="form-label">Job Role Applying for:</label>
+									<select name="job" class="form-select">
 										<option selected>Select</option>
 										<option value="Graphic Designer">Graphic Designer</option>
 										<option value="Content Writer">Content Writer</option>
@@ -60,8 +63,8 @@
 										<option value="Business Development">Business Development</option>
 									</select>
 								</div>
-								<div class="form-group">
-									<label for="position">Position:</label>
+								<div class="mb-3">
+									<label for="position" class="form-label">Position:</label>
 									<br>
 									<div class="form-check form-check-inline">
 										<input class="form-check-input" type="radio" name="position" id="inlineRadio1" value="Full Time">
@@ -80,12 +83,12 @@
 										<label class="form-check-label" for="inlineRadio3">Remote</label>
 									</div>
 								</div>
-								<div class="custom-file">
-									<p>Attach your CV (Max 1.5MB)</p>
-									<input type="file"  class="custom-file-input" id="customFile" name="filename">
-									<label class="custom-file-label" for="customFile">Choose file</label>
+								<div class="input-group mb-3">
+									<p class="w-100">Attach your CV (Max 1.5MB)</p>
+									<input type="file" class="form-control" id="customFile">
+									<label class="input-group-text" for="customFile">Upload</label>
 								</div>
-								<!-- <div class="form-group form-check">
+								<!-- <div class="mb-3 form-check">
 									<label class="form-check-label">
 										<input class="form-check-input" type="checkbox"> I hereby accept that the data provided by me via this form is collected and stored to process my application </label>
 								</div> -->

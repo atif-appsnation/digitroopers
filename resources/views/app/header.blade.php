@@ -24,7 +24,7 @@
 	<link href="{{asset('css/swiper.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/all.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/manrope.css')}}" rel="stylesheet">
-	<link href="{{asset('css/carousel.css')}}" rel="stylesheet">
+	<!-- <link href="{{asset('css/carousel.css')}}" rel="stylesheet"> -->
 	<link href="{{asset('css/owl.carousel.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/owl.theme.default.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/style.css')}}" rel="stylesheet">

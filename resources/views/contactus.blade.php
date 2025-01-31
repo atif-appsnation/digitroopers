@@ -30,80 +30,30 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 v-center">
-				<div class="common-heading text-l">
-					<!-- <span>Contact Now</span> -->
-					<h2 class="mt0 mb0">Let's Start a Conversation!</h2>
-					<p class="mb60 mt20">We will catch you as early as we receive the message</p>
-				</div>
-				<div class="form-block">
-					{!! NoCaptcha::renderJs() !!}
-
-					<form id="contactForm" action="{{route('leads')}}" method="post" data-toggle="validator" class="shake">
-						@csrf
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" name="name" id="name" placeholder="Enter name" required data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group col-sm-6">
-								<input type="email" name="email" id="email" placeholder="Enter email" required>
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" id="mobile" name="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group col-sm-6">
-								<select name="service" id="Dtype" required>
-									<option value="">Select Service</option>
-									<option value="designing">Designing</option>
-									<option value="development">Development</option>
-									<option value="social-media">Social Media</option>
-									<option value="seo">SEO</option>
-									<option value="email-marketing">Email Marketing</option>
-									<option value="paind-marketing">Paid Marketing</option>
-									<option value="ecommerce-managment">E-Commerce Management</option>
-								</select>
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<input type="text" id="company" name="company" placeholder="Enter company name (optional)" required data-error="">
-							</div>
-							<div class="form-group col-sm-6">
-								<input type="text" id="subject" name="subject" placeholder="Enter subject" required data-error="Please fill Out">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-						<div class="form-group">
-							<textarea id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
-							<div class="help-block with-errors"></div>
-						</div>
-						<div class="form-group mb-2 captchaContainer1" id="captchaContainer" style="display: none;">
-							{!! NoCaptcha::display() !!}
-						</div>
-						<button type="submit" name="submit" id="form-submit" class="btn-main bg-btn lnk">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
-						<div id="msgSubmit" class="h3 text-center hidden"></div>
-						<div class="clearfix"></div>
-					</form>
-				</div>
+				<img src="images/contact-us/contact-us.webp" alt="Contact" class="img-fluid">
 			</div>
-			<div class="col-lg-5 v-center">
+			<div class="col-lg-6 v-center">
 				<div class="contact-details">
 					<div class="contact-card wow fadeIn" data-wow-delay=".2s">
-						<div class="info-card v-center"> <span><i class="fas fa-phone-alt"></i> Phone:</span>
+						<div class="info-card v-center">
+							<span>
+								<i class="fas fa-phone-alt"></i> 
+								Phone:
+							</span>
 							<div class="info-body">
-								<p>Assistance hours: Monday – Friday, 9 am to 5 pm</p> <a href="tel:+12535284057"> +1 (253) 528-4057</a>
+								<p>Assistance hours: Monday – Friday, 9 am to 5 pm</p> 
+								<a href="tel:+12535284057"> +1 (253) 528-4057</a>
 							</div>
 						</div>
 					</div>
 					<div class="email-card mt30 wow fadeIn" data-wow-delay=".5s">
-						<div class="info-card v-center"> <span><i class="fas fa-envelope"></i> Email:</span>
+						<div class="info-card v-center">
+							<span>
+								<i class="fas fa-envelope"></i> Email:
+							</span>
 							<div class="info-body">
-								<p>Our support team will get back to in 24-h during standard business hours.</p> <a href="mailto:info@digitroopers.com">info@digitroopers.com</a>
+								<p>Our support team will get back to in 24-h during standard business hours.</p>
+								<a href="mailto:info@digitroopers.com">info@digitroopers.com</a>
 							</div>
 						</div>
 					</div>

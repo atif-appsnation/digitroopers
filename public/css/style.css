@@ -5938,7 +5938,7 @@ h3 a {
     background: transparent;
 }
 
-.popup-modals .modal-dialog {
+/* .popup-modals .modal-dialog {
     max-width: 600px;
 }
 
@@ -5947,7 +5947,7 @@ h3 a {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 30px;
-}
+} */
 
 
 /**start update 1.7 from here**/

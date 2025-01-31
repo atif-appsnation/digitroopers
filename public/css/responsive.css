@@ -1246,7 +1246,7 @@
 	}
 }
 
-@media (min-width:576px) {
+/* @media (min-width:576px) {
 	.modal-dialog {
 		max-width: 400px;
 		margin: 1.75rem auto;
@@ -1255,7 +1255,7 @@
 	.modal-lg, .modal-xl {
 		max-width: 800px;
 	}
-}
+} */
 
 @media (max-width:580px) {
 	.ftr-brand-pp .btn-main {

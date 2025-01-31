@@ -231,7 +231,7 @@
 			<div class="col-lg-8">
 				<div class="common-heading">
 					<div class="sctxt">Services</div>
-					<h2 class="mb-3 mt-3">THINGS WE ARE BEST IN</h2>
+					<h2 class="mb-3 mt-3">Things We Are Best In</h2>
 					<p>We will be part of the growth of your brand identifying, planning, executing, and measuring all digital activities to achieve all your objectives. We carry out our strategies of Web Designing & Development, Graphic Designing, Search Engine Optimization (SEO), Social Media Marketing (SMM),Pay Per Click (PPC) / Paid marketing , Content Writing, E-Commerce Management and Email Marketing</p>
 				</div>
 			</div>
@@ -341,45 +341,58 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="common-heading text-l">
-					<span>Who We Are</span>
-					<h2 class="mb20"><span class="text-second text-bold">Top Ranked</span> Internet Marketing Company</h2>
+					<div class="sctxt">Who We Are</div>
+					<h2 class="mb20">
+						<span class="text-second text-bold">Top Ranked</span>
+						Internet Marketing Company
+					</h2>
 
 					<p>Being a Top-Notch digital marketing agency we offer all types of digital marketing services. Our Digital Marketing Specialists consistently deliver outstanding results for our clients.DigiTroopers is a world-class Internet Marketing Company for the online marketing and e-commerce needs of well-established brands, small Enterprises, as well as early age startups.Through our services, you can make digital Technologies to deliver exceptional results</p>
 					<div class="itm-media-object mt40 tilt-3d">
 						<div class="media">
-							<div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/computers.svg" alt="icon" class="layer"></div>
+							<div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000">
+								<img src="images/icons/computers.svg" alt="icon" class="layer">
+							</div>
 							<div class="media-body">
 								<h4>Rationalized Project Management</h4>
 								<p>Project planning and management will be as smooth as possible to service and satisfy clients, and their products will be delivered rationally</p>
 							</div>
 						</div>
 						<div class="media mt40">
-							<div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"><img src="images/icons/worker.svg" alt="icon" class="layer"></div>
+							<div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000">
+								<img src="images/icons/worker.svg" alt="icon" class="layer">
+							</div>
 							<div class="media-body">
 								<h4>A Dedicated Team of Experts</h4>
 								<p>A well trained team of Digital Marketing Specialists and with proficient skills in digital marketing and graphic designing brought together to service the clients to serve them with our best</p>
 							</div>
 						</div>
 						<div class="media mt40">
-							<div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000"> <img src="images/icons/deal.svg" alt="icon" class="layer"></div>
+							<div class="img-ab- base" data-tilt data-tilt-max="20" data-tilt-speed="1000">
+								<img src="images/icons/deal.svg" alt="icon" class="layer">
+							</div>
 							<div class="media-body">
 								<h4>Project Completion in Given Time</h4>
 								<p>On-time projects will be delivered within a streamlined project schedule. The project deliverables will always be on time</p>
 							</div>
 						</div>
 						<div class="media mt20">
-							<a href="pdf/company-profile.pdf" class="btn-main bg-btn lnk" target="_blank">Download Company Profile <i class="fas fa-chevron-right fa-icon"></i></a>
+							<a href="pdf/company-profile.pdf" class="btn-main bg-btn lnk" target="_blank">Download Company Profile
+								<i class="fas fa-chevron-right fa-icon"></i>
+							</a>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-6">
-				<div data-tilt data-tilt-max="5" data-tilt-speed="1000" class="single-image wow fadeIn" data-wow-duration="2s"> <a href="#headerPopup" id="headerVideoLink" target="_blank" class=" popup-modal">
-					<img src="images/about/about-company.webp" alt="image" class="w-100"><i class="playbtn fa fa-play-circle"></i></a>
+			<div class="col-lg-6 my-auto">
+				<div data-tilt data-tilt-max="5" data-tilt-speed="1000" class="single-image wow fadeIn">
+					<a data-bs-toggle="modal" data-bs-target="#video" class="popup-modal">
+						<img src="images/about/about-company.webp" alt="image" class="w-100">
+						<i class="playbtn fa fa-play-circle"></i>
+					</a>
 				</div>
 				<p class="text-center mt30">Want to digitize your product? So here you are with the best digital solutions to all your problems related to digital marketing to enhance the marketing of your product</p>
 				<div class="cta-card mt60 text-center">
-
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12">
@@ -612,11 +625,11 @@
 		<div class="row">
 			<div class="col-lg-5 v-center">
 				<div class="common-heading text-l">
-					<span>Clients Testimonial</span>
+					<div class="sctxt">Testimonials</div>
 					<h2 class="mb0">What our clients say about our Company.</h2>
 				</div>
 			</div>
-			<div class="col-lg-7">
+			<div class="col-lg-7 my-auto">
 				<div class="owl-carousel testimonial-card-b pl25">
 					@foreach($testimonial as $items)
 					<div class="t-text">
@@ -747,110 +760,18 @@
 </section>
 <!--End Blogs-->
 
-<!--Start contact-->
-<section class="contact--block bg-gradient1 py-5">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-6">
-				<div class="common-heading text-l text-wt">
-					<h2 class="mb0">Interested in working with us?</h2>
-					<p>LET’S TALK AND GET STARTED</p>
-				</div>
-				<div class="contact-fields">
-					<div class="connect-block mt40">
-						<a href="mailto:info@abcd.com" tabindex="-1">
-							<div class="icon-fld-nx v-center">
-								<i class="fas fa-envelope"></i>
-							</div>
-							<div class="text-fld-nx v-center">
-								<span class="small-text rows">mail to us</span>
-								<span class="large-text rows">info@digitroopers.com</span>
-							</div>
-						</a>
-					</div>
-					<div class="connect-block mt30">
-						<a href="tel:+12535284057" class="transition" tabindex="-1">
-							<div class="icon-fld-nx v-center">
-								<i class="fas fa-phone-alt"></i>
-							</div>
-							<div class="text-fld-nx v-center">
-								<span class="small-text rows">Our contact Number</span>
-								<span class="large-text rows"> +1 (253) 528-4057</span>
-							</div>
-						</a>
-					</div>
-					<div class="text-fieds- mt40">
-						<h4>& What's you will get :</h4>
-						<ul class="list-style- mt10">
-							<li>Excellent Customer Support</li>
-							<li>Project Consulting by Experts</li>
-							<li>On-Time Project Delivery</li>
-						</ul>
-					</div>
-				</div>
+<div class="modal" id="video">
+	<div class="modal-dialog modal-xl modal-dialog-centered">
+		<div class="modal-content">
+			<div class="modal-body">
+				<iframe width="100%" height="600" src="https://www.youtube.com/embed/PMUow6i-DLE?si=4X-TvwYOrPTLKMm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			</div>
-			<!-- form -->
-			<div class="col-lg-6">
-				<div class="contact-form-card-pr contact-block-btm">
-					<div class="form-block">
-					{!! NoCaptcha::renderJs() !!}
-						<form action="{{route('leads')}}" method="post" id="contactForm" data-toggle="validator" class="shake">
-							@csrf
-							<div class="row">
-								<div class="form-group col-sm-6">
-									<input type="text" name="name" id="name" placeholder="Enter name" required data-error="Please fill Out">
-									<div class="help-block with-errors"></div>
-								</div>
-								<div class="form-group col-sm-6">
-									<input type="email" name="email" id="email" placeholder="Enter email" required>
-									<div class="help-block with-errors"></div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="form-group col-sm-6">
-									<input type="text" name="mobile" id="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
-									<div class="help-block with-errors"></div>
-								</div>
-								<div class="form-group col-sm-6">
-									<select name="service" id="Dtype" required>
-										<option value="">Select Service</option>
-										<option value="designing">Designing</option>
-										<option value="development">Development</option>
-										<option value="social-media">Social Media</option>
-										<option value="seo">SEO</option>
-										<option value="email-marketing">Email Marketing</option>
-										<option value="paind-marketing">Paid Marketing</option>
-										<option value="ecommerce-managment">E-Commerce Management</option>
-									</select>
-									<div class="help-block with-errors"></div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="form-group col-sm-6">
-									<input type="text" name="company" id="company" placeholder="Enter company name (optional)" required data-error="">
-								</div>
-								<div class="form-group col-sm-6">
-									<input type="text" name="subject" id="subject" placeholder="Enter subject" required data-error="Please fill Out">
-									<div class="help-block with-errors"></div>
-								</div>
-							</div>
-							<div class="form-group">
-								<textarea id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
-								<div class="help-block with-errors"></div>
-							</div>
-							<div class="form-group mb-2 captchaContainer1" id="captchaContainer" style="display: none;">
-								{!! NoCaptcha::display() !!}
-							</div>
-							<button type="submit" name="submit" id="form-submit" class="btn lnk btn-main bg-btn">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
-							<div id="msgSubmit" class="h3 text-center hidden"></div>
-							<div class="clearfix"></div>
-						</form>
-					</div>
-				</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 			</div>
 		</div>
 	</div>
-</section>
+</div>
 
 
 @endsection
