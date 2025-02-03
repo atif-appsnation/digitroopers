@@ -304,47 +304,71 @@
         <div class="col-lg-12">
             <div class="slider">
                 <div class="slide-track">
-                    <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+					<div class="slide">
+                        <img src="images/technology/bootstrap.webp" height="90" width="90"  alt="Bootstrap" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+                        <img src="images/technology/css3.webp" height="90" width="90"  alt="CSS3" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+                        <img src="images/technology/html5.webp" height="90" width="90"  alt="HTML5" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+                        <img src="images/technology/laravel.webp" height="90" width="90"  alt="Laravel" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+                        <img src="images/technology/php.webp" height="90" width="90"  alt="PHP" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+                        <img src="images/technology/shopify.webp" height="90" width="90"  alt="Shopify" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/wordpress.webp" height="90" width="90"  alt="Wordpress" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/opencart.webp" height="90" width="90"  alt="Opencart" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+                        <img src="images/technology/prestashop.webp" height="90" width="90"  alt="Prestashop" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/jquery.webp" height="90" width="90"  alt="JQuery" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/javascript.webp" height="90" width="90"  alt="JavaScript" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/bootstrap.webp" height="90" width="90"  alt="Bootstrap" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+                        <img src="images/technology/css3.webp" height="90" width="90"  alt="CSS3" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+                        <img src="images/technology/html5.webp" height="90" width="90"  alt="HTML5" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+                        <img src="images/technology/laravel.webp" height="90" width="90"  alt="Laravel" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+                        <img src="images/technology/php.webp" height="90" width="90"  alt="PHP" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+                        <img src="images/technology/shopify.webp" height="90" width="90"  alt="Shopify" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/wordpress.webp" height="90" width="90"  alt="Wordpress" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/opencart.webp" height="90" width="90"  alt="Opencart" />
                     </div>
                     <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+                        <img src="images/technology/prestashop.webp" height="90" width="90"  alt="Prestashop" />
                     </div>
-                    <div class="slide">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+					<div class="slide">
+                        <img src="images/technology/jquery.webp" height="90" width="90"  alt="JQuery" />
+                    </div>
+					<div class="slide">
+                        <img src="images/technology/javascript.webp" height="90" width="90"  alt="JavaScript" />
                     </div>
                 </div>
             </div>
