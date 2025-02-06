@@ -68,7 +68,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-6">
-					<ul class="list-style-">
+					<ul class="list-style">
 						<li>View items available for sale, purchase & rent.</li>
 						<li>User’s dashboard.</li>
 						<li>Customer satisfaction survey system during checkout.</li>
@@ -78,7 +78,7 @@
 					</ul>
 				</div>
 				<div class="col-lg-6">
-					<ul class="list-style-">
+					<ul class="list-style">
 						<li>FAQs Section.</li>
 						<li>Contact Information.</li>
 						<li>Fully Optimized.</li>

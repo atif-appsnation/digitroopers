@@ -34,7 +34,7 @@
 					</div>
 					<div class="text-fieds- mt40">
 						<h4>& What's you will get :</h4>
-						<ul class="list-style- mt10">
+						<ul class="list-style mt10">
 							<li>Excellent Customer Support</li>
 							<li>Project Consulting by Experts</li>
 							<li>On-Time Project Delivery</li>

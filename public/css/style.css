@@ -1627,10 +1627,10 @@ video {
     transform: translateZ(20px);
 }
 
-.statistics {
+/* .statistics {
     align-items: center;
     display: flex;
-}
+} */
 
 .statistics p {
     font-size: 20px;
@@ -1641,8 +1641,8 @@ video {
 
 .statistics span {
     font-size: 45px;
-    font-family: "Poppins", sans-serif;
-    color: #050748;
+    /* font-family: "Poppins", sans-serif;
+    color: #050748; */
     font-weight: 700;
     display: inline-block;
 }
@@ -1659,9 +1659,9 @@ video {
 }
 
 .statnumb {
-    margin: 0 0 0 20px;
-    text-align: left;
-    float: left;
+    /* margin: 0 0 0 20px; */
+    text-align: center;
+    /* float: left; */
 }
 
 .small .statistics-img {
@@ -1701,8 +1701,10 @@ video {
     text-align: center;
     border-radius: 8px;
     background: var(--white-color);
-    -webkit-box-shadow: -30px 30px 60px #f2f2f2, 30px -30px 60px var(--white-color);
-    box-shadow: -30px 30px 60px #f2f2f2, 30px -30px 60px var(--white-color);
+    /* -webkit-box-shadow: -30px 30px 60px #f2f2f2, 30px -30px 60px var(--white-color);
+    box-shadow: -30px 30px 60px #f2f2f2, 30px -30px 60px var(--white-color); */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 
@@ -1944,6 +1946,11 @@ video {
     background-size: contain;
     background-position: center left;
     background-repeat: no-repeat;
+}
+
+.testinomial-section .card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid transparent;
 }
 
 .testimonial-card .t-text p {
@@ -2390,7 +2397,7 @@ video {
 /**scroll to top**/
 
 #scrollUp:hover {
-    opacity: 1;
+    background: url(../images/icons/up-arrow.svg) var(--orange-color);
 }
 
 #scrollUp {
@@ -2401,8 +2408,8 @@ video {
     -webkit-border-radius: 100px;
     border-radius: 100px;
     color: #fff;
-    opacity: 0.4;
-    background: url(../images/icons/up-arrow.svg) #00baff;
+    opacity: 1;
+    background: url(../images/icons/up-arrow.svg) var(--blue-color);
     background-repeat: no-repeat;
     background-size: 15px;
     background-position: center center;
@@ -6426,12 +6433,12 @@ table.border {
     text-transform: uppercase;
 }
 
-.list-style- {
+.list-style {
     padding: 0 0 0 20px;
     text-align: left;
 }
 
-.list-style- li {
+.list-style li {
     line-height: 32px;
     list-style-type: circle;
 }
@@ -8318,7 +8325,7 @@ a.smllbtnn {
 
 .img-wide-blocktt {
     position: relative;
-    right: -80px;
+    /* right: -80px; */
 }
 
 .portfolio-item-info-tt h3 {

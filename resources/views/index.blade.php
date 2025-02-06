@@ -486,52 +486,49 @@
 				<div class="pbwide shadow bg-gradient3">
 					<div class="portfolio-item-info-tt">
 						<div class="logowide mb20">
-							<img src="images/case-study/vero.webp" alt="logo" class="img-fluid">
+							<img src="images/case-studies/travel-agency/travel-agency-blue-logo.webp" alt="logo" class="img-fluid w-50">
 						</div>
-						<h3 class="mt30 mb30">Ride Share</h3>
+						<h3 class="mt30 mb30">Travel Agency</h3>
 						<ul class="info-list-ul">
 							<li>Product Strategy</li>
 							<li>Product UI/UX Design</li>
 							<li>Branding Design</li>
 							<li>Design System</li>
 						</ul>
-						<a href="{{url('/case-studies/ride-share')}}" class="btn-main bg-btn lnk  mt30">View Case Study
+						<a href="{{url('/case-studies/travel-agency')}}" class="btn-main bg-btn lnk  mt30">View Case Study
 							<i class="fas fa-chevron-right fa-icon"></i>
 						</a>
 					</div>
 					<div class="portfolio-wide-image">
 						<div class="img-wide-blocktt tilt-outer">
 							<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-								<div class="desktopblock shadow1"><img src="images/portfolio/rideshare-web.webp" alt="img" class="img-fluid"> </div>
-								<div class="mobileblock shadow1"><img src="images/portfolio/rideshare-app.webp" alt="img" class="img-fluid"> </div>
+								<img src="images/case-studies/travel-agency/travel-agency-mockup-designs-1.webp" alt="img" class="img-fluid">
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-sm-12 wptbb">
-				<div class="pbwide shadow bg-gradient2">
+				<div class="pbwide shadow bg-gradient3">
 					<div class="portfolio-item-info-tt">
 						<div class="logowide mb20">
-							<img src="images/case-study/soccer.webp" alt="logo" class="img-fluid">
+							<img src="images/case-studies/real-estate/real-estate-black-logo.webp" alt="logo" class="img-fluid w-50">
 						</div>
-						<h3 class="mt30 mb30">Flick Soccer</h3>
+						<h3 class="mt30 mb30">Real Estate</h3>
 						<ul class="info-list-ul">
 							<li>Product Strategy</li>
 							<li>Product UI/UX Design</li>
 							<li>Branding Design</li>
 							<li>Design System</li>
 						</ul>
-						<a href="{{url('/case-studies/flick-soccer')}}" class="btn-main bg-btn lnk  mt30">View Case Study
+						<a href="{{url('/case-studies/real-estate')}}" class="btn-main bg-btn lnk mt30">View Case Study
 							<i class="fas fa-chevron-right fa-icon"></i>
-
 						</a>
 					</div>
 					<div class="portfolio-wide-image">
 						<div class="img-wide-blocktt tilt-outer">
 							<div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000" data-tilt-perspective="2000">
-								<div class="desktopblock shadow1"><img src="images/portfolio/soccer-web.webp" alt="img" class="img-fluid"> </div>
-								<div class="mobileblock shadow1"><img src="images/portfolio/soccer-app.webp" alt="img" class="img-fluid"> </div>
+								<img src="images/case-studies/real-estate/real-estate-mockup-designs.webp" alt="img" class="img-fluid">
 							</div>
 						</div>
 					</div>
@@ -630,29 +627,33 @@
 				</div>
 			</div>
 			<div class="col-lg-7 my-auto">
-				<div class="owl-carousel testimonial-card-b pl25">
-					@foreach($testimonial as $items)
-					<div class="t-text">
-						<div class="testimonial-card ps-2">
-							<p>{{$items['title']}}</p>
-							<div class="-client-details- mt20">
-								<div class="reviewer-text">
-									<h4>{{$items['name']}}</h4>
-									<p>{{$items['location']}}</p>
-									<div class="star-rate mt10">
-										<ul>
-											<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-											<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-											<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-											<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-											<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
-										</ul>
+				<div class="card">
+					<div class="card-body">
+						<div class="owl-carousel testimonial-card-b">
+						@foreach($testimonial as $items)
+							<div class="t-text">
+								<div class="testimonial-card ps-2">
+									<p>{{$items['title']}}</p>
+									<div class="-client-details- mt20">
+										<div class="reviewer-text">
+											<h4>{{$items['name']}}</h4>
+											<p>{{$items['location']}}</p>
+											<div class="star-rate mt10">
+												<ul>
+													<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+													<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+													<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+													<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+													<li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star" aria-hidden="true"></i></a> </li>
+												</ul>
+											</div>
+										</div>
 									</div>
 								</div>
 							</div>
+						@endforeach
 						</div>
 					</div>
-					@endforeach
 				</div>
 			</div>
 		</div>

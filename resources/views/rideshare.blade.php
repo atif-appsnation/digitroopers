@@ -79,7 +79,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-6">
-					<ul class="list-style-">
+					<ul class="list-style">
 						<li>User’s dashboard.</li>
 						<li>Responsive Design.</li>
 						<li>Call to Action.</li>
@@ -88,7 +88,7 @@
 					</ul>
 				</div>
 				<div class="col-lg-6">
-					<ul class="list-style-">
+					<ul class="list-style">
 						<li>Contact Information.</li>
 						<li>Fully Optimized.</li>
 						<li>Mobile-Friendly.</li>
