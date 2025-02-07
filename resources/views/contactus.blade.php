@@ -112,11 +112,11 @@
 			</div>
 			<div class="col-lg-4 col-sm-6 shape-loc wow fadeInUp" data-wow-delay=".6s">
 				<div class="office-card mb0">
-					<div class="skyline-img"> <img src="images/location/location3.webp" alt="rome" class="img-fluid" /> </div>
+					<div class="skyline-img"> <img src="images/location/saudi-arabia.webp" alt="Saudi Arabia" class="img-fluid" /> </div>
 					<div class="office-text">
 						<h4>Saudia Arabia</h4>
 						<p>Floor 3, Building 7264, Ibn Al Fourat, Jareer, P.O 12837 Riyadh, Saudi Arabia</p>
-						<a href="https://goo.gl/maps/vjT354qaTv9V7hQz8" target="blank" class="btn-outline">View on Map
+						<a href="https://maps.app.goo.gl/QPLKX2KUZSfuiFqo7" target="blank" class="btn-outline">View on Map
 							<i class="fas fa-chevron-right fa-icon"></i>
 						</a>
 					</div>
