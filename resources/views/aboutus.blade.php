@@ -30,7 +30,7 @@
 				<div class="about-image"> <img src="images/about/about-us-570.webp" alt="about us" class="img-fluid" /> </div>
 			</div>
 			<div class="col-lg-6">
-				<div class="common-heading text-l">
+				<div class="common-heading text-l ">
 					<span>THE BEST WAY TO SUCCESS</span>
 					<h2>NOT JUST WELL-KNOWN…. WE’LL MAKE YOU FAMOUS</h2>
 					<p>DigiTroopers is eager to partner with all kinds of business from those that operate within defined geolocation to those with a multi-location business model. We want our client partners to feel that our content specialists and digital marketing experts are an integrated part of their own team. All our clients must have real-time access and a sound understanding of the reports we create, data we gather, utilize or produce. We will do everything it takes to work transparently while we create awareness and traction for your brand. All marketing campaign data is therefore accessible 24/7 through secure cloud storage or directly from our team during our regular check-in meetings.</p>
@@ -64,16 +64,14 @@
 	</div>
 </section>
 <!--End About-->
-
-<!--Start Why Choose-->
+<!--Start why-choose-->
 <section class="why-choose py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-12">
-				<div class="sctxt">Choose Us</div>
-				<div class="common-heading mt-3">
+			<div class="col-lg-6">
+				<div class="common-heading">
 					<span>We Are Awesome</span>
-					<h2>Why Choose Us</h2>
+					<h2 class="mb30">Why Choose Us</h2>
 				</div>
 			</div>
 		</div>
@@ -135,5 +133,111 @@
 		</div>
 	</div>
 </section>
-<!--End Why Choose-->
+<section class="contact--block bg-gradient1 py-5">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-6">
+				<div class="common-heading text-l text-wt">
+					<h2 class="mb0">Interested in working with us?</h2>
+					<p>LET’S TALK AND GET STARTED</p>
+				</div>
+				<div class="contact-fields">
+					<div class="connect-block mt40">
+						<a href="mailto:info@digitroopers.com" tabindex="-1">
+							<div class="icon-fld-nx v-center">
+								<i class="fas fa-envelope"></i>
+							</div>
+							<div class="text-fld-nx v-center">
+								<span class="small-text rows">mail to us</span>
+								<span class="large-text rows">info@digitroopers.com</span>
+							</div>
+						</a>
+					</div>
+					<div class="connect-block mt30">
+						<a href="tel:12345679" class="transition" tabindex="-1">
+							<div class="icon-fld-nx v-center">
+								<i class="fas fa-phone-alt"></i>
+							</div>
+							<div class="text-fld-nx v-center">
+								<span class="small-text rows">Our contact Number</span>
+								<span class="large-text rows">+1 (253) 528-4057</span>
+								
+							</div>
+						</a>
+					</div>
+					<div class="text-fieds- mt40">
+						<h4>& What's you will get :</h4>
+						<ul class="list-style- mt10">
+							<li>Excellent Customer Support</li>
+							<li>Project Consulting by Experts</li>
+							<li>On-Time Project Delivery</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- form -->
+			<div class="col-lg-6">
+				<div class="contact-form-card-pr contact-block-btm">
+					<div class="form-block">
+					{!! NoCaptcha::renderJs() !!}
+
+						<form action="{{route('leads')}}" method="post" id="contactForm" data-toggle="validator" class="shake">
+							@csrf
+							<div class="row">
+								<div class="form-group col-sm-6">
+									<input type="text" name="name" id="name" placeholder="Enter name" required data-error="Please fill Out">
+									<div class="help-block with-errors"></div>
+								</div>
+								<div class="form-group col-sm-6">
+									<input type="email" name="email" id="email" placeholder="Enter email" required>
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group col-sm-6">
+									<input type="text" name="mobile" id="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
+									<div class="help-block with-errors"></div>
+								</div>
+								<div class="form-group col-sm-6">
+									<select name="service" id="Dtype" required>
+										<option value="">Select Service</option>
+										<option value="designing">Designing</option>
+										<option value="development">Development</option>
+										<option value="social-media">Social Media</option>
+										<option value="seo">SEO</option>
+										<option value="email-marketing">Email Marketing</option>
+										<option value="paind-marketing">Paid Marketing</option>
+										<option value="ecommerce-managment">E-Commerce Management</option>
+									</select>
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group col-sm-6">
+									<input type="text" name="company" id="company" placeholder="Enter company name (optional)" required data-error="">
+								</div>
+								<div class="form-group col-sm-6">
+									<input type="text" name="subject" id="subject" placeholder="Enter subject" required data-error="Please fill Out">
+									<div class="help-block with-errors"></div>
+								</div>
+							</div>
+							<div class="form-group">
+								<textarea id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
+								<div class="help-block with-errors"></div>
+							</div>
+							<div class="form-group mb-2 captchaContainer1" id="captchaContainer" style="display: none;">
+								{!! NoCaptcha::display() !!}
+							</div>
+							<button type="submit" name="submit" id="form-submit" class="btn lnk btn-main bg-btn">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
+							<div id="msgSubmit" class="h3 text-center hidden"></div>
+							<div class="clearfix"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<!--xxxxxxxx-->
+		</div>
+	</div>
+</section>
+<!--End why-choose-->
 @endsection

@@ -21,7 +21,7 @@
 						</span>
 					Partner</h1>
 					<p class="wow fadeIn">DigiTroopers offers top-notch digital marketing services tailored to drive results and elevate your business.</p>
-					<a href="{{url('/contactus')}}" class="btn-main button-arounder lnk">Let's Work Together
+					<a href="{{url('/contact-us')}}" class="btn-main button-arounder lnk">Let's Work Together
 						<i class="fas fa-chevron-right fa-icon"></i>
 						<span class="circle"></span>
 					</a>
@@ -746,40 +746,88 @@
 			</div>
 		</div>
 		<div class="row justify-content-center">
-			@foreach ($data['data'] as $post)
-				<div class="col-lg-4">
-					<div class="single-blog-post- up-hor shdo blogs">
-						<div class="single-blog-img-">
-							<a href="{{ $post['guid'] }}">
-								<img src="https://blog.digitroopers.com/wp-content/uploads/{{ $post['featured_image_url'] }}"
-									alt="{{ $post['post_title'] }}" class="img-fluid">
-
-							</a>
-							<div class="entry-blog-post dg-bg2">
-								<span class="bypost-">
-									<a href="{{ $post['guid'] }}">
-										<i class="fas fa-tag"></i> Digitroopers
-									</a>
-								</span>
-								<span class="posted-on-">
-									<a href="{{ $post['guid'] }}">
-										<i class="fas fa-clock"></i>
-										{{ date('M d, Y', strtotime($post['post_date'])) }}
-									</a>
-								</span>
-							</div>
-						</div>
-						<div class="blog-content-tt">
-							<div class="single-blog-info-">
-								<h4><a href="{{ $post['guid'] }}">{{ $post['post_title'] }}</a></h4>
-							</div>
-							<div class="post-social"> <a class="lnk btn-main bg-btn d-block mx-auto"
-									href="{{ $post['guid'] }}">Read More</a> </div>
+			<div class="col-lg-4">
+				<div class="single-blog-post- up-hor shdo blogs">
+					<div class="single-blog-img-">
+						<a href="{{url('/common-ppc-goal')}}">
+							<img src="images/blog/common-ppc-campaign-goals-and-objectives.webp" alt="blog" class="img-fluid" />
+						</a>
+						<div class="entry-blog-post dg-bg2">
+							<span class="bypost-">
+								<a href="#">
+									<i class="fas fa-tag"></i> Google Ads or PPC
+								</a>
+							</span>
+							<span class="posted-on-">
+								<a href="#">
+									<i class="fas fa-clock"></i> Mar 3, 2021
+								</a>
+							</span>
 						</div>
 					</div>
+					<div class="blog-content-tt">
+						<div class="single-blog-info-">
+							<h4><a href="{{url('/common-ppc-goal')}}">Common PPC Campaign Goals and Objectives That Work</a></h4>
+							<p class="text">I have already touched upon why it is absolutely necessary for every business to set at least one SMART PPC campaign goal in line with its business model.</p>
+						</div>
+						<div class="post-social"> <a class="lnk btn-main bg-btn d-block mx-auto" href="{{url('/common-ppc-goal')}}">Read More</a> </div>
+					</div>
 				</div>
-			@endforeach
-
+			</div>
+			<div class="col-lg-4 blog2">
+				<div class="single-blog-post- up-hor shdo blogs">
+					<div class="single-blog-img-">
+						<a href="{{url('/smart-ppc-goal')}}">
+							<img src="images/blog/ppc.webp" alt="girl" class="img-fluid" />
+						</a>
+						<div class="entry-blog-post dg-bg2">
+							<span class="bypost-">
+								<a href="#">
+									<i class="fas fa-tag"></i> Google Ads or PPC
+								</a>
+							</span>
+							<span class="posted-on-">
+								<a href="#"><i class="fas fa-clock"></i> Mar 1, 2021</a>
+							</span>
+						</div>
+					</div>
+					<div class="blog-content-tt">
+						<div class="single-blog-info-">
+							<h4><a href="{{url('/smart-ppc-goal')}}">How to Set Goals For Your PPC Campaign Smartly & Easily</a></h4>
+							<p class="text">Running PPC campaigns and in particular, running them well can be quite complicated.</p>
+						</div>
+						<div class="post-social"> <a class="lnk btn-main bg-btn d-block mx-auto" href="{{url('/smart-ppc-goal')}}">Read More</a> </div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 blog3">
+				<div class="single-blog-post- up-hor shdo blogs">
+					<div class="single-blog-img-">
+						<a href="{{url('/type-of-ppc')}}">
+							<img src="images/blog/seo.webp" alt="girl" class="img-fluid" />
+						</a>
+						<div class="entry-blog-post dg-bg2">
+							<span class="bypost-">
+								<a href="#">
+									<i class="fas fa-tag"></i> Google Ads or PPC
+								</a>
+							</span>
+							<span class="posted-on-">
+								<a href="#">
+									<i class="fas fa-clock"></i> Feb 24, 2021
+								</a>
+							</span>
+						</div>
+					</div>
+					<div class="blog-content-tt">
+						<div class="single-blog-info-">
+							<h4><a href="{{url('/type-of-ppc')}}">What Types of PPC Ads Are There For Advertising On Google</a></h4>
+							<p class="text">There are various PPC Ad formats that can be deployed to tap into a defined audience.</p>
+						</div>
+						<div class="post-social"> <a class="lnk btn-main bg-btn d-block mx-auto" href="{{url('/type-of-ppc')}}">Read More</a> </div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
@@ -796,7 +844,7 @@
 				</div>
 				<div class="contact-fields">
 					<div class="connect-block mt40">
-						<a href="mailto:info@digitroopers.com" tabindex="-1">
+						<a href="mailto:info@abcd.com" tabindex="-1">
 							<div class="icon-fld-nx v-center">
 								<i class="fas fa-envelope"></i>
 							</div>

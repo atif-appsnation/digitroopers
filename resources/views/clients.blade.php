@@ -28,9 +28,8 @@
 <section class="about-sec classic-bg1 py-5">
 	<div class="container">
 		<div class="row justify-content-center text-center">
-			<div class="col-12">
-				<div class="sctxt">Clients</div>
-				<div class="common-heading mt-3">
+			<div class="col-lg-10">
+				<div class="common-heading">
 					<span>We Are Creative Agency</span>
 					<h1 class="mb30">Clients We Work For</h1>
 				</div>
@@ -39,13 +38,13 @@
 		<div class="row ">
 			<div class="col-lg-12">
 				<div class="clients-logos text-center col-12">
-					<div class="row text-center clearfix">
+					<ul class="row text-center clearfix">
 						@foreach($clients as $items)
-						<div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-2 mb-4">
+						<li class="col-lg-3 col-md-3 col-sm-4 col-6">
 							<div class="brand-logo">
 								<img src="uploads/{{$items['image']}}" alt="{{$items['alt']}}" class="img-fluid">
 							</div>
-						</div>
+						</li>
 						@endforeach
 
 						<!-- <li class="col-lg-3 col-md-3 col-sm-4 col-6">
@@ -118,7 +117,7 @@
 									<img src="images/client/websoft.png" alt="clients" class="img-fluid">
 								</div>
 							</li> -->
-					</div>
+					</ul>
 				</div>
 			</div>
 		</div>

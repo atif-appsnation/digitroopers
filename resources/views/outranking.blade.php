@@ -125,7 +125,7 @@
                     <p>For these reasons, using both PPC and SEO is a good strategy. SEO helps you build up a more presence in search results and PPC can help you in appearing at the top of the results.</p>
 
                     <h2 class="mt30 mb20">Outrank competitors in search with DigiTroopers</h2>
-                    <p>Are you ready to rank your competitor in Google? DigiTroopers can help. We have more than 5 years of Digital Marketing experience and we are here to offer all <a href="https://infestagency.com/digital-marketing-services/">Internet Marketing Services</a>, including <a href="https://digitroopers.com/our-internet-marketing-services/seo-agency/">SEO</a> and <a href="https://digitroopers.com/our-internet-marketing-services/ppc-management-services-or-google-ads/">PPC Management</a>.</p>
+                    <p>Are you ready to rank your competitor in Google? DigiTroopers can help. We have more than 5 years of Digital Marketing experience and we are here to offer all Internet Marketing Services, including SEO and <a href="https://digitroopers.com/our-internet-marketing-services/ppc-management-services-or-google-ads/">PPC Management</a>.</p>
                     <p><strong>For a free consultation and help for implementing your SEO strategy that can outrank your competitors and grow your Business, <a href="https://digitroopers.com/contact-us/">Contact us</a> today.</strong></p>
 
                     <!-- <div class="row">

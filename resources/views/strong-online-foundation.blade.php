@@ -130,7 +130,7 @@
 						
 						<h2 class="mt20 mb20">IMPROVE SEARCH ENGINE RANKING</h2>
 						<p>While social media by itself does not directly increase or improve search engine ranking but it provides numerous indirect benefits.</p>
-						<p>By sending traffic to your website, social media mentions and shares boost your domain authority and increase leads and conversions. <a href="https://www.coursera.org/lecture/search-engine-optimization/introduction-to-search-engine-algorithms-O4vhG" target="_blank" rel="noopener">Search engine algorithms</a> assess these trends positively and automatically <a href="https://digitroopers.com/out-ranking">boost ranking</a>.</p>
+						<p>By sending traffic to your website, social media mentions and shares boost your domain authority and increase leads and conversions. Search engine algorithms assess these trends positively and automatically <a href="https://digitroopers.com/out-ranking">boost ranking</a>.</p>
 						<div class="image-set mt20 mb20"><img src="images/blog/building-a-strong-foundation-for-success.webp" alt="blog images" class="img-fluid d-block mx-auto" /></div>
 
 						<h2 class="mt20 mb20">EMAIL MARKETING</h2>

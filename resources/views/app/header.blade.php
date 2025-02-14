@@ -23,10 +23,10 @@
 	<link href="{{asset('css/plugin.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/swiper.min.css')}}" rel="stylesheet">
 	<link href="{{asset('css/all.min.css')}}" rel="stylesheet">
-	<link href="{{asset('css/manrope.css')}}" rel="stylesheet">
-	<!-- <link href="{{asset('css/carousel.css')}}" rel="stylesheet"> -->
-	<link href="{{asset('css/owl.carousel.min.css')}}" rel="stylesheet">
-	<link href="{{asset('css/owl.theme.default.min.css')}}" rel="stylesheet">
+	<link href="{{asset('css/fonts.css')}}" rel="stylesheet">
+	<link rel="stylesheet" href="{{asset('css/owl.carousel.min.css')}}">
+	<link rel="stylesheet" href="{{asset('css/owl.theme.default.min.css')}}">
+	<link rel="stylesheet" href="{{asset('css/carousel.css')}}">
 	<link href="{{asset('css/style.css')}}" rel="stylesheet">
 	<link href="{{asset('css/responsive.css')}}" rel="stylesheet">
 	<link href="{{asset('css/darkmode.css')}}" rel="stylesheet">
@@ -59,6 +59,19 @@
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 		gtag('config', 'G-Y5E91ZZDGJ');
+	</script>
+	
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Product",
+			"name": "E-Commerce Management Company USA | Digitroopers",
+			"aggregateRating": {
+			  "@type": "AggregateRating",
+			  "ratingValue": "4.9",
+			  "reviewCount": "557"
+			}
+		}
 	</script>
 
 </head>
@@ -356,7 +369,7 @@
 						<a href="{{url('/')}}">Home</a>
 					</li>
 					<li>
-						<a href="{{url('/aboutus')}}">About Us</a>
+						<a href="{{url('/about-us')}}">About Us</a>
 					</li>
 					<li>
 						<a href="#">Services</a>
@@ -394,7 +407,7 @@
 						<a href="{{url('/career')}}">Career</a>
 					</li>
 					<li>
-						<a href="{{url('/ourprocess')}}">Our Process</a>
+						<a href="{{url('/our-process')}}">Our Process</a>
 					</li>
 					<!-- <li>
 						<a href="{{url('/testimonial')}}">Testimonial</a>

@@ -23,81 +23,69 @@
 		</div>
 	</section>
 	<!--End Breadcrumb Area-->
-
 	<!--Start About-->
-	<section class="career py-5 block-1 dark-bg3">
+	<section class="about-agencys py-5 block-1 dark-bg3">
 		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-8">
-					<div class="card">
-						<div class="card-body">
-							<h4>Use this form to apply at Digi Troopers, Beyond &amp; Huddle Co-working.</h4>
-							<form action="{{route('applicant')}}" class="mt-3" method="post" enctype="multipart/form-data">
-								@csrf
-								<div class="mb-3">
-									<label for="name" class="form-label">Your Full Name: <span class="asterick">*</span></label>
-									<input type="text" name="name" class="form-control" placeholder="" id="name" required>
-								</div>
-								<div class="mb-3">
-									<label for="email" class="form-label">Your Email: <span class="asterick">*</span></label>
-									<input type="email" name="email" class="form-control" placeholder="" id="email" required>
-								</div>
-								<div class="mb-3">
-									<label for="phone" class="form-label">Phone Number: <span class="asterick">*</span></label>
-									<input type="tel" name="phone" class="form-control" placeholder="" id="phone" required>
-								</div>
-								<div class="mb-3">
-									<label for="job" class="form-label">Job Role Applying for:</label>
-									<select name="job" class="form-select">
-										<option selected>Select</option>
-										<option value="Graphic Designer">Graphic Designer</option>
-										<option value="Content Writer">Content Writer</option>
-										<option value="Website Developer">Website Developer</option>
-										<option value="SEO Specialist">SEO Specialist</option>
-										<option value="Social Media Manager">Social Media Manager</option>
-										<option value="Ads Specialized">Ads Specialized</option>
-										<option value="Email Marketer">Email Marketer</option>
-										<option value="Project Manager">Project Manager</option>
-										<option value="QA">QA</option>
-										<option value="Accountant">Accountant</option>
-										<option value="Business Development">Business Development</option>
-									</select>
-								</div>
-								<div class="mb-3">
-									<label for="position" class="form-label">Position:</label>
-									<br>
-									<div class="form-check form-check-inline">
-										<input class="form-check-input" type="radio" name="position" id="inlineRadio1" value="Full Time">
-										<label class="form-check-label" for="inlineRadio1">Full Time</label>
-									</div>
-									<div class="form-check form-check-inline">
-										<input class="form-check-input" type="radio" name="position" id="inlineRadio2" value="Part Time">
-										<label class="form-check-label" for="inlineRadio2">Part Time</label>
-									</div>
-									<div class="form-check form-check-inline">
-										<input class="form-check-input" type="radio" name="position" id="inlineRadio3" value="Internship">
-										<label class="form-check-label" for="inlineRadio3">Internship</label>
-									</div>
-									<div class="form-check form-check-inline">
-										<input class="form-check-input" type="radio" name="position" id="inlineRadio3" value="Remote">
-										<label class="form-check-label" for="inlineRadio3">Remote</label>
-									</div>
-								</div>
-								<div class="input-group mb-3">
-									<p class="w-100">Attach your CV (Max 1.5MB)</p>
-									<input type="file" class="form-control" id="customFile">
-									<label class="input-group-text" for="customFile">Upload</label>
-								</div>
-								<!-- <div class="mb-3 form-check">
-									<label class="form-check-label">
-										<input class="form-check-input" type="checkbox"> I hereby accept that the data provided by me via this form is collected and stored to process my application </label>
-								</div> -->
-								<button type="submit" name="submit" class="btn btn-primary btn-main bg-btn2">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
-							</form>
-						</div>
+			<h4>Use this form to apply at Digi Troopers, Beyond &amp; Huddle Co-working.</h4>
+			<form action="{{route('applicant')}}" class="mt-3" method="post" enctype="multipart/form-data">
+				@csrf
+				<div class="form-group">
+					<label for="name">Your Full Name: <span class="asterick">*</span></label>
+					<input type="text" name="name" class="form-control" placeholder="" id="name" required> </div>
+				<div class="form-group">
+					<label for="email">Your Email: <span class="asterick">*</span></label>
+					<input type="email" name="email" class="form-control" placeholder="" id="email" required> </div>
+				<div class="form-group">
+					<label for="phone">Phone Number: <span class="asterick">*</span></label>
+					<input type="tel" name="phone" class="form-control" placeholder="" id="phone" required> </div>
+				<div class="form-group">
+					<label for="job">Job Role Applying for:</label>
+					<select name="job" class="custom-select">
+						<option selected>Select</option>
+						<option value="Graphic Designer">Graphic Designer</option>
+						<option value="Content Writer">Content Writer</option>
+						<option value="Website Developer">Website Developer</option>
+						<option value="SEO Specialist">SEO Specialist</option>
+						<option value="Social Media Manager">Social Media Manager</option>
+						<option value="Ads Specialized">Ads Specialized</option>
+						<option value="Email Marketer">Email Marketer</option>
+						<option value="Project Manager">Project Manager</option>
+						<option value="QA">QA</option>
+						<option value="Accountant">Accountant</option>
+						<option value="Business Development">Business Development</option>
+					</select>
+				</div>
+				<div class="form-group">
+					<label for="position">Position:</label>
+					<br>
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="position" id="inlineRadio1" value="Full Time">
+						<label class="form-check-label" for="inlineRadio1">Full Time</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="position" id="inlineRadio2" value="Part Time">
+						<label class="form-check-label" for="inlineRadio2">Part Time</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="position" id="inlineRadio3" value="Internship">
+						<label class="form-check-label" for="inlineRadio3">Internship</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="position" id="inlineRadio3" value="Remote">
+						<label class="form-check-label" for="inlineRadio3">Remote</label>
 					</div>
 				</div>
-			</div>
+				<div class="custom-file">
+					<p>Attach your CV (Max 1.5MB)</p>
+					<input type="file"  class="custom-file-input" id="customFile" name="filename">
+					<label class="custom-file-label" for="customFile">Choose file</label>
+				</div>
+				<!-- <div class="form-group form-check">
+					<label class="form-check-label">
+						<input class="form-check-input" type="checkbox"> I hereby accept that the data provided by me via this form is collected and stored to process my application </label>
+				</div> -->
+				<button type="submit" name="submit" class="btn btn-primary btn-main bg-btn2">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
+			</form>
 		</div>
 	</section>
 	<!--End About-->
