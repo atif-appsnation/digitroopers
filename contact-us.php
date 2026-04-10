@@ -525,7 +525,7 @@
 											<h3 class="title">Send Message</h3>
 											<p>Please fill out the form below with your details and message, and our team will get back to you as soon as possible.</p>
 										</div>
-										<form class="contact-form form-style-border wow fadeInUp" method="POST" action="send-mail.php" data-wow-delay="0.1s" data-wow-duration="1500ms">
+										<form class="contact-form form-style-border wow fadeInUp" id="contactForm" data-wow-delay="0.1s" data-wow-duration="1500ms">
 											<div class="row">
 												<div class="col-md-6">
 													<input type="text" class="form-control" placeholder="Full Name *" aria-label="Full name" name="full_name">
@@ -553,6 +553,7 @@
 												</div>
 											</div>
 										</form>
+										<div id="responseMessage" class="mt-3"></div>
 									</div>
 								</div>
 							</div>
@@ -821,5 +822,6 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>
+		<script src="assets/js/contact.js"></script>
     </body>
 </html>

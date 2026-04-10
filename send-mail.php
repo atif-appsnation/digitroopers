@@ -1,62 +1,70 @@
 <?php
 
 use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
-// Load .env
-$dotenv = Dotenv\Dotenv::createImmutable('/../');
-$dotenv->load();
-
-if(isset($_POST['submit'])){
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Sanitize input
-    $full_name    = htmlspecialchars($_POST['full_name']);
-    $subject    = htmlspecialchars($_POST['subject']);
-    $email   = htmlspecialchars($_POST['email']);
-    $phone = htmlspecialchars($_POST['phone']);
-    $message = htmlspecialchars($_POST['message']);
+    $full_name = htmlspecialchars($_POST['full_name']);
+    $subject   = htmlspecialchars($_POST['subject']);
+    $email     = htmlspecialchars($_POST['email']);
+    $phone     = htmlspecialchars($_POST['phone']);
+    $message   = htmlspecialchars($_POST['message']);
 
     // Validate email
-    if(!filter_var($email, FILTER_VALIDATE_EMAIL)){
-        die("Invalid email format");
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        echo "Invalid email format";
+        exit;
     }
-
-    alert('Error');
 
     $mail = new PHPMailer(true);
 
     try {
-        // SMTP Config
+        // SMTP Configuration
         $mail->isSMTP();
-        $mail->Host       = $_ENV['MAIL_HOST'];
+        $mail->Host       = 'smtp.hostinger.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = $_ENV['MAIL_USERNAME'];
-        $mail->Password   = $_ENV['MAIL_PASSWORD'];
-        $mail->SMTPSecure = 'ssl';
-        $mail->Port       = $_ENV['MAIL_PORT'];
+        $mail->Username   = 'test@digitroopers.com';
+        $mail->Password   = 'Test@321+-';
 
-        // Email setup
-        $mail->setFrom($_ENV['MAIL_FROM'], $_ENV['MAIL_FROM_NAME']);
-        $mail->addAddress($_ENV['MAIL_FROM']);
-        $mail->addReplyTo($email, $name);
+        $mail->SMTPSecure = 'tls'; // ✅ FIXED
+        $mail->Port       = 587;   // ✅ FIXED
+
+        // ✅ FIXED: Use your domain email as sender
+        $mail->setFrom('test@digitroopers.com', 'Digitroopers');
+
+        // Receiver
+        $mail->addAddress('test@digitroopers.com', 'Digitroopers');
+
+        // ✅ User email as reply-to
+        $mail->addReplyTo($email, $full_name);
 
         $mail->isHTML(false);
         $mail->Subject = $subject;
 
-        $mail->Body = "Name: $full_name\n".
-                      "Email: $email\n\n".
-                      "Phone: $phone\n\n".
-                      "Message:\n$message";
+        $mail->Body = "Name: $full_name\n". 
+                        "Email: $email\n".
+                        "Phone: $phone\n".
+                        "Message:$message";
 
         $mail->send();
-        alert('Error');
-        header("Location: thank-you.php");
+
+        echo "Message Sent Successfully";
         exit;
 
     } catch (Exception $e) {
-        echo "Mailer Error: " . $mail->ErrorInfo;
+        echo json_encode([
+            "status" => "error",
+            "message" => $mail->ErrorInfo
+        ]);
     }
+}
+else {
+    echo json_encode([
+        "status" => "error",
+        "message" => "Invalid request"
+    ]);
 }
