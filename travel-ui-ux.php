@@ -675,6 +675,7 @@
     <script src="assets/vendors/slideshow/jquery.velocity.min.js"></script>
     <script src="assets/vendors/slideshow/jquery.kenburnsy.js"></script>
     <script src="assets/vendors/lenis/lenis.min.js"></script>
+		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
     <!-- Template Scripts (Do not remove)-->
     <script src="assets/js/dark-lightMood.js"></script>
 		<script src="assets/js/dark-lightMood.js"></script>

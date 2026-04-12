@@ -510,143 +510,76 @@
 					<section class="space-ptb overflow-hidden">
 						<div class="container">
 							<div class="row justify-content-between">
-								<div class="col-xxl-5 col-lg-6">
+								<div class="col-12">
 									<div class="section-title mb-0 wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="1500ms">
-										<span class="sub-title">[ Open Positions ]</span>
-										<h2 class="title mb-0  ">Find Your Effective Job Here</h2>
+										<span class="sub-title">[ Careers ]</span>
+										<h2 class="title mb-0">Find Your Effective Job Here</h2>
 									</div>
-								</div>
-								<div class="col-xxl-6 col-lg-6 align-self-end">
-									<p class="p-black mb-0 px-xxl-5 mx-xxl-5 mt-3 mt-lg-0 wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1500ms">Get the oars in the water and start rowing. Execution is the single biggest factor in achievement, the quicker you will get to the goals!</p>
 								</div>
 							</div>
 							<div class="row mt-4 mt-md-5">
 								<div class="col-lg-12">
-									<div class="find-job-wrapper">
-										<div class="find-job-item wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-											<div class="job-title">
-												<h3 class="awards-name">IOS developer</h3>
+									<form class="contact-form form-style-border wow fadeInUp" id="careerForm" data-wow-delay="0.1s" data-wow-duration="1500ms" enctype="multipart/form-data">
+										<div class="row">
+											<div class="col-md-6">
+												<input type="text" class="form-control" placeholder="Full Name *" aria-label="Full name" name="applicant_name">
 											</div>
-											<div class="job-details">
-												<div class="job-image">
-													<img class="img-fluid" src="assets/images/careers/california.webp" alt="california">
+											<div class="col-md-6">
+												<input type="email" class="form-control" placeholder="Email *" aria-label="Email" name="applicant_email">
+											</div>
+											<div class="col-md-6">
+												<input type="tel" class="form-control" placeholder="Phone *" aria-label="Phone" name="applicant_phone" maxlength="11">
+											</div>
+											<div class="col-md-6">
+												<select name="applicant_job" class="form-select">
+													<option selected="">Select</option>
+													<option value="Graphic Designer">Graphic Designer</option>
+													<option value="Content Writer">Content Writer</option>
+													<option value="Website Developer">Website Developer</option>
+													<option value="SEO Specialist">SEO Specialist</option>
+													<option value="Social Media Manager">Social Media Manager</option>
+													<option value="Ads Specialized">Ads Specialized</option>
+													<option value="Email Marketer">Email Marketer</option>
+													<option value="Project Manager">Project Manager</option>
+													<option value="QA">QA</option>
+													<option value="Accountant">Accountant</option>
+													<option value="Business Development">Business Development</option>
+												</select>
+											</div>
+											<div class="col-md-6">
+												<input type="file" class="form-control" accept=".pdf, .doc, .docx" name="cv_file">
+											</div>
+											<div class="col-md-6">
+												<label class="w-100">Positions</label>
+												<div class="form-check form-check-inline">
+													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio1" value="option1">
+													<label class="form-check-label" for="inlineRadio1">Full Time</label>
 												</div>
-												<div class="job-content">
-													<div class="job-time">Full Time</div>
-													<div class="job-location">Location: 
-														<span>California, USA</span>
-													</div>
-													<div class="job-desc">3415 S Sepulveda Blvd, Los Angeles, CA, USA</div>
+												<div class="form-check form-check-inline">
+													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio2" value="option2">
+													<label class="form-check-label" for="inlineRadio2">Part Time</label>
 												</div>
-												<div class="job-action">
-													<a class="btn-arrow btn-apply" href="https://maps.app.goo.gl/G1Uk68oPok5j1zGW6">
-														<span>View on Map</span>
-														<svg width="24px" height="24px" viewBox="0 0 20 20" fill="none" stroke="#ffffff">
-															<path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.343 15.657L15.657 4.343m0 0v9.9m0-9.9h-9.9"></path>
-														</svg>
-													</a>
+												<div class="form-check form-check-inline">
+													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio3" value="option3">
+													<label class="form-check-label" for="inlineRadio3">Internship</label>
+												</div>
+												<div class="form-check form-check-inline">
+													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio4" value="option4">
+													<label class="form-check-label" for="inlineRadio4">Remote</label>
 												</div>
 											</div>
-										</div>
-										<div class="find-job-item wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-											<div class="job-title">
-												<h3 class="awards-name">IOS developer</h3>
-											</div>
-											<div class="job-details">
-												<div class="job-image"><img class="img-fluid" src="assets/images/careers/montana.webp" alt="montana"></div>
-												<div class="job-content">
-													<div class="job-time">Full Time</div>
-													<div class="job-location">Location: 
-														<span>Montana, USA</span>
-													</div>
-													<div class="job-desc">1001 S Main St, Kalispell, MT 59901, USA</div>
-												</div>
-												<div class="job-action">
-													<a class="btn-arrow btn-apply" href="https://maps.app.goo.gl/2j2Him12nJdMgo1K8">
-														<span>View on Map</span>
-														<svg width="24px" height="24px" viewBox="0 0 20 20" fill="none" stroke="#ffffff">
-															<path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.343 15.657L15.657 4.343m0 0v9.9m0-9.9h-9.9"></path>
-														</svg>
-													</a>
-												</div>
-											</div>
-										</div>
-										<div class="find-job-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-											<div class="job-title">
-												<h3 class="awards-name">PHP developer</h3>
-											</div>
-											<div class="job-details">
-												<div class="job-image">
-													<img class="img-fluid" src="assets/images/careers/united-arab-emirates.webp" alt="united-arab-emirates">
-												</div>
-												<div class="job-content">
-													<div class="job-time">Full Time</div>
-													<div class="job-location">Location: 
-														<span>Riyadh, KSA</span>
-													</div>
-													<div class="job-desc">Floor 3, Building 7264, Ibn Al Fourat, Riyadh, KSA</div>
-												</div>
-												<div class="job-action">
-													<a class="btn-arrow btn-apply" href="https://maps.app.goo.gl/23tVJ1EZ1wEmShYv6">
-														<span>Viewn on Map</span>
-														<svg width="24px" height="24px" viewBox="0 0 20 20" fill="none" stroke="#ffffff">
-															<path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.343 15.657L15.657 4.343m0 0v9.9m0-9.9h-9.9"></path>
-														</svg>
-													</a>
-												</div>
+											<div class="col-md-12">
+												<button class="btn" type="submit">Send Message
+													<svg fill="#ffffff" width="18px" height="18px" viewBox="0 0 32 32" version="1.1">
+														<g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+														<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+														<g id="SVGRepo_iconCarrier"><path d="M30.713 16.090c0.009-0.041 0.014-0.087 0.014-0.135 0-0.004-0-0.008-0-0.011v0.001c-0.006-0.184-0.079-0.35-0.196-0.475l0 0-10-10c-0.136-0.135-0.323-0.218-0.529-0.218-0.415 0-0.751 0.336-0.751 0.751 0 0.206 0.083 0.393 0.218 0.528l8.721 8.72h-26.189c-0.414 0-0.75 0.336-0.75 0.75s0.336 0.75 0.75 0.75v0h26.188l-8.72 8.719c-0.136 0.136-0.22 0.324-0.22 0.531 0 0.415 0.336 0.751 0.751 0.751 0.207 0 0.395-0.084 0.531-0.22l10-10.001c0.025-0.026 0.017-0.064 0.038-0.093 0.040-0.052 0.098-0.088 0.124-0.151 0.013-0.050 0.020-0.108 0.020-0.167 0-0.011-0-0.021-0.001-0.032l0 0.002z"></path></g>
+													</svg>
+												</button>
 											</div>
 										</div>
-										<div class="find-job-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-											<div class="job-title">
-												<h3 class="awards-name">PHP developer</h3>
-											</div>
-											<div class="job-details">
-												<div class="job-image">
-													<img class="img-fluid" src="assets/images/careers/saudia-arabia.webp" alt="saudia-arabia">
-												</div>
-												<div class="job-content">
-													<div class="job-time">Full Time</div>
-													<div class="job-location">Location: 
-														<span>Dubai, UAE</span>
-													</div>
-													<div class="job-desc">Level 23, Boulevard Plaza, Downtown Dubai, UAE</div>
-												</div>
-												<div class="job-action">
-													<a class="btn-arrow btn-apply" href="https://maps.app.goo.gl/iWQiQhfEi7Tqq9VP6">
-														<span>View on Map</span>
-														<svg width="24px" height="24px" viewBox="0 0 20 20" fill="none" stroke="#ffffff">
-															<path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.343 15.657L15.657 4.343m0 0v9.9m0-9.9h-9.9"></path>
-														</svg>
-													</a>
-												</div>
-											</div>
-										</div>
-										<div class="find-job-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-											<div class="job-title">
-												<h3 class="awards-name">PHP developer</h3>
-											</div>
-											<div class="job-details">
-												<div class="job-image">
-													<img class="img-fluid" src="assets/images/careers/pakistan.webp" alt="pakistan">
-												</div>
-												<div class="job-content">
-													<div class="job-time">Full Time</div>
-													<div class="job-location">Location:
-														<span>Karachi, PAK</span>
-													</div>
-													<div class="job-desc">Suite # 309, Tariq Centre, Tariq Rd, Karachi, PAK</div>
-												</div>
-												<div class="job-action">
-													<a class="btn-arrow btn-apply" href="https://maps.app.goo.gl/tedFsWHGHSMhCtcF7">
-														<span>View on Map</span>
-														<svg width="24px" height="24px" viewBox="0 0 20 20" fill="none" stroke="#ffffff">
-															<path stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.343 15.657L15.657 4.343m0 0v9.9m0-9.9h-9.9"></path>
-														</svg>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
+									</form>
+									<div id="message" class="mt-3"></div>
 								</div>
 							</div>
 						</div>
@@ -908,7 +841,9 @@
 		<script src="assets/vendors/slideshow/jquery.velocity.min.js"></script>
 		<script src="assets/vendors/slideshow/jquery.kenburnsy.js"></script>
 		<script src="assets/vendors/lenis/lenis.min.js"></script>
+		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>
+		<script src="assets/js/career.js"></script>
 	</body>
 </html>

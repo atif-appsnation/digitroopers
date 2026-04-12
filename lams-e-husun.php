@@ -782,6 +782,7 @@
 		<script src="assets/vendors/slideshow/jquery.velocity.min.js"></script>
 		<script src="assets/vendors/slideshow/jquery.kenburnsy.js"></script>
 		<script src="assets/vendors/lenis/lenis.min.js"></script>
+		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>  
 	</body>
