@@ -47,13 +47,13 @@
 			<header class="header header-sticky">
 				<nav class="navbar navbar-static-top navbar-expand-lg">
 					<div class="container-fluid main-header position-relative">
-						<a class="navbar-brand" href="index">
+						<a class="navbar-brand" href="/">
 							<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
 						</a>
 						<div class="navbar-collapse collapse">
 							<ul class="navbar-nav">
 								<li class="nav-item">
-									<a class="nav-link" href="index">
+									<a class="nav-link" href="/">
 										<span>Home</span>
 									</a>
 								</li>
@@ -238,11 +238,11 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="insight">
+									<a class="nav-link" href="https://blog.digitroopers.com/">
 										<span>Insight</span>
 									</a>
 								</li>
-								<li class="nav-item active">
+								<li class="nav-item">
 									<a class="nav-link" href="contact-us">
 										<span>Contact Us</span>
 									</a>
@@ -290,7 +290,7 @@
 						<nav class="navbar">
 							<ul class="nav navbar-nav">
 								<li class="nav-item">
-									<a class="nav-link" href="index">
+									<a class="nav-link" href="/">
 										<span>Home</span>
 									</a>
 								</li>
@@ -380,7 +380,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="insight">
+									<a class="nav-link" href="https://blog.digitroopers.com/">
 										<span>Insight</span>
 									</a>
 								</li>
@@ -508,9 +508,19 @@
 					<!-- Start Contact Form Section -->
 					<section class="space-medium-pb my-5">
 						<div class="container">
-							<div class="row">
-								<div class="col-12">
-									<h2>Thank you! Your message has been sent.</h2>
+							<div class="row justify-content-center">
+								<div class="col-lg-8">
+									<h2 class="text-center">Thank You</h1>
+									<p class="text-center">We have successfully received your request and Digitroopers will contact you shortly to discuss your requirements. Meanwhile, if you have any questions or concerns, please feel free to give us a call.</p>
+									<div class="mt-4 text-center">
+										<a href="https://new.digitroopers.com" class="btn">Back to Site
+											<svg fill="#ffffff" width="18px" height="18px" viewBox="0 0 32 32" version="1.1">
+												<g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+												<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+												<g id="SVGRepo_iconCarrier"><path d="M30.713 16.090c0.009-0.041 0.014-0.087 0.014-0.135 0-0.004-0-0.008-0-0.011v0.001c-0.006-0.184-0.079-0.35-0.196-0.475l0 0-10-10c-0.136-0.135-0.323-0.218-0.529-0.218-0.415 0-0.751 0.336-0.751 0.751 0 0.206 0.083 0.393 0.218 0.528l8.721 8.72h-26.189c-0.414 0-0.75 0.336-0.75 0.75s0.336 0.75 0.75 0.75v0h26.188l-8.72 8.719c-0.136 0.136-0.22 0.324-0.22 0.531 0 0.415 0.336 0.751 0.751 0.751 0.207 0 0.395-0.084 0.531-0.22l10-10.001c0.025-0.026 0.017-0.064 0.038-0.093 0.040-0.052 0.098-0.088 0.124-0.151 0.013-0.050 0.020-0.108 0.020-0.167 0-0.011-0-0.021-0.001-0.032l0 0.002z"></path></g>
+											</svg>
+										</a>
+									</div>
 								</div>
 							</div>
 						</div>

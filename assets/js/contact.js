@@ -10,7 +10,7 @@ $(document).ready(function() {
                 $('#responseMessage').html(response);
                 $('#contactForm')[0].reset();
                 setTimeout(function() {
-                    window.location.href = 'thank-you.php';
+                    window.location.href = 'thank-you';
                 }, 1000);
             },
             error: function() {

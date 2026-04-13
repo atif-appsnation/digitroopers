@@ -238,7 +238,7 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="insight">
+                                    <a class="nav-link" href="https://blog.digitroopers.com/">
                                         <span>Insight</span>
                                     </a>
                                 </li>
@@ -380,7 +380,7 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="insight">
+                                    <a class="nav-link" href="https://blog.digitroopers.com/">
                                         <span>Insight</span>
                                     </a>
                                 </li>

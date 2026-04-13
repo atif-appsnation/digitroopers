@@ -48,13 +48,13 @@
 			<header class="header header-sticky">
 				<nav class="navbar navbar-static-top navbar-expand-lg">
 					<div class="container-fluid main-header position-relative active">
-						<a class="navbar-brand" href="index">
+						<a class="navbar-brand" href="/">
 							<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
 						</a>
 						<div class="navbar-collapse collapse">
 							<ul class="navbar-nav">
 								<li class="nav-item active">
-									<a class="nav-link" href="index">
+									<a class="nav-link" href="/">
 										<span>Home</span>
 									</a>
 								</li>
@@ -239,7 +239,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="insight">
+									<a class="nav-link" href="https://blog.digitroopers.com/">
 										<span>Insight</span>
 									</a>
 								</li>
@@ -291,7 +291,7 @@
 						<nav class="navbar">
 							<ul class="nav navbar-nav">
 								<li class="nav-item">
-									<a class="nav-link active" href="index">
+									<a class="nav-link active" href="/">
 										<span>Home</span>
 									</a>
 								</li>
@@ -380,7 +380,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="insight">
+									<a class="nav-link" href="https://blog.digitroopers.com/">
 										<span>Insight</span>
 									</a>
 								</li>

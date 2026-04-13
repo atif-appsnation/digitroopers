@@ -49,13 +49,13 @@
 			<header class="header header-sticky">
 				<nav class="navbar navbar-static-top navbar-expand-lg">
 					<div class="container-fluid main-header position-relative">
-						<a class="navbar-brand" href="index">
+						<a class="navbar-brand" href="/">
 							<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
 						</a>
 						<div class="navbar-collapse collapse">
 							<ul class="navbar-nav">
 								<li class="nav-item">
-									<a class="nav-link" href="index">
+									<a class="nav-link" href="/">
 										<span>Home</span>
 									</a>
 								</li>
@@ -240,7 +240,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="insight">
+									<a class="nav-link" href="https://blog.digitroopers.com/">
 										<span>Insight</span>
 									</a>
 								</li>
@@ -292,7 +292,7 @@
 						<nav class="navbar">
 							<ul class="nav navbar-nav">
 								<li class="nav-item">
-									<a class="nav-link" href="index">
+									<a class="nav-link" href="/">
 										<span>Home</span>
 									</a>
 								</li>
@@ -381,7 +381,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="insight">
+									<a class="nav-link" href="https://blog.digitroopers.com/">
 										<span>Insight</span>
 									</a>
 								</li>
@@ -547,24 +547,24 @@
 												</select>
 											</div>
 											<div class="col-md-6">
-												<input type="file" class="form-control" accept=".pdf, .doc, .docx" name="cv_file">
+												<input type="file" class="form-control" accept=".pdf, .doc, .docx" name="applicant_cv">
 											</div>
 											<div class="col-md-6">
 												<label class="w-100">Positions</label>
 												<div class="form-check form-check-inline">
-													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio1" value="option1">
+													<input class="form-check-input" type="radio" name="applicant_position" id="inlineRadio1" value="Full Time">
 													<label class="form-check-label" for="inlineRadio1">Full Time</label>
 												</div>
 												<div class="form-check form-check-inline">
-													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio2" value="option2">
+													<input class="form-check-input" type="radio" name="applicant_position" id="inlineRadio2" value="Part Time">
 													<label class="form-check-label" for="inlineRadio2">Part Time</label>
 												</div>
 												<div class="form-check form-check-inline">
-													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio3" value="option3">
+													<input class="form-check-input" type="radio" name="applicant_position" id="inlineRadio3" value="Internship">
 													<label class="form-check-label" for="inlineRadio3">Internship</label>
 												</div>
 												<div class="form-check form-check-inline">
-													<input class="form-check-input" type="radio" name="applicant_cv" id="inlineRadio4" value="option4">
+													<input class="form-check-input" type="radio" name="applicant_position" id="inlineRadio4" value="Remote">
 													<label class="form-check-label" for="inlineRadio4">Remote</label>
 												</div>
 											</div>
