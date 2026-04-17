@@ -31,7 +31,7 @@
         <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/themes.css">
-        <link rel="stylesheet" href="assets/css/responsive2.css">
+        <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
     </head>
 
@@ -948,6 +948,19 @@
 					</section>
 					<!-- End Our Testimonial -->
 
+					<!-- Start Blogs -->
+					<section class="space-ptb">
+						<div class="container">
+							<div class="row">
+								<h3 class="text-primary my-4">[ Our Blogs ]</h3>
+								<div class="col-md-12">
+									<div id="blogs" data-category="92" class="row"> </div>
+								</div>
+							</div>
+						</div>
+					</section>
+					<!-- End Blogs -->
+
 					<!-- Start Contact Us -->
 					<section>
 						<div class="space-ptb rounded-section bg-dark">
@@ -1238,6 +1251,6 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
         <script src="assets/js/themes.js"></script>
         <script src="assets/js/custom.js"></script>
-        
+        <script src="assets/js/blogs.js"></script>
     </body>
 </html>

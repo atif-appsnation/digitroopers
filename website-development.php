@@ -31,7 +31,7 @@
         <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/themes.css">
-        <link rel="stylesheet" href="assets/css/responsive2.css">
+        <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
     </head>
 
@@ -1203,7 +1203,7 @@
 							<div class="row">
 								<h3 class="text-primary my-4">[ Our Blogs ]</h3>
 								<div class="col-md-12">
-									<div id="blogs" class="blogs blog-grid grid-wrapper grid-xl-3 grid-lg-3 grid-md-2 grid-sm-2 grid-xs-1 text-black"> </div>
+									<div id="blogs" data-category="web-app" class="blogs blog-grid grid-wrapper grid-xl-3 grid-lg-3 grid-md-2 grid-sm-2 grid-xs-1 text-black"> </div>
 								</div>
 							</div>
 						</div>
@@ -1579,53 +1579,6 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>
-		<script>
-			const blogsContainer = document.getElementById('blogs');
-			const BASE_API = 'https://blog.appsnation.co/api/get-blogs-api?category=web-app';
-			const PROXY = 'https://corsproxy.io/?';
-			const proxiedUrl = PROXY + encodeURIComponent(BASE_API);
-			fetch(proxiedUrl).then(res => {
-				if(!res.ok) throw new Error("Failed to fetch");
-				return res.json();
-			}).then(response => {
-				blogsContainer.innerHTML = '';
-				const blogs = response.data;
-				if(!Array.isArray(blogs) || blogs.length === 0) {
-					blogsContainer.innerHTML = '<p class="error">No blogs found.</p>';
-					return;
-				}
-				blogs.forEach(blog => {
-					const blogDiv = document.createElement('div');
-					blogDiv.className = 'blog';
-					const imageUrl = `https://blog.appsnation.co/wp-content/uploads/${blog.featured_image_url}`;
-					blogDiv.innerHTML = `
-						<div class="blog-post blog-style-02 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-							<div class="blog-post-img">
-								<img class="img-fluid" src="${imageUrl}" alt="blogs">
-								<div class="blog-post-category">
-									<div class="post-meta-category">
-										<a href="#" rel="category tag">Marketing</a>
-									</div>
-								</div>
-							</div>
-							<div class="blog-post-info ">
-								<h4 class="post-title">
-									<a href="${blog.guid}">${blog.post_title}</a>
-								</h4>
-								<div class="post-meta">
-									<ul>
-										<li class="post-meta-date ">${blog.post_date}</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						`;
-					blogsContainer.appendChild(blogDiv);
-				});
-			}).catch(err => {
-				console.error(err);
-				blogsContainer.innerHTML = '<p class="error">❌ Failed to load blogs. Please try again later.</p>';
-			});
-		</script>
+		<script src="assets/js/blogs.js"></script>
 	</body>
 </html>

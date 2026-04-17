@@ -581,14 +581,14 @@ blockquote.blockquote-style-1 cite, blockquote.blockquote-style-1 p + p {
 /* Ellipse Shep */
 /*------------------------------*/
 .ellipse-top {
-	background-image: url(3591cc4a5edba61f0e96.png);
+	background-image: url(../images/3591cc4a5edba61f0e96.png);
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: auto;
 }
 
 .ellipse-bottom {
-	background-image: url(22802f06a84d019cb83f.png);
+	background-image: url(../images/22802f06a84d019cb83f.png);
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-size: auto;
@@ -1281,7 +1281,7 @@ section:has(.rounded-section) {
 	top: 0;
 	left: 0;
 	opacity: 0.4;
-	background-image: url(5aa8212cb5be288a5068.png);
+	background-image: url(../images/5aa8212cb5be288a5068.png);
 	border-radius: 10px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -5866,7 +5866,7 @@ body:has(#search.open):before {
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-image: url(57d5736aac07a4bccff1.png);
+	background-image: url(../images/57d5736aac07a4bccff1.png);
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	opacity: 0.2;
@@ -7877,17 +7877,17 @@ body:has(#search.open):before {
 	/* display: flex;
 	align-items: center;
 	justify-content: center; */
-	width: 300px;
+	/* width: 300px; */
 	/* height: 390px; */
-	background-color: white;
+	/* background-color: white;
 	border: 2px solid #aaa;
-	border-radius: 1rem;
+	border-radius: 1rem; */
 	/* box-shadow: 0 2px 0 2px #0002, 0 0 0 3px #0000; */
-	font-size: 0.9rem;
+	/* font-size: 0.9rem;
 	text-align: center;
 	user-select: none;
 	overflow: hidden;
-	transition: border 0.667s, box-shadow 0.333s;
+	transition: border 0.667s, box-shadow 0.333s; */
 }
 
 /* .card img {
@@ -8559,4 +8559,12 @@ body:has(#search.open):before {
     line-height: 30px;
 	background-color: transparent;
 	border: 1px solid rgba(0, 0, 0, 0.619);
+}
+
+.dropdown-menu {
+	border: 1px solid transparent !important;
+}
+
+.blog-card img {
+	border-radius: 0.375rem 0.375rem 0 0;
 }
