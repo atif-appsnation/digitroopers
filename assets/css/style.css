@@ -12,8 +12,8 @@ body {
 	font-family: var(--font-family);
 	font-weight: normal;
 	font-style: normal;
-	font-size: 18px;
-	line-height: 30px;
+	font-size: 16px;
+	line-height: 20px;
 	overflow-x: hidden;
 	background-color: var(--bg-color)
 }
@@ -1212,7 +1212,7 @@ section:has(.rounded-section) {
 }
 
 .action-box .action-box-content .counter .counter-number .timer {
-	color: white;
+	color: var(--white-color);
 	font-size: 54px;
 	line-height: 74px;
 	margin-bottom: 10px;
@@ -1515,16 +1515,15 @@ section:has(.rounded-section) {
 	color: var(--primary-color);
 }
 
-/*****************************
-	Services
-*****************************/
+/** Services **/
+
 /* Service Style 1 */
 .service-item {
 	position: relative;
 	margin: 0;
 	padding: 60px 40px;
 	background: var(--white-color);
-	border: 1px solid rgba(131, 131, 131, 0.25);
+	/* border: 1px solid rgba(131, 131, 131, 0.25); */
 	border-radius: 20px;
 	height: 105%;
 	transition: all 0.3s ease-in-out;
@@ -2260,7 +2259,7 @@ section:has(.rounded-section) {
 .counter .counter-info .counter-title {
 	padding: 10px;
 	display: inline-block;
-	color: black;
+	color: var(--black-color);
 	font-family: var(--font-family);
 	font-size: 20px;
 	line-height: 28px;
@@ -4386,7 +4385,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 .video-wrapper .video-content .video-title {
-	color: white;
+	color: var(--white-color);
 	margin-bottom: 0;
 	display: -webkit-box;
 	-webkit-line-clamp: 3;
@@ -4395,7 +4394,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 .video-wrapper .video-content p {
-	color: white;
+	color: var(--white-color);
 	margin-bottom: 0;
 	display: -webkit-box;
 	-webkit-line-clamp: 3;
@@ -5430,7 +5429,7 @@ header.header.header-sticky.is-sticky .navbar .navbar-brand img.sticky {
 /* Responsive CSS */
 
 .main-banner-1 .banner-content .title {
-	color: white;
+	color: var(--white-color);
 }
 
 /* Layout */
@@ -6364,7 +6363,7 @@ body:has(#search.open):before {
 }
 
 .blog-post .blog-post-info .post-title a {
-	color: black;
+	color: var(--black-color);
 	text-decoration: none;
 }
 
@@ -6514,7 +6513,7 @@ body:has(#search.open):before {
 }
 
 .post-social.widget-social ul.social-icon li a.social-share i {
-	color: black;
+	color: var(--black-color);
 }
 
 .blog-standard .blog-post-img {
@@ -7270,7 +7269,7 @@ body:has(#search.open):before {
 }
 
 .qty input:disabled {
-	background-color: white;
+	background-color: var(--white-color);
 }
 
 /*commentlist*/
@@ -7835,7 +7834,7 @@ body:has(#search.open):before {
 	box-shadow: 0 0 0 0.25rem rgba(35, 164, 85, 0.25);
 }
 
-/*==================================== bages =====================================*/
+/** Badges **/
 .carousel {
 	display: flex;
 	gap: 1rem;
@@ -7879,7 +7878,7 @@ body:has(#search.open):before {
 	justify-content: center; */
 	/* width: 300px; */
 	/* height: 390px; */
-	/* background-color: white;
+	/* background-color: var(--white-color);
 	border: 2px solid #aaa;
 	border-radius: 1rem; */
 	/* box-shadow: 0 2px 0 2px #0002, 0 0 0 3px #0000; */
@@ -7888,6 +7887,8 @@ body:has(#search.open):before {
 	user-select: none;
 	overflow: hidden;
 	transition: border 0.667s, box-shadow 0.333s; */
+	border: 1px solid transparent;
+	border-radius: 10px;
 }
 
 /* .card img {
@@ -7902,7 +7903,7 @@ body:has(#search.open):before {
 }
 
 .card .content p {
-	color: black;
+	color: var(--black-color);
 }
 
 /* .card:hover,
@@ -7918,9 +7919,7 @@ body:has(#search.open):before {
 /*==================================== bages =====================================*/
 
 
-/*****************************
-	Technologies & Platforms
-*****************************/
+/** Technologies & Platforms **/
 
 
 .tech-container {
@@ -7954,7 +7953,6 @@ body:has(#search.open):before {
 	line-height: 1.6;
 }
 
-        /* GRID LAYOUT */
 .tech-grid {
 	display: grid;
 	grid-template-columns: repeat(5, 1fr);
@@ -7962,8 +7960,8 @@ body:has(#search.open):before {
 }
 
 .tech-card {
-	background-color: white;
-	border: 1px solid #333333;
+	background-color: var(--white-color);
+	/* border: 1px solid #333333; */
 	border-radius: 12px;
 	padding: 25px;
 	display: flex;
@@ -7973,7 +7971,7 @@ body:has(#search.open):before {
 
 .tech-card:hover {
 	transform: translateY(-5px);
-	box-shadow: 0 0 15px black;
+	box-shadow: 0 0 15px var(--black-color);
 }
 
 .tech-card-header {
@@ -7986,14 +7984,14 @@ body:has(#search.open):before {
 
 .tech-card-header i {
 	font-size: 24px;
-	color: black;
+	color: var(--black-color);
 	margin-right: 15px;
 }
 
 .tech-card-header h3 {
 	font-size: 1.4em;
 	font-weight: 600;
-	color: black;
+	color: var(--black-color);
 	margin: 0;
 }
 
@@ -8017,14 +8015,14 @@ body:has(#search.open):before {
 }
 
 .tech-item:hover {
-	background-color: #000000;
+	background-color: var(--black-color);
 	cursor: pointer;
 	transform: translateY(-6px);
-	box-shadow: 0 0 20px rgba(255, 215, 0, 0.25);
+	/* box-shadow: 0 0 20px rgba(255, 215, 0, 0.25); */
 }
 
 .tech-item:hover  span {
-	color: white;
+	color: var(--white-color);
 	transition: all ease-in-out;
 }
 
@@ -8037,7 +8035,7 @@ body:has(#search.open):before {
 
 .tech-item span {
 	font-size: 1.05em;
-	color: black;
+	color: var(--black-color);
 	font-weight: 400;
 }
 
@@ -8084,7 +8082,7 @@ body:has(#search.open):before {
 }
 
 .site-footer .widget-menu .widget-title {
-	color: black;
+	color: var(--black-color);
 	margin-bottom: 25px;
 }
 
@@ -8346,7 +8344,7 @@ body:has(#search.open):before {
 }
 
 .widget-menu ul li a {
-	color: black;
+	color: var(--black-color);
 }
 
 .widget-menu ul li a:hover {
@@ -8510,10 +8508,6 @@ body:has(#search.open):before {
 
 .awards-slider h5 {
 	font-size: 22px;
-}
-
-.awards-slider p {
-	line-height: 1.2;
 }
 
 /* .nx-dropdown {

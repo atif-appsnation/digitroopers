@@ -26,7 +26,6 @@
 		<link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/vendors/lenis/lenis.css">
 		<link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css">
-		<link rel="stylesheet" href="assets/vendors/animate/animate.min.css">
 		<link rel="stylesheet" href="assets/vendors/magnific-popup/magnific-popup.css">
 		<link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
 		<link rel="stylesheet" href="assets/css/style.css">
@@ -36,7 +35,6 @@
 	</head>	
 
 	<body>
-
 		<!-- Start Cursor -->
 		<div id="cursor">
 			<div class="cursor__circle"></div>
@@ -49,7 +47,7 @@
 				<nav class="navbar navbar-static-top navbar-expand-lg">
 					<div class="container-fluid main-header position-relative active">
 						<a class="navbar-brand" href="/">
-							<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
+							<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
 						</a>
 						<div class="navbar-collapse collapse">
 							<ul class="navbar-nav">
@@ -558,46 +556,46 @@
 										<div class="client-logos">
 											<div class="owl-carousel client-logo-slider" data-cursor-type="arrow" data-nav-dots="false" data-nav-arrow="false" data-items="6" data-lg-items="5" data-md-items="4" data-sm-items="3" data-xs-items="3" data-xx-items="2" data-space="82" data-autoheight="true">
 												<div class="item">
-													<img class="img-fluid" src="assets/images/client-logo/client-1.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-1.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid" src="assets/images/client-logo/client-2.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-2.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-3.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-3.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-4.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-4.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-5.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-5.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-6.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-6.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-7.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-7.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-8.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-8.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-9.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-9.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-10.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-10.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-11.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-11.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-12.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-12.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-13.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-13.webp" alt="Client Logo" loading="lazy">
 												</div>
 												<div class="item">
-													<img class="img-fluid"  src="assets/images/client-logo/client-14.webp" alt="Client Logo">
+													<img class="img-fluid" src="assets/images/client-logo/client-14.webp" alt="Client Logo" loading="lazy">
 												</div>
 											</div>
 										</div>
@@ -620,7 +618,7 @@
 										</div>
 										<div class="row">
 											<div class="col-md-4">
-												<img class="img-fluid radius-20 wow pgsLeftToRight" src="assets/images/about-us/about-01.webp" alt="3D illustration of a computer screen with pie and bar charts, surrounded by heart, calendar, megaphone, and arrows for marketing.">
+												<img class="img-fluid radius-20 wow pgsLeftToRight" src="assets/images/about-us/about-01.webp" alt="About Us" loading="lazy">
 											</div>
 											<div class="col-md-8 mt-4 mt-sm-0">
 												<div class="mb-4 pb-0 pb-md-3 wow fadeInUp" data-swiper-animation="fadeInUp" data-duration="0.1s" data-delay="0.25s">
@@ -710,7 +708,7 @@
 								</div>
 								<div class="col-lg-5">
 									<div class="about-img ps-xl-5">
-										<img class="img-fluid radius-20 wow pgsRightToLeft" src="assets/images/about-us/about-02.webp" alt="A woman in glasses and a red blouse smiles at her desk with an open book, red mug, and pens — representing Leading Digital success.">
+										<img class="img-fluid radius-20 wow pgsRightToLeft" src="assets/images/about-us/about-02.webp" alt="About Us" loading="lazy">
 									</div>
 								</div>
 							</div>
@@ -954,7 +952,7 @@
 					</div>
 					<!-- End Marquee --> 
 
-					<!-- Start  Video section -->
+					<!-- Start Video section -->
 					<section>
 						<div class="container">
 							<div class="row">
@@ -987,8 +985,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-1.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>Upcity.com names AppsNation as a top mobile app company</h5>
+														<img src="assets/images/badges/badge-1.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>Upcity.com names AppsNation as a top mobile app company</h6>
 														<p>AppsNation - a leader in mobile app development</p>
 													</div>
 												</div>
@@ -998,8 +996,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-2.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>AppsNation named among top mobile app development companies </h5>
+														<img src="assets/images/badges/badge-2.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>AppsNation named among top mobile app development companies </h6>
 														<p>Top app firm listed AppsNation in top mobile app development companies</p>
 													</div>
 												</div>
@@ -1009,8 +1007,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-3.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>Top iOS App Development Company in the US</h5>
+														<img src="assets/images/badges/badge-3.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>Top iOS App Development Company in the US</h6>
 														<p>AppsNation among 30 top iOS app developers in USA 2021</p>
 													</div>
 												</div>
@@ -1020,8 +1018,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-4.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>AppsNation Named Among Top Software Companies </h5>
+														<img src="assets/images/badges/badge-4.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>AppsNation Named Among Top Software Companies</h6>
 														<p>A leading software company in sept 2021</p>
 													</div>
 												</div>
@@ -1031,8 +1029,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-5.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>App Development Companies 2021</h5>
+														<img src="assets/images/badges/badge-5.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>App Development Companies 2021</h6>
 														<p>Top mobile app development companies in Florida</p>
 													</div>
 												</div>
@@ -1042,8 +1040,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-6.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>Top mobile app development company in Saudi Arabia</h5>
+														<img src="assets/images/badges/badge-6.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>Top mobile app development company in Saudi Arabia</h6>
 														<p>Top mobile app development company in Saudi Arabia</p>
 													</div>
 												</div>
@@ -1053,8 +1051,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-7.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>App Development Companies 2021</h5>
+														<img src="assets/images/badges/badge-7.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>App Development Companies 2021</h6>
 														<p>Top mobile app development companies in Florida</p>
 													</div>
 												</div>
@@ -1064,8 +1062,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-8.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5> Top mobile app development company in Saudi Arabia</h5>
+														<img src="assets/images/badges/badge-8.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>Top mobile app development company in Saudi Arabia</h6>
 														<p>Top mobile app development company in Saudi Arabia</p>
 													</div>
 												</div>
@@ -1075,8 +1073,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-9.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5> Top Website design Agencies</h5>
+														<img src="assets/images/badges/badge-9.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6> Top Website design Agencies</h6>
 														<p>Best Website Design Agency Award</p>
 													</div>
 												</div>
@@ -1086,8 +1084,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-10.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5> Top AR/VR Development Company</h5>
+														<img src="assets/images/badges/badge-10.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6> Top AR/VR Development Company</h6>
 														<p> AppsNation | Top AR/VR Development Company In Saudi Arabia</p>
 													</div>
 												</div>
@@ -1097,8 +1095,8 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-11.webp" class="img-fluid" width="auto" height="auto" alt="Badges">
-														<h5>AppsNation among top 8 software development companies </h5>
+														<img src="assets/images/badges/badge-11.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
+														<h6>AppsNation among top 8 software development companies</h6>
 														<p>Expertise lists AppsNation as top software development company</p>
 													</div>
 												</div>
@@ -1144,23 +1142,23 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/dotnet.webp" alt=".Net">
+										<img src="assets/images/tech/dotnet.webp" alt=".Net" loading="lazy">
 										<span>.Net</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/node.webp" alt="Node.js">
+										<img src="assets/images/tech/node.webp" alt="Node.js" loading="lazy">
 										<span>Node.js</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/php.webp" alt="PHP">
+										<img src="assets/images/tech/php.webp" alt="PHP" loading="lazy">
 										<span>PHP</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/python.webp" alt="Python">
+										<img src="assets/images/tech/python.webp" alt="Python" loading="lazy">
 										<span>Python</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/express.webp" alt="Express">
+										<img src="assets/images/tech/express.webp" alt="Express" loading="lazy">
 										<span>Express</span>
 									</div>
 								</div>
@@ -1174,27 +1172,27 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/android.webp" alt="Android">
+										<img src="assets/images/tech/android.webp" alt="Android" loading="lazy">
 										<span>Android</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/ios.webp" alt="iOS">
+										<img src="assets/images/tech/ios.webp" alt="iOS" loading="lazy">
 										<span>iOS</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/swift.webp" alt="Swift">
+										<img src="assets/images/tech/swift.webp" alt="Swift" loading="lazy">
 										<span>Swift</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/flutter.webp" alt="Flutter">
+										<img src="assets/images/tech/flutter.webp" alt="Flutter" loading="lazy">
 										<span>Flutter</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/ionic.webp" alt="Ionic">
+										<img src="assets/images/tech/ionic.webp" alt="Ionic" loading="lazy">
 										<span>Ionic</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/react.webp" alt="React Native">
+										<img src="assets/images/tech/react.webp" alt="React Native" loading="lazy">
 										<span>React Native</span>
 									</div>
 								</div>
@@ -1208,23 +1206,23 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/laravel.webp" alt="Laravel">
+										<img src="assets/images/tech/laravel.webp" alt="Laravel" loading="lazy">
 										<span>Laravel</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/codeigniter.webp" alt="CodeIgniter">
+										<img src="assets/images/tech/codeigniter.webp" alt="CodeIgniter" loading="lazy">
 										<span>CodeIgniter</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/mean.webp" alt="MEAN">
+										<img src="assets/images/tech/mean.webp" alt="MEAN" loading="lazy">
 										<span>MEAN</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/cakephp.webp" alt="CakePHP">
+										<img src="assets/images/tech/cakephp.webp" alt="CakePHP" loading="lazy">
 										<span>CakePHP</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/django.webp" alt="Django">
+										<img src="assets/images/tech/django.webp" alt="Django" loading="lazy">
 										<span>Django</span>
 									</div>
 								</div>
@@ -1238,23 +1236,23 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/sql-server.webp" alt="SQL Server">
+										<img src="assets/images/tech/sql-server.webp" alt="SQL Server" loading="lazy">
 										<span>SQL Server</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/mysql.webp" alt="MySQL">
+										<img src="assets/images/tech/mysql.webp" alt="MySQL" loading="lazy">
 										<span>MySQL</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/postgre-sql.webp" alt="PostgreSQL">
+										<img src="assets/images/tech/postgre-sql.webp" alt="PostgreSQL" loading="lazy">
 										<span>PostgreSQL</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/mongo.webp" alt="MongoDB">
+										<img src="assets/images/tech/mongo.webp" alt="MongoDB" loading="lazy">
 										<span>MongoDB</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/firebase.webp" alt="Firebase">
+										<img src="assets/images/tech/firebase.webp" alt="Firebase" loading="lazy">
 										<span>Firebase</span>
 									</div>
 								</div>
@@ -1268,23 +1266,23 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/wordpress.webp" alt="WordPress">
+										<img src="assets/images/tech/wordpress.webp" alt="WordPress" loading="lazy">
 										<span>WordPress</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/odoo.webp" alt="Odoo">
+										<img src="assets/images/tech/odoo.webp" alt="Odoo" loading="lazy">
 										<span>Odoo</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/j`oomla.webp" alt="Joomla">
+										<img src="assets/images/tech/joomla.webp" alt="Joomla" loading="lazy">
 										<span>Joomla</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/jira.webp" alt="Jira">
+										<img src="assets/images/tech/jira.webp" alt="Jira" loading="lazy">
 										<span>Jira</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/confluence.webp" alt="Confluence">
+										<img src="assets/images/tech/confluence.webp" alt="Confluence" loading="lazy">
 										<span>Confluence</span>
 									</div>
 								</div>
@@ -1298,23 +1296,23 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/aws.webp" alt="AWS">
+										<img src="assets/images/tech/aws.webp" alt="AWS" loading="lazy">
 										<span>AWS</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/google-cloud.webp" alt="Google Cloud">
+										<img src="assets/images/tech/google-cloud.webp" alt="Google Cloud" loading="lazy">
 										<span>Google Cloud</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/azure.webp" alt="Azure">
+										<img src="assets/images/tech/azure.webp" alt="Azure" loading="lazy">
 										<span>Azure</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/gpu.webp">
+										<img src="assets/images/tech/gpu.webp" loading="lazy">
 										<span>GPU Mart</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/hostinger.webp" alt="Hostinger">
+										<img src="assets/images/tech/hostinger.webp" alt="Hostinger" loading="lazy">
 										<span>Hostinger</span>
 									</div>
 								</div>
@@ -1328,15 +1326,15 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/jenkins.webp" alt="Jenkins">
+										<img src="assets/images/tech/jenkins.webp" alt="Jenkins" loading="lazy">
 										<span>Jenkins</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/azure-devops.webp" alt="Azure DevOps">
+										<img src="assets/images/tech/azure-devops.webp" alt="Azure DevOps" loading="lazy">
 										<span>Azure DevOps</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/dockers.webp" alt="Docker">
+										<img src="assets/images/tech/dockers.webp" alt="Docker" loading="lazy">
 										<span>Docker</span>
 									</div>
 								</div>
@@ -1350,15 +1348,15 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/woocommerce.webp" alt="WooCommerce">
+										<img src="assets/images/tech/woocommerce.webp" alt="WooCommerce" loading="lazy">
 										<span>WooCommerce</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/magento.webp" alt="Magento">
+										<img src="assets/images/tech/magento.webp" alt="Magento" loading="lazy">
 										<span>Magento</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/shopify.webp" alt="Shopify">
+										<img src="assets/images/tech/shopify.webp" alt="Shopify" loading="lazy">
 										<span>Shopify</span>
 									</div>
 								</div>
@@ -1372,15 +1370,15 @@
 								</div>
 								<div class="tech-card-body">
 									<div class="tech-item">
-										<img src="assets/images/tech/ms-dynamic-crm.webp" alt="MS Dynamic CRM">
+										<img src="assets/images/tech/ms-dynamic-crm.webp" alt="MS Dynamic CRM" loading="lazy">
 										<span>MS Dynamic CRM</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/zoho.webp" alt="Zoho">
+										<img src="assets/images/tech/zoho.webp" alt="Zoho" loading="lazy">
 										<span>Zoho</span>
 									</div>
 									<div class="tech-item">
-										<img src="assets/images/tech/powerbi.webp" alt="Power BI">
+										<img src="assets/images/tech/power-bi.webp" alt="Power BI" loading="lazy">
 										<span>Power BI</span>
 									</div>
 								</div>
@@ -1738,7 +1736,7 @@
 						<div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
 							<div class="item">
 								<a class="footer-logo" href="index">
-									<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
+									<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
 								</a>
 							</div>
 

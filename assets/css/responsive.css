@@ -2,6 +2,16 @@
     .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
         max-width: 1600px;
     }
+
+	.awards-slider img {
+		width: 200px !important;
+		display: block;
+		margin: 0 auto 10px;
+	}
+
+	.awards-slider .card-body {
+		height: 413px !important;
+	}
 }
 
 @media (max-width: 1900px) {

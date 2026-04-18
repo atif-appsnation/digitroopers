@@ -5,19 +5,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const category = blogsContainer.getAttribute('data-category');
 
-    // Build URL dynamically
-    let url = 'proxy.php';
-    if (category) {
-        url += '?category=' + category;
-    }
-
-    fetch(url)
+    fetch('proxy.php?category=' + category)
     .then(res => res.json())
-    .then(blogs => {
+    .then(response => {
 
         blogsContainer.innerHTML = '';
 
-        if (!Array.isArray(blogs) || blogs.length === 0) {
+        const blogs = (Array.isArray(response) ? response : response.data || []).slice(0, 3);
+
+        if ( blogs.length === 0) {
             blogsContainer.innerHTML = '<p>No blogs found.</p>';
             return;
         }
@@ -26,13 +22,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
             const title = blog.title.rendered;
             const link = blog.link;
-            const date = new Date(blog.date).toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-            });
+            const date = blog.date.split('T')[0];
 
-
+            // Featured image
             let image = '';
             if (blog._embedded && blog._embedded['wp:featuredmedia']) {
                 image = blog._embedded['wp:featuredmedia'][0].source_url;
@@ -40,12 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
             blogsContainer.innerHTML += `
                 <div class="col-md-4">
-                    <div class="card blog-card h-100">
-                        <img src="${image}" alt="Blog" class="img-fluid">
-                        <div class="d-flex justify-content-between bg-success text-white p-3">
-                            <p class="mb-0">Digitroopers</p>
-                            <p class="mb-0">${date}</p>
-                        </div>
+                    <div class="card blog-card">
+                        <img src="${image}" alt="" class="img-fluid">
                         <div class="card-body">
                             <h6><a href="${link}" target="_blank">${title}</a></h6>
                         </div>

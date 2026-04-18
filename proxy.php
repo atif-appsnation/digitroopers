@@ -1,11 +1,17 @@
 <?php
 header("Content-Type: application/json");
 
-// Category ID (default = 1 or any valid ID)
-$category_id = $_GET['category'] ?? 1;
+// Check if category is passed
+$category = $_GET['category'] ?? null;
 
-// WordPress API URL
-$url = "https://blog.digitroopers.com/wp-json/wp/v2/posts?_embed&categories=" . intval($category_id);
+// Base API
+if ($category) {
+    // Category-based blogs
+    $url = "https://blog.digitroopers.com/wp-json/wp/v2/posts?_embed&per_page=3&categories=" . intval($category);
+} else {
+    // Latest blogs
+    $url = "https://blog.digitroopers.com/wp-json/wp/v2/posts?_embed&per_page=3";
+}
 
 // cURL
 $ch = curl_init($url);

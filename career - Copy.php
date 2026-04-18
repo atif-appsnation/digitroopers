@@ -50,7 +50,7 @@
 				<nav class="navbar navbar-static-top navbar-expand-lg">
 					<div class="container-fluid main-header position-relative">
 						<a class="navbar-brand" href="/">
-							<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
+							<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
 						</a>
 						<div class="navbar-collapse collapse">
 							<ul class="navbar-nav">
@@ -720,7 +720,7 @@
 						<div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
 							<div class="item">
 								<a class="footer-logo" href="index">
-									<img class="img-fluid" src="assets/images/logo/logo.png" alt="digitroopers logo">
+									<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
 								</a>
 							</div>
 
