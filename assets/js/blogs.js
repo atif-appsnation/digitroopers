@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
             }
 
             blogsContainer.innerHTML += `
-                <div class="col-md-4">
+                <div class="col-md-4 mb-3">
                     <div class="card blog-card h-100">
                         <img src="${image}" alt="Blog" class="img-fluid">
                         <div class="d-flex justify-content-between bg-success text-white p-3">

@@ -506,7 +506,7 @@
 						</div>
 
 						<div class="main-banner-content h-100">
-							<div class="container h-100">
+							<div class="container h-100 px-3 px-md-0">
 								<div class="row h-100 align-items-center">
 									<div class="col-md-12">
 										<div class="banner-content">
@@ -732,15 +732,17 @@
 								</div>
 							</div>
 
-							<div class="row mt-4 mt-md-5">
+							<div class="row mt-5">
 								<div class="col-sm-12">
 									<div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
 										<div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<div class="service-icon">
-												<i class="fa-solid fa-paintbrush fa-2xl"></i>
+											<div class="d-flex gap-3 align-items-center">
+												<div class="service-icon">
+													<i class="fa-solid fa-paintbrush fa-2xl"></i>
+												</div>
+												<h4 class="service-title mb-0">Graphic Design</h4>
 											</div>
-											<div class="service-content">
-												<h3 class="service-title">Graphic Design</h3>
+											<div class="service-content mt-3">
 												<p>Good visuals catch the eye, capture interest, and are easily remembered. In fact, they are your best bet on impressing a potential customer at first glance and then holding their attention till the point that your message gets through.</p>
 												<div class="service-action">
 													<a href="graphic-design" class="btn-arrow-up">
@@ -754,11 +756,13 @@
 											</div>
 										</div>
 										<div class="service-item wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-											<div class="service-icon">
-												<i class="fas fa-code fa-2xl"></i>
+											<div class="d-flex gap-3 align-items-center">
+												<div class="service-icon">
+													<i class="fas fa-code fa-2xl"></i>
+												</div>
+												<h4 class="service-title mb-0">Web Development</h4>
 											</div>
-											<div class="service-content">
-												<h3 class="service-title">Web Development</h3>
+											<div class="service-content mt-3">
 												<p>DigiTroopers professional web development services are dedicated to the principles of searchability, speed, and simplicity. In response to the evolving demands and the current trends of internet users.</p>
 												<div class="service-action">
 													<a href="website-development" class="btn-arrow-up">
@@ -771,13 +775,14 @@
 												</div>
 											</div>
 										</div>
-
 										<div class="service-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-											<div class="service-icon">
-												<i class="fas fa-bullhorn fa-2xl"></i>
+											<div class="d-flex gap-3 align-items-center">
+												<div class="service-icon">
+													<i class="fas fa-bullhorn fa-2xl"></i>
+												</div>
+												<h4 class="service-title mb-0">Social Media Marketing</h4>
 											</div>
-											<div class="service-content">
-												<h3 class="service-title">Social Media Marketing</h3>
+											<div class="service-content mt-3">
 												<p>With millions of active users social media platforms are a treasure trove potential leads and customers. DigiTroopers advanced social media marketing strategy can help you cut through the competition and reach your desired revenue and ROI targets whether your business model is B2B, B2C or C2C.</p>
 												<div class="service-action">
 													<a href="social-media-marketing" class="btn-arrow-up">
@@ -790,18 +795,14 @@
 												</div>
 											</div>
 										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row mt-4 mt-md-5">
-								<div class="col-sm-12">
-									<div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
 										<div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<div class="service-icon">
-												<i class="fas fa-chart-line fa-2xl"></i>
+											<div class="d-flex gap-3 align-items-center">
+												<div class="service-icon">
+													<i class="fas fa-chart-line fa-2xl"></i>
+												</div>
+												<h4 class="service-title mb-0">SEO Management</h4>
 											</div>
-											<div class="service-content">
-												<h3 class="service-title">SEO Management</h3>
+											<div class="service-content mt-3">
 												<p>Every day billions of queries are fed into search engines like Google and Bing. It is therefore vital to optimize the structure and content of a website to rank on the first page of search engine results ideally right at the very top by SEO Agency.</p>
 												<div class="service-action">
 													<a href="seo" class="btn-arrow-up">
@@ -815,11 +816,13 @@
 											</div>
 										</div>
 										<div class="service-item wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-											<div class="service-icon">
-												<i class="fas fa-chart-pie fa-2xl"></i>
+											<div class="d-flex gap-3 align-items-center">
+												<div class="service-icon">
+													<i class="fas fa-chart-pie fa-2xl"></i>
+												</div>
+												<h4 class="service-title mb-0">PPC Management Services</h4>
 											</div>
-											<div class="service-content">
-												<h3 class="service-title">PPC Management Services</h3>
+											<div class="service-content mt-3">
 												<p>Meticulous planning of lead generation  a deep understanding of specific buyers’ persona within a target audience coupled with meticulous keyword research. Only then can unique and compelling Ads can be designed to meet your goals. You can trust DigiTroopers </p>
 												<div class="service-action">
 													<a href="paid-marketing" class="btn-arrow-up">
@@ -833,11 +836,13 @@
 											</div>
 										</div>
 										<div class="service-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-											<div class="service-icon">
-												<i class="fas fa-cart-shopping fa-2xl"></i>
+											<div class="d-flex gap-3 align-items-center">
+												<div class="service-icon">
+													<i class="fas fa-cart-shopping fa-2xl"></i>
+												</div>
+												<h4 class="service-title mb-0">E-Commerce Project Management</h4>
 											</div>
-											<div class="service-content">
-												<h3 class="service-title">E-Commerce Project Management</h3>
+											<div class="service-content mt-3">
 												<p>The eCommerce business industry is booming and consumer interest in making online purchases is unprecedented. Brick and mortar stores that got temporarily closed due to COVID 19 may never open for business again.</p>
 												<div class="service-action">
 													<a href="ecommerce" class="btn-arrow-up">
@@ -985,9 +990,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-1.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>Upcity.com names AppsNation as a top mobile app company</h6>
-														<p>AppsNation - a leader in mobile app development</p>
+														<img src="assets/images/badges/badge-1.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">Upcity.com names AppsNation as a top mobile app company</h6>
+														<p class="text-center">AppsNation - a leader in mobile app development</p>
 													</div>
 												</div>
 											</div>
@@ -996,9 +1001,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-2.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>AppsNation named among top mobile app development companies </h6>
-														<p>Top app firm listed AppsNation in top mobile app development companies</p>
+														<img src="assets/images/badges/badge-2.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">AppsNation named among top mobile app development companies </h6>
+														<p class="text-center">Top app firm listed AppsNation in top mobile app development companies</p>
 													</div>
 												</div>
 											</div>
@@ -1007,9 +1012,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-3.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>Top iOS App Development Company in the US</h6>
-														<p>AppsNation among 30 top iOS app developers in USA 2021</p>
+														<img src="assets/images/badges/badge-3.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">Top iOS App Development Company in the US</h6>
+														<p class="text-center">AppsNation among 30 top iOS app developers in USA 2021</p>
 													</div>
 												</div>
 											</div>
@@ -1018,9 +1023,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-4.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>AppsNation Named Among Top Software Companies</h6>
-														<p>A leading software company in sept 2021</p>
+														<img src="assets/images/badges/badge-4.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">AppsNation Named Among Top Software Companies</h6>
+														<p class="text-center">A leading software company in sept 2021</p>
 													</div>
 												</div>
 											</div>
@@ -1029,9 +1034,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-5.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>App Development Companies 2021</h6>
-														<p>Top mobile app development companies in Florida</p>
+														<img src="assets/images/badges/badge-5.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">App Development Companies 2021</h6>
+														<p class="text-center">Top mobile app development companies in Florida</p>
 													</div>
 												</div>
 											</div>
@@ -1040,9 +1045,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-6.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>Top mobile app development company in Saudi Arabia</h6>
-														<p>Top mobile app development company in Saudi Arabia</p>
+														<img src="assets/images/badges/badge-6.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">Top mobile app development company in Saudi Arabia</h6>
+														<p class="text-center">Top mobile app development company in Saudi Arabia</p>
 													</div>
 												</div>
 											</div>
@@ -1051,9 +1056,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-7.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>App Development Companies 2021</h6>
-														<p>Top mobile app development companies in Florida</p>
+														<img src="assets/images/badges/badge-7.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">App Development Companies 2021</h6>
+														<p class="text-center">Top mobile app development companies in Florida</p>
 													</div>
 												</div>
 											</div>
@@ -1062,9 +1067,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-8.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>Top mobile app development company in Saudi Arabia</h6>
-														<p>Top mobile app development company in Saudi Arabia</p>
+														<img src="assets/images/badges/badge-8.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">Top mobile app development company in Saudi Arabia</h6>
+														<p class="text-center">Top mobile app development company in Saudi Arabia</p>
 													</div>
 												</div>
 											</div>
@@ -1073,9 +1078,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-9.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6> Top Website design Agencies</h6>
-														<p>Best Website Design Agency Award</p>
+														<img src="assets/images/badges/badge-9.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">Top Website design Agencies</h6>
+														<p class="text-center">Best Website Design Agency Award</p>
 													</div>
 												</div>
 											</div>
@@ -1084,9 +1089,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-10.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6> Top AR/VR Development Company</h6>
-														<p> AppsNation | Top AR/VR Development Company In Saudi Arabia</p>
+														<img src="assets/images/badges/badge-10.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">Top AR/VR Development Company</h6>
+														<p class="text-center">AppsNation | Top AR/VR Development Company In Saudi Arabia</p>
 													</div>
 												</div>
 											</div>
@@ -1095,9 +1100,9 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-11.webp" class="img-fluid" width="auto" height="auto" alt="Badges" loading="lazy">
-														<h6>AppsNation among top 8 software development companies</h6>
-														<p>Expertise lists AppsNation as top software development company</p>
+														<img src="assets/images/badges/badge-11.webp" class="img-fluid d-block mx-auto">
+														<h6 class="text-center">AppsNation among top 8 software development companies</h6>
+														<p class="text-center">Expertise lists AppsNation as top software development company</p>
 													</div>
 												</div>
 											</div>

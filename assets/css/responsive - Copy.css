@@ -3,6 +3,12 @@
         max-width: 1600px;
     }
 
+	.awards-slider img {
+		width: 200px !important;
+		display: block;
+		margin: 0 auto 10px;
+	}
+
 	.awards-slider .card-body {
 		height: 413px !important;
 	}
@@ -966,6 +972,9 @@
 }
 
 @media (max-width: 991px) {
+    .container {
+		max-width: 100%;
+	}
 
 	h1 {
 		font-size: 56px;
@@ -1157,7 +1166,7 @@
 	}
 
 	.accordion .accordion-item .accordion-header .accordion-button {
-		font-size: 16px;
+		font-size: 20px;
 		padding: 20px 20px;
 		padding-left: 0px;
 		padding-right: 35px;
@@ -1897,6 +1906,10 @@
 		gap: 30px;
 	}
 
+	.service-item {
+		padding: 40px 20px;
+	}
+
 	.service-fancy .service-item .service-img {
 		height: auto;
 	}
@@ -2438,6 +2451,14 @@
 		height: 35px;
 	}
 
+	.header.header {
+		padding: 0 12px;
+	}
+
+	.header .main-header {
+		padding: 0px 15px;
+	}
+
 	.header .navbar .dropdown-menu {
 		max-height: 300px;
 		overflow-x: scroll;
@@ -2703,6 +2724,14 @@
 		width: 70px;
 		height: 70px;
 		flex: 0 0 70px;
+	}
+
+	.service-item {
+		padding: 30px 15px;
+	}
+
+	.service-item .service-icon {
+		margin-bottom: 20px;
 	}
 
 	.service-item .service-content .service-title {
