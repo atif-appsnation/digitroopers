@@ -62,7 +62,7 @@
 										<i class="fa-solid fa-chevron-down"></i>
 									</a>
 									<div class="dropdown-menu shadow">
-										<div class="mega-content px-4">
+										<div class="mega-content">
 											<div class="container">
 												<div class="row">
 													<div class="col-md-3 megamenu">
@@ -135,7 +135,7 @@
 										<i class="fa-solid fa-chevron-down"></i>
 									</a>
 									<div class="dropdown-menu shadow">
-										<div class="mega-content px-4">
+										<div class="mega-content">
 											<div class="container">
 												<div class="row">
 													<div class="col-lg-3 megamenu">
@@ -506,7 +506,7 @@
 						</div>
 
 						<div class="main-banner-content h-100">
-							<div class="container h-100 px-3 px-md-0">
+							<div class="container h-100 px-3 px-xl-0">
 								<div class="row h-100 align-items-center">
 									<div class="col-md-12">
 										<div class="banner-content">
@@ -734,7 +734,7 @@
 
 							<div class="row mt-5">
 								<div class="col-sm-12">
-									<div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+									<div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-md-2 grid-xs-1">
 										<div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 											<div class="d-flex gap-3 align-items-center">
 												<div class="service-icon">

@@ -65,7 +65,7 @@
 										<i class="fa-solid fa-chevron-down"></i>
 									</a>
 									<div class="dropdown-menu shadow">
-										<div class="mega-content px-4">
+										<div class="mega-content">
 											<div class="container">
 												<div class="row">
 													<div class="col-md-3 megamenu">
@@ -138,7 +138,7 @@
 										<i class="fa-solid fa-chevron-down"></i>
 									</a>
 									<div class="dropdown-menu shadow">
-										<div class="mega-content px-4">
+										<div class="mega-content">
 											<div class="container">
 												<div class="row">
 													<div class="col-lg-3 megamenu">
