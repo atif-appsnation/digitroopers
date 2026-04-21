@@ -257,26 +257,6 @@
 		grid-gap: 24px;
 	}
 
-	.grid-wrapper.grid-lg-1 {
-		grid-template-columns: repeat(1, 1fr);
-	}
-
-	.grid-wrapper.grid-lg-3 {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	.grid-wrapper.grid-lg-4 {
-		grid-template-columns: repeat(4, 1fr);
-	}
-
-	.grid-wrapper.grid-lg-5 {
-		grid-template-columns: repeat(5, 1fr);
-	}
-
-	.grid-wrapper.grid-lg-6 {
-		grid-template-columns: repeat(6, 1fr);
-	}
-
 	.space-ptb {
 		padding-top: 100px;
 		padding-bottom: 100px;
@@ -766,30 +746,6 @@
 	.typography-section .hr {
 		padding-top: 60px;
 		margin-top: 60px;
-	}
-
-	.grid-wrapper.grid-md-1 {
-		grid-template-columns: repeat(1, 1fr);
-	}
-
-	.grid-wrapper.grid-md-2 {
-		grid-template-columns: repeat(2, 1fr);
-	}
-
-	.grid-wrapper.grid-md-3 {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	.grid-wrapper.grid-md-4 {
-		grid-template-columns: repeat(4, 1fr);
-	}
-
-	.grid-wrapper.grid-md-5 {
-		grid-template-columns: repeat(5, 1fr);
-	}
-
-	.grid-wrapper.grid-md-6 {
-		grid-template-columns: repeat(6, 1fr);
 	}
 
 	.space-ptb {
@@ -1474,30 +1430,6 @@
 
 	.grid-gap-50 {
 		grid-gap: 30px;
-	}
-
-	.grid-wrapper.grid-sm-1 {
-		grid-template-columns: repeat(1, 1fr);
-	}
-
-	.grid-wrapper.grid-sm-2 {
-		grid-template-columns: repeat(2, 1fr);
-	}
-
-	.grid-wrapper.grid-sm-3 {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	.grid-wrapper.grid-sm-4 {
-		grid-template-columns: repeat(4, 1fr);
-	}
-
-	.grid-wrapper.grid-sm-5 {
-		grid-template-columns: repeat(5, 1fr);
-	}
-
-	.grid-wrapper.grid-sm-6 {
-		grid-template-columns: repeat(6, 1fr);
 	}
 
 	.bg-img-box {
@@ -2342,30 +2274,6 @@
 
 	.grid-gap-50 {
 		grid-gap: 24px;
-	}
-
-	.grid-wrapper.grid-xs-1 {
-		grid-template-columns: repeat(1, 1fr);
-	}
-
-	.grid-wrapper.grid-xs-2 {
-		grid-template-columns: repeat(2, 1fr);
-	}
-
-	.grid-wrapper.grid-xs-3 {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	.grid-wrapper.grid-xs-4 {
-		grid-template-columns: repeat(4, 1fr);
-	}
-
-	.grid-wrapper.grid-xs-5 {
-		grid-template-columns: repeat(5, 1fr);
-	}
-
-	.grid-wrapper.grid-xs-6 {
-		grid-template-columns: repeat(6, 1fr);
 	}
 
 	.action-box {
