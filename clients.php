@@ -810,7 +810,7 @@
             <footer class="site-footer footer-dark">
                 <div class="footer-main">
                     <div class="container">
-                        <div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
+                        <div class="grid-wrapper grid-xs-1 grid-md-2 grid-xl-4">
                             <div class="item">
                                 <a class="footer-logo" href="index">
                                     <img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
