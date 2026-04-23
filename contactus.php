@@ -2,12 +2,10 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<meta name="keywords" content="HTML5 Template">
-		<meta name="author" content="potenzaglobalsolutions.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-		<meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-		<link rel="canonical" href="https://digitroopers.com/" />
+		<title>Contact DigiTroopers</title>
+		<meta name="description" content="Get in touch with DigiTroopers for expert digital marketing, SEO, and web development services to elevate your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
 		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
 		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
 		<meta property="og:url" content="https://digitroopers.com/" />
@@ -16,7 +14,7 @@
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
 		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-		<meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
 		<link rel="shortcut icon" href="assets/images/logo/favicon.webp">
 		<link rel="stylesheet" href="assets/css/jost.css" >
 		<link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -26,12 +24,55 @@
 		<link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css">
 		<link rel="stylesheet" href="assets/vendors/lenis/lenis.css">
 		<link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css">
-		<link rel="stylesheet" href="assets/vendors/animate/animate.min.css">
 		<link rel="stylesheet" href="assets/vendors/magnific-popup/magnific-popup.css">
 		<link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/themes.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 	</head>	
     
     <body>
@@ -242,7 +283,7 @@
 									</a>
 								</li>
 								<li class="nav-item active">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -384,7 +425,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link active" href="contact-us">
+									<a class="nav-link active" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -509,13 +550,27 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-6">
-									<div class="contact-box pe-xl-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-										<h2 class="text-primary">United States</h2>
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.938069035853!2d-122.17715079999999!3d47.3741272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54905eea13e56b43%3A0xac7be7c8bc3c507d!2sDigiTroopers!5e0!3m2!1sen!2s!4v1757970340791!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-									</div>
-									<div class="contact-box pe-xl-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-										<h2 class="text-primary">Saudi Arabia</h2>
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3625.5089960363525!2d46.7544176!3d24.675023699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f07b1ed08c085%3A0x6a99ae482671cd2!2sDigiTroopers%20(Digital%20Marketing%20Agency%20in%20Saudia%20Arabia)!5e0!3m2!1sen!2s!4v1757970390200!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+									<ul class="nav nav-pills justify-content-center">
+										<li class="nav-item">
+											<a class="nav-link active" data-bs-toggle="pill" href="#usa">United States</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link" data-bs-toggle="pill" href="#saudi">Saudi Arabia</a>
+										</li>
+									</ul>
+									<div class="tab-content mt-3">
+										<div class="tab-pane container active" id="usa">
+											<div class="contact-box pe-xl-4">
+												<h2 class="text-primary">United States</h2>
+												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.938069035853!2d-122.17715079999999!3d47.3741272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54905eea13e56b43%3A0xac7be7c8bc3c507d!2sDigiTroopers!5e0!3m2!1sen!2s!4v1757970340791!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+											</div>
+										</div>
+										<div class="tab-pane container" id="saudi">
+											<div class="contact-box pe-xl-4">
+												<h2 class="text-primary">Saudi Arabia</h2>
+												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3625.5089960363525!2d46.7544176!3d24.675023699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f07b1ed08c085%3A0x6a99ae482671cd2!2sDigiTroopers%20(Digital%20Marketing%20Agency%20in%20Saudia%20Arabia)!5e0!3m2!1sen!2s!4v1757970390200!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+											</div>
+										</div>
 									</div>
 								</div>
 								<div class="col-lg-6 mt-4 mt-md-5 mt-lg-0">
@@ -627,7 +682,7 @@
 			<footer class="site-footer footer-dark">
 				<div class="footer-main">
 					<div class="container">
-						<div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
+						<div class="grid-wrapper grid-xs-1 grid-md-2 grid-xl-4">
 							<div class="item">
 								<a class="footer-logo" href="index">
 									<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
@@ -684,7 +739,7 @@
 											<a href="terms-and-conditions">Terms & Conditions</a>
 										</li>
 										<li>
-											<a href="contact-us">Contact Us</a>
+											<a href="contactus">Contact Us</a>
 										</li>
 									</ul>
 								</div>

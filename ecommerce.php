@@ -2,8 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="keywords" content="HTML5 Template">
-        <meta name="author" content="potenzaglobalsolutions.com">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
         <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
@@ -242,7 +240,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -383,7 +381,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -656,7 +654,7 @@
                                                 <p>DigiTroopers are your end-to-end eCommerce partners, able to act as your single point of contact for all tasks related to eCommerce management. Without a professionally developed site, you are placing your bet on a great experience built on weak foundations.</p>
                                                 <p>This is a recipe for disaster. We have the technical expertise and experience to optimize, tune-up, and secure your eCommerce portal. We offer year-round and round-the-clock services to match the pace of your target market.</p>
                                                 <p>Our dedicated account managers will be by your side, armed with comprehensive knowledge of all major eCommerce shopping cart platforms including Woo Commerce, Shopify, OpenCart, BigCommerce, Square Space, and also Magento to provide your customers with a seamless online shopping experience including payment solutions to facilitate transactions.</p>
-                                                <p>Contact Us for details on our value-added <a href="contact-us"> eCommerce website maintenance </a> packages.</p>
+                                                <p>Contact Us for details on our value-added <a href="contactus"> eCommerce website maintenance </a> packages.</p>
                                             </div>
 
                                             <h3 class="service-title">E-Commerce Product Information & Catalogue Management Services</h3>
@@ -773,7 +771,7 @@
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
-                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                <a href="contactus" class="btn">Choose Package</a>
                                             </div>
                                         </div>
 
@@ -806,7 +804,7 @@
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
-                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                <a href="contactus" class="btn">Choose Package</a>
                                             </div>
                                         </div>
 
@@ -841,7 +839,7 @@
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
-                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                <a href="contactus" class="btn">Choose Package</a>
                                             </div>
                                         </div>
                                     </div>
@@ -1086,7 +1084,7 @@
 			<footer class="site-footer footer-dark">
 				<div class="footer-main">
 					<div class="container">
-						<div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
+						<div class="grid-wrapper grid-xs-1 grid-md-2 grid-xl-4">
 							<div class="item">
 								<a class="footer-logo" href="index">
 									<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
@@ -1143,7 +1141,7 @@
 											<a href="terms-and-conditions">Terms & Conditions</a>
 										</li>
 										<li>
-											<a href="contact-us">Contact Us</a>
+											<a href="contactus">Contact Us</a>
 										</li>
 									</ul>
 								</div>

@@ -2,12 +2,10 @@
 <html>
     <head>
 		<meta charset="utf-8">
-		<meta name="keywords" content="HTML5 Template">
-		<meta name="author" content="potenzaglobalsolutions.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-		<meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-		<link rel="canonical" href="https://digitroopers.com/" />
+		<title>Affordable Digital Marketing Packages</title>
+		<meta name="description" content="Choose from DigiTroopers' range of digital marketing packages, tailored to meet your business needs and budget for optimal results.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
 		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
 		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
 		<meta property="og:url" content="https://digitroopers.com/" />
@@ -16,7 +14,7 @@
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
 		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-		<meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
 		<link rel="shortcut icon" href="assets/images/logo/favicon.webp">
 		<link rel="stylesheet" href="assets/css/jost.css" >
 		<link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -32,6 +30,50 @@
 		<link rel="stylesheet" href="assets/css/themes.css">
 		<link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+        <!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 	</head>	
 
 <body>
@@ -243,7 +285,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact-us">
+                                <a class="nav-link" href="contactus">
                                     <span>Contact Us</span>
                                 </a>
                             </li>
@@ -384,7 +426,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact-us">
+                                <a class="nav-link" href="contactus">
                                     <span>Contact Us</span>
                                 </a>
                             </li>
@@ -559,7 +601,7 @@
                                                     </ul>
                                                     </div>
                                                     <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                     </div>
                                                 </div>
 
@@ -592,7 +634,7 @@
                                                     </ul>
                                                     </div>
                                                     <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                     </div>
 
                                                     <div class="pricing-ribbon">
@@ -675,7 +717,7 @@
                                                     </ul>
                                                     </div>
                                                     <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                     </div>
                                                 </div>
 
@@ -711,7 +753,7 @@
                                                     </ul>
                                                     </div>
                                                     <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                     </div>
 
                                                     <div class="pricing-ribbon">
@@ -796,7 +838,7 @@
                                                             </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                            <a href="contact-us" class="btn">Choose Package</a>
+                                                            <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
                                                         </div>
 
@@ -840,7 +882,7 @@
                                                             </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                            <a href="contact-us" class="btn">Choose Package</a>
+                                                            <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
 
                                                             
@@ -931,7 +973,7 @@
                                                                     </ul>
                                                                 </div>
                                                                 <div class="pricing-footer">
-                                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                                    <a href="contactus" class="btn">Choose Package</a>
                                                                 </div>
                                                             </div>
 
@@ -968,7 +1010,7 @@
                                                                     </ul>
                                                                 </div>
                                                                 <div class="pricing-footer">
-                                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                                    <a href="contactus" class="btn">Choose Package</a>
                                                                 </div>
 
                                                                 <div class="pricing-ribbon">
@@ -1057,7 +1099,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
                                                         </div>
 
@@ -1099,7 +1141,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
 
                                                             
@@ -1184,7 +1226,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                 </div>
                                                 </div>
                                             </div>
@@ -1214,7 +1256,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                 </div>
                                                 </div>
                                             </div>
@@ -1287,7 +1329,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                 </div>
                                                 </div>
                                             </div>
@@ -1313,7 +1355,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="pricing-footer">
-                                                    <a href="contact-us" class="btn">Choose Package</a>
+                                                    <a href="contactus" class="btn">Choose Package</a>
                                                 </div>
                                                 </div>
                                             </div>
@@ -1386,7 +1428,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
                                                         </div>
 
@@ -1422,7 +1464,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
 
                                                         
@@ -1514,7 +1556,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
                                                         </div>
 
@@ -1548,7 +1590,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
 
                                                             <div class="pricing-ribbon">
@@ -1648,7 +1690,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
                                                         </div>
 
@@ -1683,7 +1725,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
 
                                                             <div class="pricing-ribbon">
@@ -1775,7 +1817,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
                                                         </div>
 
@@ -1827,7 +1869,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="pricing-footer">
-                                                                <a href="contact-us" class="btn">Choose Package</a>
+                                                                <a href="contactus" class="btn">Choose Package</a>
                                                             </div>
 
                                                             <div class="pricing-ribbon">
@@ -2100,7 +2142,7 @@
 											<a href="terms-and-conditions">Terms & Conditions</a>
 										</li>
 										<li>
-											<a href="contact-us">Contact Us</a>
+											<a href="contactus">Contact Us</a>
 										</li>
 									</ul>
 								</div>

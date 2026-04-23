@@ -3381,13 +3381,13 @@ section:has(.rounded-section) {
 
 .btn:hover, .btn:focus, .btn:focus-visible, .btn:active, .btn:first-child:active {
 	border: none;
-	color: #000f22;
-	background-color: var(--white-color);
+	color: var(--white-color);
+	background-color: var(--primary-color);
 	animation: btn-effect 1s ease-in-out;
 }
 
 .btn:hover svg, .btn:focus svg, .btn:focus-visible svg, .btn:active svg, .btn:first-child:active svg {
-	fill: #000f22;
+	fill: var(--white-color);
 }
 
 .btn.btn-white {
@@ -4789,11 +4789,16 @@ header.header.header-sticky.is-sticky .navbar .navbar-brand img.sticky {
 
 .action-group .header-phone-number a {
 	white-space: nowrap;
-	color: #f8f8f8;
+	color: var(--white-color);
 }
 
-.action-group .header-phone-number a:hover {
+/* .action-group .header-phone-number a:hover {
 	color: var(--primary-color);
+} */
+
+.action-group .header-phone-number:hover {
+	border: 1px solid var(--primary-color);
+	background-color: var(--primary-color);
 }
 
 /* Offcanvas*/
@@ -8498,4 +8503,13 @@ body:has(#search.open):before {
 
 .awards-slider img {
 	width: 200px !important;
+}
+
+.nav-link {
+	color: var(--primary-color);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--white-color);
+    background-color: var(--secondary-color);
 }

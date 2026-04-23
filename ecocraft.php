@@ -2,8 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="keywords" content="HTML5 Template">
-        <meta name="author" content="potenzaglobalsolutions.com">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
         <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
@@ -242,7 +240,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -383,7 +381,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -621,7 +619,7 @@
 			<footer class="site-footer footer-dark">
 				<div class="footer-main">
 					<div class="container">
-						<div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
+						<div class="grid-wrapper grid-xs-1 grid-md-2 grid-xl-4">
 							<div class="item">
 								<a class="footer-logo" href="index">
 									<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
@@ -678,7 +676,7 @@
 											<a href="terms-and-conditions">Terms & Conditions</a>
 										</li>
 										<li>
-											<a href="contact-us">Contact Us</a>
+											<a href="contactus">Contact Us</a>
 										</li>
 									</ul>
 								</div>

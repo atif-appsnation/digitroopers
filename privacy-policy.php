@@ -243,7 +243,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -384,7 +384,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="contact-us">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -544,7 +544,7 @@
                                             <div class="action-box-content">
                                                 <h2 class="title">Professional & Experience Business Services</h2>
                                                 <p class="p-black description text-black">Optimize your marketing approach with a high-impact, professional website.</p>
-                                                <a href="contact-us" class="btn btn-white">Get Consultation 
+                                                <a href="contactus" class="btn btn-white">Get Consultation 
                                                     <svg fill="#ffffff" width="18px" height="18px" viewBox="0 0 32 32" version="1.1">
                                                         <path d="M30.713 16.090c0.009-0.041 0.014-0.087 0.014-0.135 0-0.004-0-0.008-0-0.011v0.001c-0.006-0.184-0.079-0.35-0.196-0.475l0 0-10-10c-0.136-0.135-0.323-0.218-0.529-0.218-0.415 0-0.751 0.336-0.751 0.751 0 0.206 0.083 0.393 0.218 0.528l8.721 8.72h-26.189c-0.414 0-0.75 0.336-0.75 0.75s0.336 0.75 0.75 0.75v0h26.188l-8.72 8.719c-0.136 0.136-0.22 0.324-0.22 0.531 0 0.415 0.336 0.751 0.751 0.751 0.207 0 0.395-0.084 0.531-0.22l10-10.001c0.025-0.026 0.017-0.064 0.038-0.093 0.040-0.052 0.098-0.088 0.124-0.151 0.013-0.050 0.020-0.108 0.020-0.167 0-0.011-0-0.021-0.001-0.032l0 0.002z"></path>
                                                     </svg>
@@ -778,7 +778,7 @@
 			<footer class="site-footer footer-dark">
 				<div class="footer-main">
 					<div class="container">
-						<div class="grid-wrapper grid-xl-4 grid-md-2 grid-xs-1">
+						<div class="grid-wrapper grid-xs-1 grid-md-2 grid-xl-4">
 							<div class="item">
 								<a class="footer-logo" href="index">
 									<img class="img-fluid" src="assets/images/logo/logo.png" alt="Digitroopers Logo" loading="eager">
@@ -835,7 +835,7 @@
 											<a href="terms-and-conditions">Terms & Conditions</a>
 										</li>
 										<li>
-											<a href="contact-us">Contact Us</a>
+											<a href="contactus">Contact Us</a>
 										</li>
 									</ul>
 								</div>
