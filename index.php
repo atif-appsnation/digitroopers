@@ -776,7 +776,7 @@
 
 							<div class="row mt-5">
 								<div class="col-sm-12">
-									<div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-md-2 grid-xs-1">
+									<div class="services home-services grid-wrapper grid-xl-3 grid-lg-2 grid-md-2 grid-xs-1">
 										<div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 											<div class="d-flex gap-3 align-items-center">
 												<div class="service-icon">
@@ -1004,7 +1004,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-12">
-									<div class="video-wrapper video-primary-overlay wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+									<div class="video-wrapper home-video video-primary-overlay wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 										<video autoplay muted loop playsinline>
 											<source src="assets/video/video.mp4" type="video/mp4">
 										</video>
