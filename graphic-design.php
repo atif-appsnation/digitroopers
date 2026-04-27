@@ -623,12 +623,12 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
+								<div class="col-lg-8 mt-5 mt-lg-0 ps-md-5">
 									<div class="service-single">
 										<div class="service-img">
 											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/graphics-design/graphics-design-01.png" alt="Graphics Design">
 										</div>
-										<div class="service-content">
+										<div class="service-content mt-4">
 											<h2 class="service-title fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Graphics Design Services</h2>
 											<div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 												<p>Good visuals catch the eye, capture interest, and are easily remembered. In fact, they are your best bet on impressing a potential customer at first glance and then holding their attention till the point that your message gets through.</p>
@@ -680,9 +680,9 @@
 											</div>
 											<div class="row mt-4 mt-sm-5">
 												<h4 class="service-title wow fadeInUp">Graphics Design Services</h4>
-												<div class="col-md-4 mt-4 mt-md-0">
-													<div class="list-wrapper mb-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list glass">
+												<div class="col-md-6 col-xl-4">
+													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+														<ul class="list services-list glass">
 															<h5>Brand Identity & Corporate Visuals</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Logo Design</li>
 															<li><i class="fa-solid fa-arrow-right"></i>Business Card Design</li>
@@ -693,9 +693,9 @@
 														</ul>
 													</div>
 												</div>
-												<div class="col-md-4 mt-4 mt-md-0">
-													<div class="list-wrapper mb-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list glass">
+												<div class="col-md-6 col-xl-4 mt-4 mt-md-0">
+													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+														<ul class="list services-list glass">
 															<h5>Art & Illustration</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Illustration Design </li>
 															<li><i class="fa-solid fa-arrow-right"></i>Book Cover Design </li>
@@ -706,9 +706,9 @@
 														</ul>
 													</div>
 												</div>
-												<div class="col-md-4 mt-4 mt-md-0">
-													<div class="list-wrapper mb-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list glass">
+												<div class="col-md-6 col-xl-4 mt-4 mt-xl-0">
+													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+														<ul class="list services-list glass">
 															<h5>Graphic Design</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Infographic Design </li>
 															<li><i class="fa-solid fa-arrow-right"></i>3D Design</li>
@@ -719,11 +719,9 @@
 														</ul>
 													</div>
 												</div>
-											</div>
-											<div class="row mt-4 mt-sm-5">
-												<div class="col-md-4 mt-4 mt-md-0">
-													<div class="list-wrapper mb-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list glass">
+												<div class="col-md-6 col-xl-4 mt-4">
+													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+														<ul class="list services-list glass">
 															<h5>Print Design</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>flyer Design</li>
 															<li><i class="fa-solid fa-arrow-right"></i>Brochure Design </li>
@@ -734,9 +732,9 @@
 														</ul>
 													</div>
 												</div>
-												<div class="col-md-4 mt-4 mt-md-0">
-													<div class="list-wrapper mb-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list glass">
+												<div class="col-md-6 col-xl-4 mt-4">
+													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+														<ul class="list services-list glass">
 															<h5>Web Design</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Web & Mobile UI/UX Design</li>
 															<li><i class="fa-solid fa-arrow-right"></i>WordPress Design </li>
@@ -745,9 +743,9 @@
 														</ul>
 													</div>
 												</div>
-												<div class="col-md-4 mt-4 mt-md-0">
-													<div class="list-wrapper mb-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list glass">
+												<div class="col-md-6 col-xl-4 mt-4">
+													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+														<ul class="list services-list glass">
 															<h5>Social Media Designs</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Banner Ad Design </li>
 															<li><i class="fa-solid fa-arrow-right"></i>Newsletter Design </li>
@@ -806,7 +804,7 @@
 					<!-- End Services -->
 
 					<!-- Start Pricing -->
-					<section class="my-4 mb-3">
+					<section class="">
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-12">

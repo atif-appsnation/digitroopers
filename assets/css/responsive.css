@@ -633,9 +633,6 @@
 		padding: 30px 20px;
 	}
 
-	.sidebar .widget:not(:last-child) {
-		margin-bottom: 45px;
-	}
 }
 
 @media (max-width: 1024px) {
@@ -2076,10 +2073,6 @@
 		padding: 25px 0;
 	}
 
-	.sidebar .widget:not(:last-child) {
-		margin-bottom: 50px;
-	}
-
 	.sidebar .widget {
 		padding: 30px 20px;
 	}
@@ -2266,12 +2259,6 @@
 		margin-bottom: 50px;
 	}
 
-	.accordion.accordion-style-pgs-two .accordion-item .accordion-header .accordion-button {
-		font-size: 18px;
-		padding: 16px 20px;
-		padding-right: 50px;
-	}
-
 	.grid-gap-50 {
 		grid-gap: 24px;
 	}
@@ -2368,11 +2355,7 @@
 		line-height: 28px;
 	}
 
-	.service-single .accordion.accordion-style-pgs-two .accordion-item .accordion-header .accordion-button {
-		padding: 16px 25px;
-		font-size: 18px;
-		line-height: 28px;
-	}
+	
 
 	.team-single .team-member-info .member-details .member-name {
 		font-size: 28px;
@@ -2796,14 +2779,6 @@
 
 	.site-footer .marquee-wrapper {
 		padding-top: 30px;
-	}
-
-	.sidebar .widget:not(:last-child) {
-		margin-bottom: 30px;
-	}
-
-	.sidebar .widget {
-		padding: 20px;
 	}
 
 	.widget-recent-posts .recent-posts .posts-img {

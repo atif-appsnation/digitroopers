@@ -56,6 +56,16 @@
     .awards-slider .card-body {
 		height: 360px !important;
 	}
+
+    /* .service-single .accordion.accordion-style-pgs-two .accordion-item .accordion-header .accordion-button {
+		padding: 16px;
+		font-size: 16px;
+		line-height: 28px;
+	} */
+
+    .sidebar .widget {
+		padding: 20px !important;
+	}
 }
 
 @media (min-width:768px) and (max-width:1023px) {
@@ -87,6 +97,10 @@
 
     .grid-wrapper.grid-md-2 {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .list-wrapper .services-list {
+        height: 345px;
     }
 }
 
@@ -133,6 +147,10 @@
     .grid-wrapper.grid-lg-2 {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .list-wrapper .services-list {
+        height: 382px;
+    }
 }
 
 @media (min-width:1440px) and (max-width:1599px) {
@@ -151,6 +169,10 @@
 	.main-banner .banner-content .title {
 		font-size: 72px;
 	}
+
+    .list-wrapper .services-list {
+        height: 382px;
+    }
 }
 
 @media (min-width:1600px) and (max-width:1919px) {
@@ -161,6 +183,10 @@
     .awards-slider .card-body {
 		height: 412px !important;
 	}
+
+    .list-wrapper .services-list {
+        height: 382px;
+    }
 }
 
 @media (min-width:1920px) {
@@ -176,6 +202,10 @@
     .awards-slider .card-body {
 		height: 392px !important;
 	}
+
+    .list-wrapper .services-list {
+        height: 345px;
+    }
 }
 
 @media (max-width: 575px) {
