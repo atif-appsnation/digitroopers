@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -30,6 +30,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
 	<body>
@@ -569,7 +613,7 @@
 								<div class="col-lg-4">
 									<div class="sidebar service-sidebar is-sticky">
 										<div class="widget widget-menu menu-style-2 wow fadeInUp glass" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<p class="widget-title fs-3">Our Services</p>
+											<p class="widget-title fs-3 text-primary fw-bold">Our Services</p>
 											<ul>
 												<li>
 													<a href="graphic-design">Graphics Design</a>
@@ -598,7 +642,7 @@
 											</ul>
 										</div>
 										<div class="action-box action-box-style-03 wow fadeInUp glass" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<div class=" action-box-content">
+											<div class="action-box-content">
 												<p class="p-black title mb-0">For those of you who are serious about having more.</p>
 												<p class="p-black description">Optimize your marketing approach with a high-impact, professional website. </p>
 												<ul class="contact-details">
@@ -624,65 +668,61 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
-									<div class="service-single my-4">
-										<div class="service-content mt-4 mt-sm-5">
-											<h2 class="service-title fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Explore Our Services</h2>
-											<div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-												<p>DigiTroopers professional web development services are dedicated to the principles of searchability, speed, and simplicity — evolving with the demands and trends of modern internet users. </p>
-											</div>
+								<div class="col-lg-8 mt-5 mt-lg-0 ps-md-5">
+									<div class="service-single">
+										<div class="service-content">
+											<h2 class="fadeInUp service-title" data-wow-delay="0.1s" data-wow-duration="1500ms">Explore Our Services</h2>
+											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">DigiTroopers professional web development services are dedicated to the principles of searchability, speed, and simplicity — evolving with the demands and trends of modern internet users. </p>
 										</div>
 									</div>
 
 									<!-- Start Web Development Services -->
 									<div class="service-single my-4">
-										<div class="service-img text-center">
-											<img class="img-fluid ms-5 pgsDownToUP wow" src="assets/images/services/website-development/website-development-01.png" alt="Webside Development">
-										</div>
-										<div class="service-content mt-4 mt-sm-5">
-											<h3 class="service-title fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> Our Web Development Services </h3>
-											<div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-												<p> We are the best Website Development agency if you are seeking a CMS-based solution for your website. Our Website experts provide you <a href="seo" class="text-primary">SEO-optimized</a>, mobile responsive websites that work with WordPress, Joomla, Shopify, Drupal, Squarespace, Wix, Bitrix, Magento, PrestaShop, OpenCart, and TYPO3. DigiTroopers delivers a seamlessly responsive, data-driven design ensuring that your website attains and maintains high views, click rates, and conversions. </p>
+										<div class="service-content">
+											<div class="text-center">
+												<img class="img-fluid ms-5 pgsDownToUP wow" src="assets/images/services/website-development/website-development-01.png" alt="Webside Development" loading="lazy">
 											</div>
-											<div class="list-wrapper py-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-												<ul class="list col-2 col-xs-1">
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Business Website</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> E-Commerce Site</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Portfolio Website</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Blog Website</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Affiliate Website</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Directory Sites</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Landing Pages</li>
-													<li class="glass"><i class="fa-solid fa-arrow-right"></i> Custom Website</li>
-												</ul>
+											<div class="mt-4 mt-sm-5">
+												<h3 class="fadeInUp service-title" data-wow-delay="0.1s" data-wow-duration="1500ms"> Our Web Development Services </h3>
+												<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">We are the best Website Development agency if you are seeking a CMS-based solution for your website. Our Website experts provide you <a href="seo" class="text-primary">SEO-optimized</a>, mobile responsive websites that work with WordPress, Joomla, Shopify, Drupal, Squarespace, Wix, Bitrix, Magento, PrestaShop, OpenCart, and TYPO3. DigiTroopers delivers a seamlessly responsive, data-driven design ensuring that your website attains and maintains high views, click rates, and conversions. </p>
+												<div class="list-wrapper py-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+													<ul class="list col-2 col-xs-1">
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Business Website</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> E-Commerce Site</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Portfolio Website</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Blog Website</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Affiliate Website</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Directory Sites</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Landing Pages</li>
+														<li class="glass"><i class="fa-solid fa-arrow-right"></i> Custom Website</li>
+													</ul>
+												</div>
 											</div>
 										</div>
 									</div>
 									<!-- End Web Development Services -->
 
 									<!-- Start Key Features Section -->
-									<div class="container my-4">
-										<div class="row g-4">
-											<div class="col-sm-12 col-md-6 col-lg-4">
-												<div class="glass p-4 shadow-sm h-100 text-center animate__animated animate__fadeInUp">
-													<img src="assets/images/portfolio/sp.webp" alt="Speed Optimized" class="img-fluid mb-3 w-25">
-													<h4 class="text-primary">Speed Optimized</h4>
-													<p class="mb-0">Our Web Design is speed optimized to ensure fast interaction with minimal bounce rates.</p>
-												</div>
+									<div class="row g-4 my-4">
+										<div class="col-sm-12 col-md-6 col-lg-4">
+											<div class="glass p-4 shadow-lg h-100 text-center animate__animated animate__fadeInUp">
+												<img src="assets/images/portfolio/sp.webp" alt="Speed Optimized" class="img-fluid mb-3 w-25" loading="lazy">
+												<h4 class="text-primary">Speed Optimized</h4>
+												<p class="mb-0">Our Web Design is speed optimized to ensure fast interaction with minimal bounce rates.</p>
 											</div>
-											<div class="col-sm-12 col-md-6 col-lg-4">
-												<div class="glass p-4 shadow-sm h-100 text-center animate__animated animate__fadeInUp animate__delay-1s">
-													<img src="assets/images/portfolio/sf.webp" alt="SEO Friendly" class="img-fluid mb-3 w-25">
-													<h4 class="text-primary">SEO Friendly</h4>
-													<p class="mb-0">We build SEO-friendly websites that rank higher on search engines and attract qualified leads.</p>
-												</div>
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-4">
+											<div class="glass p-4 shadow-lg h-100 text-center animate__animated animate__fadeInUp animate__delay-1s">
+												<img src="assets/images/portfolio/sf.webp" alt="SEO Friendly" class="img-fluid mb-3 w-25" loading="lazy">
+												<h4 class="text-primary">SEO Friendly</h4>
+												<p class="mb-0">We build SEO-friendly websites that rank higher on search engines and attract qualified leads.</p>
 											</div>
-											<div class="col-sm-12 col-md-6 col-lg-4">
-												<div class="glass p-4 shadow-sm h-100 text-center animate__animated animate__fadeInUp animate__delay-2s">
-													<img src="assets/images/portfolio/uf.webp" alt="User Friendly" class="img-fluid mb-3 w-25">
-													<h4 class="text-primary">User Friendly</h4>
-													<p class="mb-0">Our web designs are fully responsive and user-friendly, enhancing user interaction across devices.</p>
-												</div>
+										</div>
+										<div class="col-sm-12 col-md-6 col-lg-4">
+											<div class="glass p-4 shadow-lg h-100 text-center animate__animated animate__fadeInUp animate__delay-2s">
+												<img src="assets/images/portfolio/uf.webp" alt="User Friendly" class="img-fluid mb-3 w-25" loading="lazy">
+												<h4 class="text-primary">User Friendly</h4>
+												<p class="mb-0">Our web designs are fully responsive and user-friendly, enhancing user interaction across devices.</p>
 											</div>
 										</div>
 									</div>
@@ -697,38 +737,40 @@
 											</div>
 										</div>
 									</div>
+
 									<div class="service-single my-4">
-										<div class="service-content container my-4">
-											<h3 class="service-title mb-4">Plan Your Next Website With Us</h3>
-											<div class="row gap-5 border border-secondary rounded shadow-sm p-4 align-items-center glass">
-												<div class=" col-sm-12 col-md-6">
+										<div class="service-content my-4">
+											<h3 class="mb-4 service-title">Plan Your Next Website With Us</h3>
+											<div class="row rounded shadow-lg p-4 mx-1 align-items-center glass">
+												<div class="col-sm-12 col-md-6">
 													<h4 class="service-title">CMS Based Websites</h4>
 													<p> CMS-based web development focuses on technical organization and customization of content management systems for scalable websites. </p>
 													<p> We specialize in SEO-optimized, mobile-responsive websites built on WordPress, Joomla, Shopify, Drupal, Squarespace, Wix, Bitrix, Magento, PrestaShop, OpenCart, and TYPO3. </p>
 													<p> DigiTroopers delivers data-driven, responsive websites ensuring sustained visibility, high traffic, and conversions. </p>
 												</div>
 												<div class="col-sm-12 col-md-5 text-center">
-													<img src="assets/images/services/website-development/website-development-02.png" alt="Website Development" class="img-fluid rounded shadow">
+													<img src="assets/images/services/website-development/website-development-02.png" alt="Website Development" class="img-fluid" loading="lazy">
 												</div>
 											</div>
 
-											<div class="row gap-5 border border-secondary rounded shadow-sm p-4 align-items-center my-4 glass ">
+											<div class="row rounded shadow-lg p-4 mx-1 align-items-center my-4 glass">
 												<div class="col-sm-12 col-md-6 ">
 													<h4 class="service-title ">Custom Website</h4>
 													<p> Our web development professionals create powerful, customized websites tailored to your niche and audience. </p>
 													<p> We combine front-end and back-end expertise to produce multi-platform websites using HTML, CSS, JavaScript, PHP, Laravel, Python, and .NET.</p>
 												</div>
 												<div class="col-sm-12 col-md-5 text-center ">
-													<img src="assets/images/services/website-development/website-development-03.png" alt="Website Development" class="img-fluid rounded shadow">
+													<img src="assets/images/services/website-development/website-development-03.png" alt="Website Development" class="img-fluid" loading="lazy">
 												</div>
 											</div>
-											<div class="row gap-5 border border-secondary rounded shadow-sm p-4 align-items-center my-4 glass">
+											<div class="row rounded shadow-lg p-4 mx-1 align-items-center my-4 glass">
 												<div class="col-sm-12 col-md-6">
 													<h4 class="service-title">Maintenance Services</h4>
 													<p> DigiTroopers offers reliable, managed ongoing support to maintain and optimize your website’s performance. </p>
 													<p> We proactively detect and resolve issues using performance analytics, ensuring your site adapts to your evolving business needs. </p>
 												</div>
-												<div class="col-sm-12 col-md-5 text-center"> <img src="assets/images/services/website-development/website-development-04.png" alt="Website Development" class="img-fluid rounded shadow">
+												<div class="col-sm-12 col-md-5 text-center">
+													<img src="assets/images/services/website-development/website-development-04.png" alt="Website Development" class="img-fluid" loading="lazy">
 												</div>
 											</div>
 										</div>

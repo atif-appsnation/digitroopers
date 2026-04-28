@@ -570,7 +570,7 @@
                                 <div class="col-lg-4">
 									<div class="sidebar service-sidebar is-sticky">
 										<div class="widget widget-menu menu-style-2 wow fadeInUp glass" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<p class="widget-title fs-3">Our Services</p>
+											<p class="widget-title fs-3 text-primary fw-bold">Our Services</p>
 											<ul>
 												<li>
 													<a href="graphic-design">Graphics Design</a>

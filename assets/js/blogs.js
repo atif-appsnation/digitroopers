@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             blogsContainer.innerHTML += `
                 <div class="col-md-6 col-lg-4 mb-3">
-                    <div class="card blog-card h-100">
+                    <div class="card blog-card shadow-lg h-100">
                         <img src="${image}" alt="Blog" class="img-fluid">
                         <div class="d-flex justify-content-between bg-success text-white p-3">
                             <p class="mb-0">Digitroopers</p>

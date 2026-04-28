@@ -99,7 +99,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .list-wrapper .services-list {
+    .list-wrapper .graphics-design-list {
         height: 345px;
     }
 }
@@ -148,7 +148,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .list-wrapper .services-list {
+    .list-wrapper .graphics-design-list {
         height: 382px;
     }
 }
@@ -170,7 +170,7 @@
 		font-size: 72px;
 	}
 
-    .list-wrapper .services-list {
+    .list-wrapper .graphics-design-list {
         height: 382px;
     }
 }
@@ -184,7 +184,7 @@
 		height: 412px !important;
 	}
 
-    .list-wrapper .services-list {
+    .list-wrapper .graphics-design-list {
         height: 382px;
     }
 }
@@ -203,7 +203,7 @@
 		height: 392px !important;
 	}
 
-    .list-wrapper .services-list {
+    .list-wrapper .graphics-design-list {
         height: 345px;
     }
 }

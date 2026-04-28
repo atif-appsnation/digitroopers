@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -30,6 +30,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
     <body>
@@ -570,7 +614,7 @@
                                 <div class="col-lg-4">
 									<div class="sidebar service-sidebar is-sticky">
 										<div class="widget widget-menu menu-style-2 wow fadeInUp glass" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<p class="widget-title fs-3">Our Services</p>
+											<p class="widget-title fs-3 text-primary fw-bold">Our Services</p>
 											<ul>
 												<li>
 													<a href="graphic-design">Graphics Design</a>
@@ -626,104 +670,104 @@
 									</div>
 								</div>
 
-                                <div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
-                                    <div class="service-single">
-                                        <div class="service-img">
-                                            <img class="img-fluid pgsDownToUP wow" src="assets/images/services/social-media-marketing/social-media-marketing-01.png" alt="Social Media Marketing">
-                                        </div>
-                                        <div class="service-content">
-                                            <h2 class="service-title wow fadeInUp text-primary" data-wow-delay="0.1s" data-wow-duration="1500ms">Overview</h2>
-                                            <h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">A Social Media Marketing Agency which is zeroed on Social dominance through Active Engagement & Influential Content</h3>
-                                            <p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">If you are a start-up with a goal to establish your digital footprint or a fledgling brand geared to take your customer relations to the next level your search for a reliable social media marketing consultant or a full-service social media marketing agency ends here. DigiTroopers is a data-driven social media marketing agency providing strategy and execution for digital marketing on all social media platforms. We are able to blend exceptional creativity and data-informed logic to create phenomenal social media campaigns that deliver measurable results for our clients.</p>
-                                        </div>
-                                    </div>
-                                    <div class="service-single">
-                                        <div class="service-content">
-                                            <h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">How We Work?</h3>
-                                            <p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">With millions of active users social media platforms are a treasure trove potential leads and customers. DigiTroopers advanced social media marketing strategy can help you cut through the competition and reach your desired revenue and ROI targets whether your business model is B2B, B2C or C2C.</p>
-                                            <div class="list-wrapper py-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                                <ul class="list col-2 col-xs-1">
-                                                    <li class="glass"><i class="fa-solid fa-arrow-right"></i>For those of you who are serious about having more.</li>
-                                                    <li class="glass"><i class="fa-solid fa-arrow-right"></i>This is the beginning of creating the life that you want to live.</li>
-                                                    <li class="glass"><i class="fa-solid fa-arrow-right"></i>Success is something of which we all want more.</li>
-                                                    <li class="glass"><i class="fa-solid fa-arrow-right"></i>This is the beginning of creating the life that you want to live.</li>
-                                                </ul>
-                                            </div>
-                                            <div class="service-content mt-sm-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                                <p class="service-title">Service</p>
-                                                <h3 class="service-title">Our Services</h3>
-                                                <p>We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
-                                            </div>
-											<div class="my-4 d-flex flex-row gap-3 fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
-                                                    <h4 class="service-title">Social Media Strategy</h4>
-                                                    <p> Meticulous planning is at the root of spectacular Social Media Marketing results. The key elements of social media marketing strategy include developing a deep understanding of the target audience. Customer segmentation based on demographics and psychographics comes into play here. DigiTroopers conduct a deep dive into your market in the backdrop of your vision and mission to craft a feasible strategy to meet your business objectives. </p>
-                                                </div>
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
-                                                    <h4 class="service-title">Social Media Planning</h4>
-                                                    <p> DigiTroopers' social media experts design both your visual identity and business persona across a meticulously selected range of social media channels. We are experts at using a content-centric, multi-channel approach to inbound marketing. Our objectives are to help brands gain recognition, visibility, attract qualified leads into the sales funnel, convert existing leads, reduce customer attrition, and nurture loyal customers into brand evangelists — boosting revenue and sales opportunities.</p>
-                                                </div>
+                                <div class="col-lg-8 mt-5 mt-lg-0 ps-md-5">
+									<div class="service-single">
+										<div class="service-img">
+											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/social-media-marketing/social-media-marketing-01.png" alt="Social Media Marketing" loading="lazy">
+										</div>
+										<div class="service-content mt-3">
+											<h2 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Overview</h2>
+											<h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">A Social Media Marketing Agency which is zeroed on Social dominance through Active Engagement & Influential Content</h3>
+											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">If you are a start-up with a goal to establish your digital footprint or a fledgling brand geared to take your customer relations to the next level your search for a reliable social media marketing consultant or a full-service social media marketing agency ends here. DigiTroopers is a data-driven social media marketing agency providing strategy and execution for digital marketing on all social media platforms. We are able to blend exceptional creativity and data-informed logic to create phenomenal social media campaigns that deliver measurable results for our clients.</p>
+										</div>
+									</div>
+
+									<div class="service-single">
+										<div class="service-content">
+											<h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">How We Work?</h3>
+											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">With millions of active users social media platforms are a treasure trove potential leads and customers. DigiTroopers advanced social media marketing strategy can help you cut through the competition and reach your desired revenue and ROI targets whether your business model is B2B, B2C or C2C.</p>
+											<div class="list-wrapper py-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+												<ul class="list col-2 col-xs-1">
+													<li class="glass"><i class="fa-solid fa-arrow-right"></i>For those of you who are serious about having more.</li>
+													<li class="glass"><i class="fa-solid fa-arrow-right"></i>This is the beginning of creating the life that you want to live.</li>
+													<li class="glass"><i class="fa-solid fa-arrow-right"></i>Success is something of which we all want more.</li>
+													<li class="glass"><i class="fa-solid fa-arrow-right"></i>This is the beginning of creating the life that you want to live.</li>
+												</ul>
 											</div>
-                                            <div class="my-4 d-flex flex-row gap-3 fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
-                                                    <h4 class="service-title">Social Media Analytics</h4>
-                                                    <p> Although our hard-hitting, visually captivating content maximizes engagement and outreach, all our moves are guided solely by performance data and analytics and social media marketing insights. Using the latest techniques, like social listening, DigiTroopers regularly monitor social media performance metrics like engagements, conversions, and reputation against industry benchmarks in order to make informed decisions and quick remedial actions on customer retention, sales, and marketing strategy.</p>
-                                                </div>
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
-                                                    <h4 class="service-title">Social Media Management</h4>
-                                                    <p>DigiTroopers social media experts manage your social accounts so that you can concentrate on your core business operations. Quality content is at the heart of social media appeal. So whether it is posting regular updates or directly engaging with leads and existing customers, we devise a communication approach that is effective for your target audience. DigiTroopers also expands your outreach and strategic partnerships by engaging with influencers helping you earn valuable social media mentions.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                        
-                                    <div class="service-single">
-                                        <div class="service-img">
-                                            <img class="img-fluid pgsDownToUP wow" src="assets/images/services/social-media-marketing/social-media-marketing-02.png" alt= "Digital Marketing">
-                                        </div>
-                                        <div class="service-content">
-                                            <h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Social Media Advertising Services</h3>
-                                            <h4 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Active Engagement & Influential Content</h4>
-                                            <p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">DigiTroopers are determined to be the most affordable social media marketing outfits with Google Ads from among all other social media marketing companies in the market. In order to maximize Return on Ad Spend (ROAS), our social media marketing service pricing is flexible to your needs. Our packages suit all marketing budgets and with the help of our in-house graphic designers, copywriters, and ad management experts we ensure that your social advertising campaigns are managed through data-driven decisions providing the highest return on your investment.</p>
-                                        </div>
-                                    </div>
-                                    <div class="section-title mt-5 mb-4 mb-sm-5">
-                                        <h4 class="title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Frequently Asked Questions</h4>
-                                    </div>
-                                    <div class="accordion accordion-style-pgs-two wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms" id="pgsaccordion">
-                                        <div class="accordion-item">
-                                            <h5 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">01.Why are DigiTroopers differentiated among other social media marketing agencies in the USA?</button>
-                                            </h5>
-                                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#pgsaccordion">
-                                                <div class="accordion-body">DigiTroopers is AI-powered, real-time analytics, and creative storytelling that gives people campaigns that do not just increase likes, but make them loyal. In contrast to generic agencies, our strategy combines machine accuracy and human emotion, which guarantees brand increase and long-term loyalty of the audience.</div>
-                                            </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h5 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> 02.What will be the level of improvement in social media marketing using AI in 2026?</button>
-                                            </h5>
-                                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#pgsaccordion">
-                                                <div class="accordion-body">Marketers can forecast trends and personalize content, analyze audience behavior in real-time with the help of AI in 2026. DigiTroopers has an AI-based data analytics to monitor engagement trends, post at the right time, and do automatic targeting of its audiences, assisting clients in gaining swift growth and higher revenue on any platform.</div>
-                                            </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h5 class="accordion-header" id="headingThree">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03. What are the social media that DigiTroopers specialize in?</button>
-                                            </h5>
-                                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#pgsaccordion">
-                                                <div class="accordion-body">Our campaigns are handled on all the largest platforms such as Facebook, Instagram, LinkedIn, Tik Tok and X (Twitter). Using every strategy, our team will make it specific to the algorithm of the platform and the behavior of the audience so that your brand could have as much visibility and as much interaction as possible throughout the U.S. market.</div>
-                                            </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h5 class="accordion-header" id="headingFour">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">04.What is the anticipated time frame of the results of the social media marketing services provided by DigiTroopers to a business?</button>
-                                            </h5>
-                                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#pgsaccordion">
-                                                <div class="accordion-body">Although all campaigns are different, the majority of clients will start experiencing higher engagement within 30 days and high ROI increase within 3 to 6 months. All our posts, ads, and campaigns are driven by our data which means that every one of our products will bring you closer to business goals in an efficient and transparent way.</div>
-                                            </div>
-                                        </div>
-                                    </div>
+											<div class="service-content mt-sm-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+												<h3 class="service-title">Our Services</h3>
+												<p>We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
+											</div>
+											<div class="row my-4 fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+												<div class="col-12 col-md-6 col-lg-6 shadow-lg rounded p-4 glass">
+													<h4 class="service-title">Social Media Strategy</h4>
+													<p> Meticulous planning is at the root of spectacular Social Media Marketing results. The key elements of social media marketing strategy include developing a deep understanding of the target audience. Customer segmentation based on demographics and psychographics comes into play here. DigiTroopers conduct a deep dive into your market in the backdrop of your vision and mission to craft a feasible strategy to meet your business objectives. </p>
+												</div>
+												<div class="col-12 col-md-6 col-lg-6 shadow-lg rounded p-4 glass">
+													<h4 class="service-title">Social Media Planning</h4>
+													<p> DigiTroopers' social media experts design both your visual identity and business persona across a meticulously selected range of social media channels. We are experts at using a content-centric, multi-channel approach to inbound marketing. Our objectives are to help brands gain recognition, visibility, attract qualified leads into the sales funnel, convert existing leads, reduce customer attrition, and nurture loyal customers into brand evangelists — boosting revenue and sales opportunities.</p>
+												</div>
+												<div class="col-12 col-md-6 col-lg-6 mt-3 shadow-lg rounded p-4 glass">
+													<h4 class="service-title">Social Media Analytics</h4>
+													<p> Although our hard-hitting, visually captivating content maximizes engagement and outreach, all our moves are guided solely by performance data and analytics and social media marketing insights. Using the latest techniques, like social listening, DigiTroopers regularly monitor social media performance metrics like engagements, conversions, and reputation against industry benchmarks in order to make informed decisions and quick remedial actions on customer retention, sales, and marketing strategy.</p>
+												</div>
+												<div class="col-12 col-md-6 col-lg-6 mt-3 shadow-lg rounded p-4 glass">
+													<h4 class="service-title">Social Media Management</h4>
+													<p>DigiTroopers social media experts manage your social accounts so that you can concentrate on your core business operations. Quality content is at the heart of social media appeal. So whether it is posting regular updates or directly engaging with leads and existing customers, we devise a communication approach that is effective for your target audience. DigiTroopers also expands your outreach and strategic partnerships by engaging with influencers helping you earn valuable social media mentions.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="service-single">
+										<div class="service-img">
+											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/social-media-marketing/social-media-marketing-02.png" alt="Digital Marketing" loading="lazy">
+										</div>
+										<div class="service-content">
+											<h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Social Media Advertising Services</h3>
+											<h4 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Active Engagement & Influential Content</h4>
+											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">DigiTroopers are determined to be the most affordable social media marketing outfits with Google Ads from among all other social media marketing companies in the market. In order to maximize Return on Ad Spend (ROAS), our social media marketing service pricing is flexible to your needs. Our packages suit all marketing budgets and with the help of our in-house graphic designers, copywriters, and ad management experts we ensure that your social advertising campaigns are managed through data-driven decisions providing the highest return on your investment.</p>
+										</div>
+									</div>
+
+									<div class="section-title mt-5 mb-4 mb-sm-5">
+										<h4 class="title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Frequently Asked Questions</h4>
+									</div>
+									
+									<div class="accordion accordion-style-pgs-two wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms" id="pgsaccordion">
+										<div class="accordion-item">
+											<h5 class="accordion-header" id="headingOne">
+												<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">01.Why are DigiTroopers differentiated among other social media marketing agencies in the USA?</button>
+											</h5>
+											<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#pgsaccordion">
+												<div class="accordion-body">DigiTroopers is AI-powered, real-time analytics, and creative storytelling that gives people campaigns that do not just increase likes, but make them loyal. In contrast to generic agencies, our strategy combines machine accuracy and human emotion, which guarantees brand increase and long-term loyalty of the audience.</div>
+											</div>
+										</div>
+										<div class="accordion-item">
+											<h5 class="accordion-header" id="headingTwo">
+												<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> 02.What will be the level of improvement in social media marketing using AI in 2026?</button>
+											</h5>
+											<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#pgsaccordion">
+												<div class="accordion-body">Marketers can forecast trends and personalize content, analyze audience behavior in real-time with the help of AI in 2026. DigiTroopers has an AI-based data analytics to monitor engagement trends, post at the right time, and do automatic targeting of its audiences, assisting clients in gaining swift growth and higher revenue on any platform.</div>
+											</div>
+										</div>
+										<div class="accordion-item">
+											<h5 class="accordion-header" id="headingThree">
+												<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03. What are the social media that DigiTroopers specialize in?</button>
+											</h5>
+											<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#pgsaccordion">
+												<div class="accordion-body">Our campaigns are handled on all the largest platforms such as Facebook, Instagram, LinkedIn, Tik Tok and X (Twitter). Using every strategy, our team will make it specific to the algorithm of the platform and the behavior of the audience so that your brand could have as much visibility and as much interaction as possible throughout the U.S. market.</div>
+											</div>
+										</div>
+										<div class="accordion-item">
+											<h5 class="accordion-header" id="headingFour">
+												<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">04.What is the anticipated time frame of the results of the social media marketing services provided by DigiTroopers to a business?</button>
+											</h5>
+											<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#pgsaccordion">
+												<div class="accordion-body">Although all campaigns are different, the majority of clients will start experiencing higher engagement within 30 days and high ROI increase within 3 to 6 months. All our posts, ads, and campaigns are driven by our data which means that every one of our products will bring you closer to business goals in an efficient and transparent way.</div>
+											</div>
+										</div>
+									</div>
                                 </div>
                             </div>
                         </div>
@@ -735,11 +779,10 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="pricing-boxs grid-gap-30 grid-wrapper grid-xl-3 grid-lg-2 grid-sm-1">
-                                        <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s"
-                                            data-wow-duration="1500ms">
+                                        <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Startup Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -767,7 +810,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Scaling Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -803,7 +846,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Venture Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -827,7 +870,7 @@
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
-                                                <a href="#" class="btn">Choose Package</a>
+                                                <a href="contactus" class="btn">Choose Package</a>
                                             </div>
                                         </div>
                                     </div>
@@ -1025,13 +1068,13 @@
                     </div>
                     <!-- Start Portfolio-->
 
-                     <!-- Start Blogs -->
+                    <!-- Start Blogs -->
 					<section class="space-ptb">
 						<div class="container">
 							<div class="row">
 								<h3 class="text-primary my-4">[ Our Blogs ]</h3>
 								<div class="col-md-12">
-									<div id="blogs" class="blogs blog-grid grid-wrapper grid-xl-3 grid-lg-3 grid-md-2 grid-sm-2 grid-xs-1 text-black"> </div>
+									<div id="blogs" data-category="97" class="row"> </div>
 								</div>
 							</div>
 						</div>
@@ -1043,8 +1086,9 @@
 						<div class="container">
 							<div class="row align-items-end justify-content-between">
 								<div class="col-lg-6">
-									<div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="sub-title">[ Service Testimonials ]</span>
-										<h4 class="title  ">Client Speaks</h4> </div>
+									<div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+										<span class="sub-title">[ Service Testimonials ]</span>
+										<h4 class="title">Client Speaks</h4> </div>
 								</div>
 								<div class="col-lg-6">
 									<p>Check our customers success stories.</p>
@@ -1074,40 +1118,70 @@
 									<div class="owl-carousel owl-nav-center slider-overflow" data-nav-arrow="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-space="24">
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“Our website redesign was seamless and beautiful. The UI/UX team at DigiTroopers understood our vision and delivered a user-friendly design that boosted our conversion rate by 40%.”</p>
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Website & UI/UX Design</h5> <span class="author-position">Michael T., E-commerce Owner</span> </div>
+														<h5 class="author-name">Website & UI/UX Design</h5>
+														<span class="author-position">Michael T., E-commerce Owner</span>
+													</div>
 												</div>
 											</div>
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“The creative social media graphics helped us stand out in a crowded market. Engagement on our posts doubled within the first month after DigiTroopers took over our design work.”</p>
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Social Media Design</h5> <span class="author-position"> Aisha K., Marketing Manager</span> </div>
+														<h5 class="author-name">Social Media Design</h5>
+														<span class="author-position"> Aisha K., Marketing Manager</span>
+													</div>
 												</div>
 											</div>
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p> “From brochures to packaging, DigiTroopers nailed every detail. Their designs made our products look premium and customers instantly noticed the difference.”</p>
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Print & Packaging Design</h5> <span class="author-position"> Daniel P., Retail Business Owner</span> </div>
+														<h5 class="author-name">Print & Packaging Design</h5>
+														<span class="author-position"> Daniel P., Retail Business Owner</span>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -1408,72 +1482,7 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
         <script src="assets/js/themes.js"></script>
         <script src="assets/js/custom.js"></script>
-
-        <script>
-            const blogsContainer = document.getElementById('blogs');
-
-            // ✅ Original API URL
-            const BASE_API = 'https://blog.appsnation.co/api/get-blogs-api?category=metaverse-app';
-
-            // ✅ CORS Proxy that doesn't need manual activation
-            const PROXY = 'https://corsproxy.io/?';
-            const proxiedUrl = PROXY + encodeURIComponent(BASE_API);
-
-            fetch(proxiedUrl)
-            .then(res => {
-                if (!res.ok) throw new Error("Failed to fetch");
-                return res.json();
-            })
-            .then(response => {
-                blogsContainer.innerHTML = ''; // Clear "Loading..." message
-
-                const blogs = response.data;
-
-                if (!Array.isArray(blogs) || blogs.length === 0) {
-                blogsContainer.innerHTML = '<p class="p-black error">No blogs found.</p>';
-                return;
-                }
-
-                blogs.forEach(blog => {
-                const blogDiv = document.createElement('div');
-                blogDiv.className = 'blog';
-
-                // ✅ Build full image URL (it's relative in the response)
-                const imageUrl = `https://blog.appsnation.co/wp-content/uploads/${blog.featured_image_url}`;
-
-                
-                blogDiv.innerHTML = `
-                    <div class="blog-post blog-style-02 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-
-                            <div class="blog-post-img">
-                                <img class="img-fluid" src="${imageUrl}" alt="blogs">
-                                <div class="blog-post-category">
-                                <div class="post-meta-category">
-                                    <a href="#" rel="category tag">Marketing</a>
-                                </div>
-                                </div>
-                            </div>
-                            <div class="blog-post-info">
-                                <h4 class="post-title">
-                                <a href="${blog.guid}">${blog.post_title}</a>
-                                </h4>
-                                <div class="post-meta">
-                                <ul>
-                                    <li class="p-black post-meta-date">${blog.post_date}</li>
-                                </ul>
-                                </div>
-                            </div>
-                            </div>
-                `;
-
-                blogsContainer.appendChild(blogDiv);
-                });
-            })
-            .catch(err => {
-                console.error(err);
-                blogsContainer.innerHTML = '<p class="p-black error">❌ Failed to load blogs. Please try again later.</p>';
-            });
-        </script>
+		<script src="assets/js/blogs.js"></script>	
         
     </body>
 

@@ -2,20 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
-        <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
         <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css">
@@ -30,6 +29,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
 	<body>
@@ -569,7 +612,7 @@
 								<div class="col-lg-4">
 									<div class="sidebar service-sidebar is-sticky">
 										<div class="widget widget-menu menu-style-2 wow fadeInUp glass" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<p class="widget-title fs-3">Our Services</p>
+											<p class="widget-title fs-3 text-primary fw-bold">Our Services</p>
 											<ul>
 												<li>
 													<a class="active" href="graphic-design">Graphics Design</a>
@@ -598,7 +641,7 @@
 											</ul>
 										</div>
 										<div class="action-box action-box-style-03 wow fadeInUp glass" data-wow-delay="0.1s" data-wow-duration="1500ms">
-											<div class=" action-box-content">
+											<div class="action-box-content">
 												<p class="p-black title mb-0">For those of you who are serious about having more.</p>
 												<p class="p-black description">Optimize your marketing approach with a high-impact, professional website. </p>
 												<ul class="contact-details">
@@ -623,6 +666,7 @@
 										</div>
 									</div>
 								</div>
+
 								<div class="col-lg-8 mt-5 mt-lg-0 ps-md-5">
 									<div class="service-single">
 										<div class="service-img">
@@ -645,6 +689,7 @@
 											</div>
 										</div>
 									</div>
+									
 									<div class="service-single">
 										<div class="service-img">
 											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/graphics-design/graphics-design-02.png" alt="Graphics Design">
@@ -682,7 +727,7 @@
 												<h4 class="service-title wow fadeInUp">Graphics Design Services</h4>
 												<div class="col-md-6 col-xl-4">
 													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list services-list glass">
+														<ul class="list graphics-design-list glass shadow-lg">
 															<h5>Brand Identity & Corporate Visuals</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Logo Design</li>
 															<li><i class="fa-solid fa-arrow-right"></i>Business Card Design</li>
@@ -695,7 +740,7 @@
 												</div>
 												<div class="col-md-6 col-xl-4 mt-4 mt-md-0">
 													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list services-list glass">
+														<ul class="list graphics-design-list glass shadow-lg">
 															<h5>Art & Illustration</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Illustration Design </li>
 															<li><i class="fa-solid fa-arrow-right"></i>Book Cover Design </li>
@@ -708,7 +753,7 @@
 												</div>
 												<div class="col-md-6 col-xl-4 mt-4 mt-xl-0">
 													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list services-list glass">
+														<ul class="list graphics-design-list glass shadow-lg">
 															<h5>Graphic Design</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Infographic Design </li>
 															<li><i class="fa-solid fa-arrow-right"></i>3D Design</li>
@@ -721,7 +766,7 @@
 												</div>
 												<div class="col-md-6 col-xl-4 mt-4">
 													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list services-list glass">
+														<ul class="list graphics-design-list glass shadow-lg">
 															<h5>Print Design</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>flyer Design</li>
 															<li><i class="fa-solid fa-arrow-right"></i>Brochure Design </li>
@@ -734,7 +779,7 @@
 												</div>
 												<div class="col-md-6 col-xl-4 mt-4">
 													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list services-list glass">
+														<ul class="list graphics-design-list glass shadow-lg">
 															<h5>Web Design</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Web & Mobile UI/UX Design</li>
 															<li><i class="fa-solid fa-arrow-right"></i>WordPress Design </li>
@@ -745,7 +790,7 @@
 												</div>
 												<div class="col-md-6 col-xl-4 mt-4">
 													<div class="list-wrapper wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-														<ul class="list services-list glass">
+														<ul class="list graphics-design-list glass shadow-lg">
 															<h5>Social Media Designs</h5>
 															<li><i class="fa-solid fa-arrow-right"></i>Banner Ad Design </li>
 															<li><i class="fa-solid fa-arrow-right"></i>Newsletter Design </li>
@@ -1056,6 +1101,19 @@
 						</div>
 					</section>
 					<!-- End Portfolio -->
+
+					<!-- Start Blogs -->
+					<section class="space-ptb">
+						<div class="container">
+							<div class="row">
+								<h3 class="text-primary my-4">[ Our Blogs ]</h3>
+								<div class="col-md-12">
+									<div id="blogs" data-category="99" class="row"> </div>
+								</div>
+							</div>
+						</div>
+					</section>
+					<!-- End Blogs -->
 
 					<!-- Start Our Testimonial -->
 					<section class="my-5">
@@ -1426,6 +1484,7 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
         <script src="assets/js/themes.js"></script>
         <script src="assets/js/custom.js"></script>
+		<script src="assets/js/blogs.js"></script>
     </body>
 
 </html>
