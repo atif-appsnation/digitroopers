@@ -670,7 +670,7 @@
 									</div>
 								</div>
 
-                                <div class="col-lg-8 mt-5 mt-lg-0 ps-md-5">
+                                <div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
 									<div class="service-single">
 										<div class="service-img">
 											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/social-media-marketing/social-media-marketing-01.png" alt="Social Media Marketing" loading="lazy">
@@ -698,20 +698,20 @@
 												<h3 class="service-title">Our Services</h3>
 												<p>We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
 											</div>
-											<div class="row my-4 fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-												<div class="col-12 col-md-6 col-lg-6 shadow-lg rounded p-4 glass">
+											<div class="smm-services my-4 fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+												<div class="shadow-lg rounded p-4 glass">
 													<h4 class="service-title">Social Media Strategy</h4>
 													<p> Meticulous planning is at the root of spectacular Social Media Marketing results. The key elements of social media marketing strategy include developing a deep understanding of the target audience. Customer segmentation based on demographics and psychographics comes into play here. DigiTroopers conduct a deep dive into your market in the backdrop of your vision and mission to craft a feasible strategy to meet your business objectives. </p>
 												</div>
-												<div class="col-12 col-md-6 col-lg-6 shadow-lg rounded p-4 glass">
+												<div class="shadow-lg rounded p-4 glass">
 													<h4 class="service-title">Social Media Planning</h4>
 													<p> DigiTroopers' social media experts design both your visual identity and business persona across a meticulously selected range of social media channels. We are experts at using a content-centric, multi-channel approach to inbound marketing. Our objectives are to help brands gain recognition, visibility, attract qualified leads into the sales funnel, convert existing leads, reduce customer attrition, and nurture loyal customers into brand evangelists — boosting revenue and sales opportunities.</p>
 												</div>
-												<div class="col-12 col-md-6 col-lg-6 mt-3 shadow-lg rounded p-4 glass">
+												<div class="mt-3 shadow-lg rounded p-4 glass">
 													<h4 class="service-title">Social Media Analytics</h4>
 													<p> Although our hard-hitting, visually captivating content maximizes engagement and outreach, all our moves are guided solely by performance data and analytics and social media marketing insights. Using the latest techniques, like social listening, DigiTroopers regularly monitor social media performance metrics like engagements, conversions, and reputation against industry benchmarks in order to make informed decisions and quick remedial actions on customer retention, sales, and marketing strategy.</p>
 												</div>
-												<div class="col-12 col-md-6 col-lg-6 mt-3 shadow-lg rounded p-4 glass">
+												<div class="mt-3 shadow-lg rounded p-4 glass">
 													<h4 class="service-title">Social Media Management</h4>
 													<p>DigiTroopers social media experts manage your social accounts so that you can concentrate on your core business operations. Quality content is at the heart of social media appeal. So whether it is posting regular updates or directly engaging with leads and existing customers, we devise a communication approach that is effective for your target audience. DigiTroopers also expands your outreach and strategic partnerships by engaging with influencers helping you earn valuable social media mentions.</p>
 												</div>
@@ -782,7 +782,7 @@
                                         <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="package" loading="lazy">
+                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Startup Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -810,7 +810,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="package" loading="lazy">
+                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Scaling Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -846,7 +846,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package" loading="lazy">
+                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Venture Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -899,7 +899,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-01.webp" alt="Social Media Marketing">
+                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-01.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">
@@ -924,7 +924,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-02.webp" alt="Social Media Marketing">
+                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-02.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">
@@ -949,7 +949,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                            <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-03.webp" alt="Social Media Marketing">
+                                                            <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-03.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">
@@ -974,7 +974,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-04.webp" alt="Social Media Marketing">
+                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-04.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">
@@ -998,7 +998,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-05.webp" alt="Social Media Marketing">
+                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-05.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">
@@ -1022,7 +1022,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-06.webp" alt="Social Media Marketing">
+                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-06.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">

@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -30,6 +30,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
     <body>
@@ -625,7 +669,7 @@
 									</div>
 								</div>
 
-                                <div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
+                                <div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
                                     <div class="service-single">
                                         <div class="service-content">
                                             <div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
@@ -638,15 +682,14 @@
                                         <div class="service-content">
                                             <h2 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Digitroopers SEO Services</h2>
                                             <div class="service-img">
-                                                <img class="img-fluid pgsDownToUP wow my-3" src="assets/images/services/seo/seo-01.png" alt="SEO">
+                                                <img class="img-fluid pgsDownToUP wow my-3" src="assets/images/services/seo/seo-01.png" alt="SEO" loading="lazy">
                                             </div>
                                             <div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                                 <p>In an intensely competitive SEO battlefield, it’s vital that websites reach out effectively to a precisely targeted demographic. DigiTroopers operates as an integrated SEO agency in a multidisciplinary setting, combining design and novel SEO strategies in response to changing search algorithms.</p>
                                                 <p>In response to location-specific and voice-based queries on search engines DigiTroopers have fine-tuned long-tail keywords and geo-targeting strategies that ensure that your content and offers reach precise high-intent demographics. Our SEO optimized websites quickly attain and organically retain an authoritative position.</p>
                                                 <p>DigiTroopers are happy to offer local SEO services to local businesses at local SEO pricing. We offer affordable SEO packages for small businesses which include many of the elements you would expect from any leading SEO consulting services company or managed service provider.</p>
                                             </div>
-                                            <div class="list-wrapper py-4 wow fadeInUp" data-wow-delay="0.1s"
-                                                data-wow-duration="1500ms">
+                                            <div class="list-wrapper py-4 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                                 <ul class="list col-2 col-xs-1">
                                                     <li class="glass"><i class="fa-solid fa-arrow-right"></i>For those of you who are serious about having more.</li>
                                                     <li class="glass"><i class="fa-solid fa-arrow-right"></i>This is the beginning of creating the life that you want to live.</li>
@@ -654,25 +697,21 @@
                                                     <li class="glass"><i class="fa-solid fa-arrow-right"></i>This is the beginning of creating the life that you want to live.</li>
                                                 </ul>
                                             </div>
-                                            <div class="mt-4 mt-sm-5 wow fadeInUp" data-wow-delay="0.1s"
-                                                data-wow-duration="1500ms">
+                                            <div class="mt-4 mt-sm-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                                 <p class="service-title">[Service]</p>
                                                 <h3 class="service-title ">Our SEO Agency Have The Best Solutions For Search Engine optimization</h3>
-                                                <div class="my-4 d-flex flex-row gap-3">
-                                                    <div
-                                                        class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
+                                                <div class="my-4 seo-services mx-2 mx-md-0">
+                                                    <div class="shadow-lg rounded p-4 glass">
                                                         <h4 class="service-title">On-Page SEO</h4>
                                                         <p> Search engines seek out these tags on a website to “understand” the meaning, relevancy, and intent of any content. On-page SEO is all about managing tags and the keywords or information within, enabling search engines to satisfy a user query. This is very important for top ranking. </p>
                                                         <p>DigiTroopers On-page SEO Services strive to balance between the demands of search engine algorithms and the information that a website user obtains from clicking on a link. We produce impeccable work, shun keyword stuffing, and dedicate ourselves to quality content that boosts page visibility precisely defining relevancy to the subject. </p>
                                                     </div>
-                                                    <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
+                                                    <div class="mt-3 mt-md-0 shadow-lg rounded p-4 glass">
                                                         <h4 class="service-title">Off-Page SEO</h4>
                                                         <p>  Off-Page SEO experts at DigiTroopers create ranking signals that are passed on to search engines. Algorithms run by these search engines track and analyze these signals to determine how helpful, popular, and authoritative a page or website is when compared to millions of others which may be similar.</p>
                                                         <p>DigiTroopers Off-Page SEO services include backlink profiling, link building, guest posting, and other growth hacking off-page SEO techniques are the secret weapons of inbound marketing. our team engages social influencers and creates local business listing especially suited to small businesses & start-ups. </p>
                                                     </div>
-                                                </div>
-                                                <div class="my-4 d-flex flex-row gap-3">
-                                                    <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 glass">
+                                                    <div class="mt-3 mt-lg-0 shadow-lg rounded p-4 glass">
                                                         <h4 class="service-title">Technical SEO</h4>
                                                         <p>Technical SEO concerns itself with tweaks to the structure, data, and back-end coding of a page or website. A well managed Technical SEO from the start can provide a website with a definitive advantage over the competition in terms of ranking.</p>
                                                         <p>DigiTroopers SEO marketing services cater to the requirements of Technical SEO from the get-go. Our professional SEO services focus attention on boosting site speed, data caching, utilizing content distribution networks (CDN), reducing media file sizes, and making websites mobile responsive. All these factors put together to provide the greatest upward push to a website or page rank.</p>
@@ -760,7 +799,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Startup Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -792,7 +831,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Scaling Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -827,7 +866,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h6 class="title">Venture Plan</h6>
                                                 <span class="subheading">Great For Small Business</span>
@@ -870,8 +909,10 @@
 						<div class="container">
 							<div class="row align-items-end justify-content-between">
 								<div class="col-lg-6">
-									<div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="sub-title">[ Service Testimonials ]</span>
-										<h4 class="title  ">Client Speaks</h4> </div>
+									<div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+										<span class="sub-title">[ Service Testimonials ]</span>
+										<h4 class="title">Client Speaks</h4>
+									</div>
 								</div>
 								<div class="col-lg-6">
 									<p>Check our customers success stories.</p>
@@ -901,8 +942,16 @@
 									<div class="owl-carousel owl-nav-center slider-overflow" data-nav-arrow="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-space="24">
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“Our website redesign was seamless and beautiful. The UI/UX team at DigiTroopers understood our vision and delivered a user-friendly design that boosted our conversion rate by 40%.”</p>
 												</div>
@@ -914,8 +963,16 @@
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“The creative social media graphics helped us stand out in a crowded market. Engagement on our posts doubled within the first month after DigiTroopers took over our design work.”</p>
 												</div>
@@ -927,8 +984,16 @@
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p> “From brochures to packaging, DigiTroopers nailed every detail. Their designs made our products look premium and customers instantly noticed the difference.”</p>
 												</div>

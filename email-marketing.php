@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -30,6 +30,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
 	<body>
@@ -504,7 +548,7 @@
 				<div class="container">
 					<div class="row mt-4">
 						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+							<div class="counter counter-style-1 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number rounded">
 									<img src="assets/images/graphics/deal.svg" alt="deal" class="img-fluid white-icon">
 								</div>
@@ -518,7 +562,7 @@
 							</div>
 						</div>
 						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+							<div class="counter counter-style-1 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number">
 									<img src="assets/images/graphics/computers.svg" alt="computers" class="img-fluid white-icon">
 								</div>
@@ -531,7 +575,7 @@
 							</div>
 						</div>
 						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+							<div class="counter counter-style-1 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number">
 									<img src="assets/images/graphics/worker.svg" alt="worker-24hrs" class="img-fluid white-icon">
 								</div>
@@ -544,7 +588,7 @@
 							</div>
 						</div>
 						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+							<div class="counter counter-style-1 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number">
 									<img src="assets/images/graphics/customer-service.svg" alt="customer-service" class="img-fluid white-icon">
 								</div>
@@ -625,10 +669,10 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
+								<div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-xl-5">
 									<div class="service-single my-5">
 										<div class="service-img">
-											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/email-marketing/email-marketing-01.png" alt="Email Marketing">
+											<img class="img-fluid wow" src="assets/images/services/email-marketing/email-marketing-01.png" alt="Email Marketing" loading="lazy">
 										</div>
 										<div class="service-content ps-0 ps-md-5 mt-4 mt-sm-5">
 											<h2 class="service-title wow fadeInUp text-primary" data-wow-delay="0.1s" data-wow-duration="1500ms">Email Marketing Services</h2>
@@ -641,40 +685,40 @@
 						
 										<div class="service-content">
 											<div class="service-img">
-												<img class="img-fluid pgsDownToUP wow" src="assets/images/services/email-marketing/email-marketing-02.png" alt="Email Marketing">
+												<img class="img-fluid wow" src="assets/images/services/email-marketing/email-marketing-02.png" alt="Email Marketing" loading="lazy">
 											</div>
-											<h3 class="service-title wow fadeInUp text-primary data-wow-delay 0.1s" data-wow-duration="1500ms">Our Approch To Email Marketing</h3>
+											<h3 class="service-title wow fadeInUp text-primary data-wow-delay 0.1s mt-4" data-wow-duration="1500ms">Our Approch To Email Marketing</h3>
 											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">DigiTroopers is an accomplished boutique <a href="index"> digital marketing </a>company that you will be discovered to be at par with the best email marketing agency you can find. Bulk email marketing services are no longer useful as they are liable to classified as spam and usually blocked or directed to trash bins. We start with understanding your <a href="./ecommerce">business </a> model and goals to develop an effective Email Marketing Strategy for you. The next step is email list maintenance, where we set about creating a plan of action collect, segment and regularly update a list of subscribers for the informational and marketing content we intend to distribute.</p>
 										</div>
 						
 										<div class="service-img">
-											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/email-marketing/email-marketing-02.png" alt="Email Marketing">
+											<img class="img-fluid wow" src="assets/images/services/email-marketing/email-marketing-02.png" alt="Email Marketing" loading="lazy">
 										</div>
 
-										<div class="service-content">
+										<div class="service-content mt-4">
 											<h3 class="service-title wow fadeInUp"data-wow-delay="0.1s" data-wow-duration="1500ms">Digitroopers Email Marketing Expertise</h3>
 											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Depending on factors like your revenue and outreach goals as well as budget we create the content and determine the frequency and timing of communication. We are experts in designing and implementing all types of Email Marketing ad Advertising Campaigns from special or one off promotions to running a regular Digital Magazine or Subscription Newsletter on a periodic basis. DigiTroopers are also equipped to create assets like E-Books, White Papers, Guides and Product Catalogues. These are vital elements that entice users to share their contact details with you and allow you to send them relevant information and marketing offers directly into their inboxes.</p> 
 										</div>
 
-										<div class="service-content">
+										<div class="service-content mt-4">
 											<h3 class="service-title wow fadeInUp">Why Implement Email Marketing</h3>
 											<p>The primary goal of an effective email marketing strategy is to connect with and convert prospects into customers, eventually winning them over as loyal patrons. People across all demographics prefer email over other permission-based advertising which is perhaps why Email marketing has the highest ROI relative to other digital marketing methods used by both B2B and B2C marketers.</p>
 										</div>
 
 										<div class="service-img">
-											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/email-marketing/email-marketing-03.png" alt="Email Marketing">
+											<img class="img-fluid wow" src="assets/images/services/email-marketing/email-marketing-03.png" alt="Email Marketing" loading="lazy">
 										</div>
 
-										<div class="service-content">
+										<div class="service-content mt-4">
 											<h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Digitroopers Customized Email Design & Delivery</h3>
 											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Our Custom Email Designs are going to give you a definitive edge in the market. Customisation, personalization and device optimization is vital because recipients of your message should continue to derive value from your messages and you should be able to get as much value from their patronage in terms of business growth. Whether you need to send automated responses like kickback emails from lead offers, thank you emails after purchase, promote a new product or service offering or even boost current campaigns; our designs can make the difference and make the call-to-action “pop” driving the results your desire and building the relationships you need.</p>
 										</div>
 
 										<div class="service-img">
-											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/email-marketing/email-marketing-04.png" alt="Email Marketing">
+											<img class="img-fluid wow" src="assets/images/services/email-marketing/email-marketing-04.png" alt="Email Marketing" loading="lazy">
 										</div>
 
-										<div class="service-content">
+										<div class="service-content mt-4">
 											<h3 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Email Marketing Performance Management</h3>
 											<p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">We are an ROI-focused email marketing services provider obsessed with taking the guesswork out of optimizing targeted email marketing campaigns. This is why let actual data drive our email marketing decisions. We build accurate buyer profiles based on email subscriber actions and perform A/B testing on segmented recipient lists. Some of the metrics we track, analyse and share with our clients are open rates, CTR, link performance, bounce & unsubscribe rates. Our Email marketing performance reporting is transparent, detailed and easy to understand so that you can stay on top of the email marketing game.</p> 
 										</div>
@@ -733,7 +777,7 @@
 								<div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 									<div class="pricing-header">
 										<span class="pricing-icon">
-											<img class="img-fluid" src="assets/images/svg/package.svg" alt="package">
+											<img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
 										</span>
 										<h6 class="title">Basic</h6>
 										<span class="subheading">Great For Small Business</span>
@@ -762,10 +806,10 @@
 
 							<!-- Pricing Card 2 -->
 							<div class="col-lg-4 col-md-6">
-								<div class="pricing-box active wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+								<div class="pricing-box active wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms" loading="lazy">
 									<div class="pricing-header">
 										<span class="pricing-icon">
-											<img class="img-fluid" src="assets/images/svg/book.svg" alt="package">
+											<img class="img-fluid" src="assets/images/svg/book.svg" alt="Package">
 										</span>
 										<h6 class="title">Beginners</h6>
 										<span class="subheading">Great For Small Business</span>
@@ -797,7 +841,7 @@
 								<div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1500ms">
 									<div class="pricing-header">
 										<span class="pricing-icon">
-											<img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package">
+											<img class="img-fluid" src="assets/images/svg/diamond.svg" alt="Package" loading="lazy">
 										</span>
 										<h6 class="title">Advanced</h6>
 										<span class="subheading">Great For Small Business</span>
@@ -834,8 +878,10 @@
 						<div class="container">
 							<div class="row align-items-end justify-content-between">
 								<div class="col-lg-6">
-									<div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="sub-title">[ Service Testimonials ]</span>
-										<h4 class="title">Client Speaks</h4> </div>
+									<div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+										<span class="sub-title">[ Service Testimonials ]</span>
+										<h4 class="title">Client Speaks</h4>
+									</div>
 								</div>
 								<div class="col-lg-6">
 									<p>Check our customers success stories.</p>
@@ -865,8 +911,16 @@
 									<div class="owl-carousel owl-nav-center slider-overflow" data-nav-arrow="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-space="24">
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“Our website redesign was seamless and beautiful. The UI/UX team at DigiTroopers understood our vision and delivered a user-friendly design that boosted our conversion rate by 40%.”</p>
 												</div>
@@ -878,8 +932,16 @@
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“The creative social media graphics helped us stand out in a crowded market. Engagement on our posts doubled within the first month after DigiTroopers took over our design work.”</p>
 												</div>
@@ -891,8 +953,16 @@
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p> “From brochures to packaging, DigiTroopers nailed every detail. Their designs made our products look premium and customers instantly noticed the difference.”</p>
 												</div>

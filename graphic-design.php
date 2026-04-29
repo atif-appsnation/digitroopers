@@ -667,10 +667,10 @@
 									</div>
 								</div>
 
-								<div class="col-lg-8 mt-5 mt-lg-0 ps-md-5">
+								<div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
 									<div class="service-single">
 										<div class="service-img">
-											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/graphics-design/graphics-design-01.png" alt="Graphics Design">
+											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/graphics-design/graphics-design-01.png" alt="Graphics Design"  loading="lazy">
 										</div>
 										<div class="service-content mt-4">
 											<h2 class="service-title fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Graphics Design Services</h2>
@@ -692,7 +692,7 @@
 									
 									<div class="service-single">
 										<div class="service-img">
-											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/graphics-design/graphics-design-02.png" alt="Graphics Design">
+											<img class="img-fluid pgsDownToUP wow" src="assets/images/services/graphics-design/graphics-design-02.png" alt="Graphics Design" loading="lazy">
 										</div>
 										<div class="service-content">
 											<h2 class="service-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Top Branding And Creative Design</h2>
@@ -857,7 +857,7 @@
 										<div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 											<div class="pricing-header">
 												<span class="pricing-icon">
-													<img class="img-fluid" src="assets/images/svg/package.svg" alt="">
+													<img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
 												</span>
 												<h6 class="title">Basic</h6>
 												<span class="subheading">Great For Small Business</span>
@@ -887,7 +887,7 @@
 										<div class="pricing-box active wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
 											<div class="pricing-header">
 												<span class="pricing-icon">
-													<img class="img-fluid" src="assets/images/svg/book.svg" alt="">
+													<img class="img-fluid" src="assets/images/svg/book.svg"  alt="Package" loading="lazy">
 												</span>
 												<h6 class="title">Beginners</h6> 
 												<span class="subheading">Great For Small Business</span>
@@ -922,7 +922,7 @@
 										<div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1500ms">
 											<div class="pricing-header">
 												<span class="pricing-icon">
-													<img class="img-fluid" src="assets/images/svg/diamond.svg" alt="">
+													<img class="img-fluid" src="assets/images/svg/diamond.svg"  alt="Package" loading="lazy">
 												</span>
 												<h6 class="title">Premium</h6>
 												<span class="subheading">Great For Small Business</span>
@@ -978,7 +978,7 @@
 										<div class="grid-item" data-groups='["UI/UX"]'>
 											<div class="case-studies-wrapper case-studies-style-1">
 												<div class="case-studies-img">
-													<img class="img-fluid" src="assets/images/portfolio/1.webp" alt="">
+													<img class="img-fluid" src="assets/images/portfolio/1.webp" alt="Portfolio" loading="lazy">
 												</div>
 												<div class="case-studies-info">
 													<div class="case-studies-info-inner">
@@ -1002,7 +1002,7 @@
 										<div class="grid-item" data-groups='["UI/UX"]'>
 											<div class="case-studies-wrapper case-studies-style-1">
 												<div class="case-studies-img">
-													<img class="img-fluid" src="assets/images/portfolio/2.webp" alt="">
+													<img class="img-fluid" src="assets/images/portfolio/2.webp" alt="Portfolio" loading="lazy">
 												</div>
 												<div class="case-studies-info">
 													<div class="case-studies-info-inner">
@@ -1026,7 +1026,7 @@
 										<div class="grid-item" data-groups='["Graphic"]'>
 											<div class="case-studies-wrapper case-studies-style-1">
 												<div class="case-studies-img">
-													<img class="img-fluid" src="assets/images/portfolio/3.webp" alt="">
+													<img class="img-fluid" src="assets/images/portfolio/3.webp" alt="Portfolio" loading="lazy">
 												</div>
 												<div class="case-studies-info">
 													<div class="case-studies-info-inner">
@@ -1050,7 +1050,7 @@
 										<div class="grid-item" data-groups='["Graphic"]'>
 											<div class="case-studies-wrapper case-studies-style-1">
 												<div class="case-studies-img">
-													<img class="img-fluid" src="assets/images/portfolio/4.webp" alt="">
+													<img class="img-fluid" src="assets/images/portfolio/4.webp" alt="Portfolio" loading="lazy">
 												</div>
 												<div class="case-studies-info">
 													<div class="case-studies-info-inner">
@@ -1074,7 +1074,7 @@
 										<div class="grid-item" data-groups='["UI/UX"]'>
 											<div class="case-studies-wrapper case-studies-style-1">
 												<div class="case-studies-img">
-													<img class="img-fluid cover" src="assets/images/portfolio/5.webp" alt="">
+													<img class="img-fluid cover" src="assets/images/portfolio/5.webp" alt="Portfolio" loading="lazy">
 												</div>
 												<div class="case-studies-info">
 													<div class="case-studies-info-inner">

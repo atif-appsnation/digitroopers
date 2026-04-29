@@ -8520,3 +8520,17 @@ body:has(#search.open):before {
     color: var(--white-color);
     background-color: var(--secondary-color);
 }
+
+.seo-services {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-column-gap: 10px;
+	grid-row-gap: 0px;
+}
+
+.smm-services {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-column-gap: 10px;
+	grid-row-gap: 0px;
+}
