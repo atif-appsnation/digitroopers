@@ -669,12 +669,12 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-xl-5">
+								<div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
 									<div class="service-single my-5">
 										<div class="service-img">
 											<img class="img-fluid wow" src="assets/images/services/email-marketing/email-marketing-01.png" alt="Email Marketing" loading="lazy">
 										</div>
-										<div class="service-content ps-0 ps-md-5 mt-4 mt-sm-5">
+										<div class="service-content mt-4 mt-sm-5">
 											<h2 class="service-title wow fadeInUp text-primary" data-wow-delay="0.1s" data-wow-duration="1500ms">Email Marketing Services</h2>
 											<div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 												<p >Email marketing isn’t an unsolicited direct mass marketing method which may also be called spam.</p>
@@ -892,16 +892,26 @@
 									<div class="action-box wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 										<div class="client-reviews">
 											<ul class="client-profile">
-												<li> <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing"> </li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
 											</ul>
-											<div class="reviews"><span class="reviews-number text-white"> 1,000+</span> <span>Client Reviews</span></div>
+											<div class="reviews">
+												<span class="reviews-number text-white"> 1,000+</span>
+												<span>Client Reviews</span>
+											</div>
 										</div>
 										<div class="action-box-content">
 											<div class="counter counter-style-1 p-0">
 												<div class="counter-number">
-													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4> </div>
+													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4>
+												</div>
 											</div>
 											<p class=" rating-description">Customers are Satisfied with the Technology Services.</p>
 										</div>
@@ -926,7 +936,9 @@
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Website & UI/UX Design</h5> <span class="author-position">Michael T., E-commerce Owner</span> </div>
+														<h5 class="author-name">Website & UI/UX Design</h5>
+														<span class="author-position">Michael T., E-commerce Owner</span>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -947,7 +959,9 @@
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Social Media Design</h5> <span class="author-position"> Aisha K., Marketing Manager</span> </div>
+														<h5 class="author-name">Social Media Design</h5>
+														<span class="author-position"> Aisha K., Marketing Manager</span>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -968,7 +982,9 @@
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Print & Packaging Design</h5> <span class="author-position"> Daniel P., Retail Business Owner</span> </div>
+														<h5 class="author-name">Print & Packaging Design</h5>
+														<span class="author-position"> Daniel P., Retail Business Owner</span>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -1023,10 +1039,18 @@
 															<h4 class="title">Social network</h4>
 															<div class="widget-social">
 																<ul class="social-icon">
-																	<li> <a href="https://www.facebook.com/DigiTroopers/">Fa.</a> </li>
-																	<li> <a href="https://x.com/Digi_Troopers/">Tw.</a> </li>
-																	<li> <a href="https://www.linkedin.com/company/digitroopers/">Lin.</a> </li>
-																	<li> <a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a> </li>
+																	<li>
+																		<a href="https://www.facebook.com/DigiTroopers/">Fa.</a>
+																	</li>
+																	<li>
+																		<a href="https://x.com/Digi_Troopers/">Tw.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a>
+																	</li>
 																</ul>
 															</div>
 														</div>
@@ -1042,11 +1066,14 @@
 													<form class="contact-form form-style-fill">
 														<div class="row">
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required> </div>
+																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required>
+															</div>
 															<div class="col-md-12">
-																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required> </div>
+																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required>
+															</div>
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required> </div>
+																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required>
+															</div>
 															<div class="col-md-12">
 																<textarea class="form-control" placeholder="Write Message" rows="3"></textarea>
 															</div>
@@ -1117,7 +1144,7 @@
 											<a href="portfolio">Portfolio</a>
 										</li>
 										<li>
-											<a  href="insight">Insights</a>
+											<a href="insight">Insights</a>
 										</li>
 										<li>
 											<a href="career">Careers</a>

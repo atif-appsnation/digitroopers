@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -30,6 +30,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
     <body>
@@ -506,7 +550,7 @@
 						<div class="col-sm-6 col-md-6 col-lg-3">
 							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number rounded">
-									<img src="assets/images/graphics/deal.svg" alt="deal" class="img-fluid white-icon">
+									<img src="assets/images/graphics/deal.svg" alt="deal" class="img-fluid white-icon" loading="lazy">
 								</div>
 								<div class="counter-info counter-number ps-6">
 									<span class="counter-title">Happy Clients</span>
@@ -520,9 +564,10 @@
 						<div class="col-sm-6 col-md-6 col-lg-3">
 							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number">
-									<img src="assets/images/graphics/computers.svg" alt="computers" class="img-fluid white-icon">
+									<img src="assets/images/graphics/computers.svg" alt="computers" class="img-fluid white-icon" loading="lazy">
 								</div>
-								<div class="counter-info counter-number"> <span class="counter-title">Projects Done</span>
+								<div class="counter-info counter-number">
+									<span class="counter-title">Projects Done</span>
 									<div class="d-flex">
 										<span class="timer mb-0" data-to="48" data-speed="2000">48</span>
 										<span class="suffix">K</span>
@@ -533,9 +578,10 @@
 						<div class="col-sm-6 col-md-6 col-lg-3">
 							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number">
-									<img src="assets/images/graphics/worker.svg" alt="worker-24hrs" class="img-fluid white-icon">
+									<img src="assets/images/graphics/worker.svg" alt="worker-24hrs" class="img-fluid white-icon" loading="lazy">
 								</div>
-								<div class="counter-info counter-number"> <span class="counter-title">Hours Worked</span>
+								<div class="counter-info counter-number">
+									<span class="counter-title">Hours Worked</span>
 									<div class="d-flex">
 										<span class="timer mb-0" data-to="240" data-speed="2000">95</span>
 										<span class="suffix">K</span>
@@ -546,7 +592,7 @@
 						<div class="col-sm-6 col-md-6 col-lg-3">
 							<div class="counter counter-style-1 pgsDownToUP wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
 								<div class="counter-number">
-									<img src="assets/images/graphics/customer-service.svg" alt="customer-service" class="img-fluid white-icon">
+									<img src="assets/images/graphics/customer-service.svg" alt="customer-service" class="img-fluid white-icon" loading="lazy">
 								</div>
 								<div class="counter-info counter-number">
 									<span class="counter-title">Support Available</span>
@@ -626,53 +672,43 @@
 									</div>
 								</div>
 
-                                <div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
+                                <div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
                                     <div class="service-single">
                                         <div class="service-content mt-4 mt-sm-5 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <h2 class="service-title">Paid Marketing Company That Provides All Solutions</h2>
                                             <p>DigiTroopers is a premier Google Ads Management Agency geared towards providing, search engine marketing & PPC management to get your business the impressions, traffic and leads it needs to outperform the competition. So if you were on the market for a PPC specialist or Google AdWords campaign management services provider your search ends here. Our PPC services are rendered by experts with years of experience in providing Google AdWords PPC management and Google Lead Services to several brands in diverse industries. Just let us now and we will take up your digital advertising goals as our own.</p>
                                         </div>
                                         <div class="service-img">
-                                            <img class="img-fluid pgsDownToUP wow" src="assets/images/services/ppc-managment/ppc-managment-01.png" alt="PPC Management">
+                                            <img class="img-fluid wow" src="assets/images/services/ppc-managment/ppc-managment-01.png" alt="PPC Management" loading="lazy">
                                         </div>
-                                        <div class="service-content">
+                                        <div class="service-content mt-4">
                                             <p class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Meticulous planning of lead generation campaigns requires a deep understanding of specific buyers’ persona within a target audience coupled with meticulous keyword research. Only then can unique and compelling Ads can be designed to meet your goals. You can trust DigiTroopers to to take on the challenge of targeting high quality traffic, generate hot leads for your business and watch your conversions explode.</p>
-                                            
-                                            <div class="my-4 d-flex flex-row gap-3">
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 wow fadeInUp glass">
+                                            <div class="pm-services my-4 fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+												<div class="shadow-lg rounded p-4 glass">
                                                     <h3 class="service-title">Search ADS</h3>
                                                     <p>Be prominent on SERPs whenever products or services similar to yours are searched </p>
                                                 </div>
-
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 wow fadeInUp glass">
+                                                <div class="shadow-lg rounded p-4 glass">
                                                     <h3 class="service-title">Display ADS</h3>
                                                     <p>Appear in front of your potential customers when they are intently considering a purchase. </p>
                                                 </div>
-                                            </div>
-
-                                            <div class="my-4 d-flex flex-row gap-3">
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 wow fadeInUp glass">
+                                                <div class="shadow-lg rounded p-4 glass">
                                                     <h3 class="service-title">App ADS</h3>
                                                     <p>Call specific actions from users and get them to install your App. </p>
                                                 </div>
-
-                                                <div  class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 wow fadeInUp glass">
+                                                <div  class="shadow-lg rounded p-4 glass">
                                                     <h3 class="service-title">Re-Marketing</h3>
                                                     <p>Reconnect with existing customers or user’s who are liable to but still haven’t purchased. </p>
                                                 </div>
-                                            </div>
-
-                                            <div class="my-4 d-flex flex-row gap-3">
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 wow fadeInUp glass">
+                                                <div class="shadow-lg rounded p-4 glass">
                                                     <h3 class="service-title">Shopping ADS</h3>
                                                     <p> High intent users considering a product purchase are ripe for shopping ads </p>
                                                 </div>
-
-                                                <div class="col-sm-12 col-md-6 col-lg-6 border border-secondary rounded p-4 wow fadeInUp glass">
+                                                <div class="shadow-lg rounded p-4 glass">
                                                     <h3 class="service-title">Rewarded ADS</h3>
                                                     <p>Provide an opportunity for users to watch a video or engage with a Playable ad in exchange for a “reward” within your app/website </p>
                                                 </div>
-                                            </div>
+											</div>
 
                                             <div class="section-title mt-5 mb-4 mb-sm-5">
                                                 <h3 class="title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Frequently Asked Questions</h3>
@@ -728,7 +764,7 @@
                                         <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <span class="subheading">Great For Small Business</span>
                                             </div>
@@ -753,7 +789,7 @@
                                         <div class="pricing-box active wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <span class="subheading">Mid Enterprises</span>
                                             </div>
@@ -778,7 +814,7 @@
                                         <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <span class="subheading">Large Enterprise</span>
                                             </div>
@@ -825,7 +861,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ppc/mosemagi.webp" alt="Mosemagi">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ppc/mosemagi.webp" alt="Mosemagi" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -850,7 +886,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ppc/appsnation.webp" alt="AppsNation">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ppc/appsnation.webp" alt="AppsNation" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -908,18 +944,28 @@
 									<div class="action-box wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 										<div class="client-reviews">
 											<ul class="client-profile">
-												<li> <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing"> </li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
 											</ul>
-											<div class="reviews"><span class="reviews-number text-white"> 1,000+</span> <span>Client Reviews</span></div>
+											<div class="reviews">
+												<span class="reviews-number text-white"> 1,000+</span>
+												<span>Client Reviews</span>
+											</div>
 										</div>
 										<div class="action-box-content">
 											<div class="counter counter-style-1 p-0">
 												<div class="counter-number">
-													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4> </div>
+													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4>
+												</div>
 											</div>
-											<p class=" rating-description">Customers are Satisfied with the Technology Services.</p>
+											<p class="rating-description">Customers are Satisfied with the Technology Services.</p>
 										</div>
 									</div>
 								</div>
@@ -927,40 +973,70 @@
 									<div class="owl-carousel owl-nav-center slider-overflow" data-nav-arrow="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-space="24">
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“Our website redesign was seamless and beautiful. The UI/UX team at DigiTroopers understood our vision and delivered a user-friendly design that boosted our conversion rate by 40%.”</p>
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Website & UI/UX Design</h5> <span class="author-position">Michael T., E-commerce Owner</span> </div>
+														<h5 class="author-name">Website & UI/UX Design</h5>
+														<span class="author-position">Michael T., E-commerce Owner</span>
+													</div>
 												</div>
 											</div>
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“The creative social media graphics helped us stand out in a crowded market. Engagement on our posts doubled within the first month after DigiTroopers took over our design work.”</p>
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Social Media Design</h5> <span class="author-position"> Aisha K., Marketing Manager</span> </div>
+														<h5 class="author-name">Social Media Design</h5>
+														<span class="author-position"> Aisha K., Marketing Manager</span>
+													</div>
 												</div>
 											</div>
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p> “From brochures to packaging, DigiTroopers nailed every detail. Their designs made our products look premium and customers instantly noticed the difference.”</p>
 												</div>
 												<div class="testimonial-author">
 													<div class="author-info">
-														<h5 class="author-name">Print & Packaging Design</h5> <span class="author-position"> Daniel P., Retail Business Owner</span> </div>
+														<h5 class="author-name">Print & Packaging Design</h5>
+														<span class="author-position"> Daniel P., Retail Business Owner</span>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -1015,10 +1091,18 @@
 															<h4 class="title">Social network</h4>
 															<div class="widget-social">
 																<ul class="social-icon">
-																	<li> <a href="https://www.facebook.com/DigiTroopers/">Fa.</a> </li>
-																	<li> <a href="https://x.com/Digi_Troopers/">Tw.</a> </li>
-																	<li> <a href="https://www.linkedin.com/company/digitroopers/">Lin.</a> </li>
-																	<li> <a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a> </li>
+																	<li>
+																		<a href="https://www.facebook.com/DigiTroopers/">Fa.</a>
+																	</li>
+																	<li>
+																		<a href="https://x.com/Digi_Troopers/">Tw.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a>
+																	</li>
 																</ul>
 															</div>
 														</div>
@@ -1034,11 +1118,14 @@
 													<form class="contact-form form-style-fill">
 														<div class="row">
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required> </div>
+																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required>
+															</div>
 															<div class="col-md-12">
-																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required> </div>
+																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required>
+															</div>
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required> </div>
+																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required>
+															</div>
 															<div class="col-md-12">
 																<textarea class="form-control" placeholder="Write Message" rows="3"></textarea>
 															</div>
@@ -1224,7 +1311,6 @@
 										<li>
 											<a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
 										</li>
-
 									</ul>
 								</div>
 							</div>

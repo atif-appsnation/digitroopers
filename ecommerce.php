@@ -2,20 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
-        <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
         <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css">
@@ -30,6 +29,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
     <body>
@@ -626,10 +669,10 @@
 									</div>
 								</div>
 
-                                <div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
+                                <div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
                                     <div class="service-single">
                                         <div class="service-img">
-                                            <img class="img-fluid pgsDownToUP wow" src="assets/images/portfolio/e-commerce/ecommerce-agency.webp" alt="E-Commerce">
+                                            <img class="img-fluid wow" src="assets/images/portfolio/e-commerce/ecommerce-agency.webp" alt="E-Commerce" loading="lazy">
                                         </div>
                                         <div class="service-content">
                                             <h2 class="service-title">E-Commerce Management Today</h2>
@@ -639,7 +682,7 @@
                                             </div>
                                         
                                             <div class="service-img">
-                                                <img class="img-fluid pgsDownToUP wow" src="assets/images/services/e-commerce-project-managment/e-commerce-project-managment-01.png" alt="E-Commerce">
+                                                <img class="img-fluid wow" src="assets/images/services/e-commerce-project-managment/e-commerce-project-managment-01.png" alt="E-Commerce"loading="lazy">
                                             </div>
 
                                             <h3 class="service-title">E-Commerce Is Complex... You'll Need A Crack Team</h3>
@@ -680,7 +723,7 @@
                                             </section>
 
                                             <div class="service-img">
-                                                <img class="img-fluid pgsDownToUP wow" src="assets/images/services/e-commerce-project-managment/e-commerce-project-managment-02.png" alt="E-Commerce">
+                                                <img class="img-fluid wow" src="assets/images/services/e-commerce-project-managment/e-commerce-project-managment-02.png" alt="E-Commerce" loading="lazy">
                                             </div>
 
                                             <h3 class="service-title">E-Commerce Business Performance Management</h3>
@@ -748,7 +791,7 @@
                                         <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="">
+                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <span class="subheading">Basic</span>
                                             </div>
@@ -758,16 +801,16 @@
                                             </div>
                                             <div class="pricing-content">
                                                 <ul class="package-list">
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Monthly Service Requests (3)</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>3 Maximum Support Hours</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>On-Site SEO Work</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Daily Backups</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Product Upload</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Free Website Hack Repair</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Graphic Design</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Ecommerce Site Support</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>CMS / WordPress Support</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Damage pages & links repairing</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Monthly Service Requests (3)</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> 3 Maximum Support Hours</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> On-Site SEO Work</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Daily Backups</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Product Upload</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Free Website Hack Repair</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Graphic Design</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Ecommerce Site Support</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> CMS / WordPress Support</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Damage pages & links repairing</span></li>
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
@@ -775,11 +818,10 @@
                                             </div>
                                         </div>
 
-
                                         <div class="pricing-box active wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="">
+                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <span class="subheading">Advance</span>
                                             </div>
@@ -789,18 +831,18 @@
                                             </div>
                                             <div class="pricing-content">
                                                 <ul class="package-list">
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>  Monthly Service Requests (10)</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Monthly Service Requests (10)</span></li>
                                                     <li><i class="fa-regular fa-circle-check"></i><span> 6 Maximum Support Hours</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>On-Site SEO Work</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Weekly Backups</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Product Upload</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Free Website Hack Repair</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Graphic Design</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> On-Site SEO Work</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Weekly Backups</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Product Upload</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Free Website Hack Repair</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Graphic Design</span></li>
                                                     <li><i class="fa-regular fa-circle-check"></i><span> Ecommerce Site Support</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>CMS / WordPress Support</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Damage pages & links repairing</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>3rd Party Web Hosting Help</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>PHP Scripting Help</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> CMS / WordPress Support</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Damage pages & links repairing</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> 3rd Party Web Hosting Help</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> PHP Scripting Help</span></li>
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
@@ -812,7 +854,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="">
+                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <span class="subheading">Expert</span>
                                             </div>
@@ -823,19 +865,19 @@
                                             <div class="pricing-content">
                                                 <ul class="package-list">
                                                     <li><i class="fa-regular fa-circle-check"></i><span> Monthly Service Requests (30)</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>30 Maximum Support Hours</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>On-Site SEO Work</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Weekly Backups</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Product Upload</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Free Website Hack Repair</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Graphic Design</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> 30 Maximum Support Hours</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> On-Site SEO Work</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Weekly Backups</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Product Upload</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Free Website Hack Repair</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Graphic Design</span></li>
                                                     <li><i class="fa-regular fa-circle-check"></i><span> Ecommerce Site Support</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>CMS / WordPress Support</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Damage pages & links repairing</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>3rd Party Web Hosting Help</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>PHP Scripting Help</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> CMS / WordPress Support</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Damage pages & links repairing</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> 3rd Party Web Hosting Help</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> PHP Scripting Help</span></li>
                                                     <li><i class="fa-regular fa-circle-check"></i><span> Form Creation</span></li>
-                                                    <li><i class="fa-regular fa-circle-check"></i><span>Email/Domain/Hosting Support</span></li>
+                                                    <li><i class="fa-regular fa-circle-check"></i><span> Email/Domain/Hosting Support</span></li>
                                                 </ul>
                                             </div>
                                             <div class="pricing-footer">
@@ -850,62 +892,64 @@
                     <!-- End Pricing -->
 
                     <!-- Start Portfolio -->
-                    <section class="space-ptb">
-                            <div class="container">
-                                <div class="top-text text-center wow fadeInUp">
-                                    <h5 class="text-primary">Our Projects</h5>
-                                    <h3 class="text-primary">Some of Our Works</h3>
-                                    <p>We think big and have hands in all leading technology platforms to provide you wide array ofservices.</p>
-                                </div>
-                                <div class="row justify-content-start">
-                                    <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                        <div class="filters-group mb-2 mb-lg-5">
-                                            <button class="btn-filter" data-group="ui-ux">UI/UX</button>
-                                        </div>
+                    <!-- <section class="space-ptb">
+						<div class="container">
+							<div class="top-text text-center wow fadeInUp">
+								<h5 class="text-primary">Our Projects</h5>
+								<h3 class="text-primary">Some of Our Works</h3>
+								<p>We think big and have hands in all leading technology platforms to provide you wide array ofservices.</p>
+							</div>
+							<div class="row justify-content-start">
+								<div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+									<div class="filters-group mb-2 mb-lg-5">
+										<button class="btn-filter" data-group="ui-ux">UI/UX</button>
+									</div>
 
-                                        <div class="my-shuffle-container columns-3 full-screen case-studies-grid">
-                                            <div class="grid-item" data-groups='["ui-ux"]'>
-                                                <div class="case-studies-wrapper case-studies-style-1">
-                                                    <div class="case-studies-img">
-                                                        <img class="img-fluid" src="assets/images/portfolio/e-commerce/e-commerce-01.webp" alt="E-Commerce">
-                                                    </div>
-                                                    <div class="case-studies-info">
-                                                        <div class="case-studies-info-inner">
-                                                            <h3 class="case-studies-title">
-                                                                <a href="javascript:void(0)">Digismart</a>
-                                                            </h3>
-                                                            <div class="case-studies-content">
-                                                                <div class="case-studies-description">UI/UX</div>
-                                                            </div>
-                                                            <div class="case-studies-link">
-                                                                <a class="btn-arrow" href="javascript:void(0)">
-                                                                    <svg width="42" height="42" viewBox="0 0 42 42" fill="none">
-                                                                        <path d="M12.25 29.75L29.75 12.25M29.75 12.25H14M29.75 12.25V28" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                                    </svg>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                    </section>
+									<div class="my-shuffle-container columns-3 full-screen case-studies-grid">
+										<div class="grid-item" data-groups='["ui-ux"]'>
+											<div class="case-studies-wrapper case-studies-style-1">
+												<div class="case-studies-img">
+													<img class="img-fluid" src="assets/images/portfolio/e-commerce/e-commerce-01.webp" alt="E-Commerce" loading="lazy">
+												</div>
+												<div class="case-studies-info">
+													<div class="case-studies-info-inner">
+														<h3 class="case-studies-title">
+															<a href="javascript:void(0)">Digismart</a>
+														</h3>
+														<div class="case-studies-content">
+															<div class="case-studies-description">UI/UX</div>
+														</div>
+														<div class="case-studies-link">
+															<a class="btn-arrow" href="javascript:void(0)">
+																<svg width="42" height="42" viewBox="0 0 42 42" fill="none">
+																	<path d="M12.25 29.75L29.75 12.25M29.75 12.25H14M29.75 12.25V28" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+																</svg>
+															</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+                    </section> -->
                     <!-- End Portfolio -->
 
                     <!-- Start Blogs -->
-                    <section class="space-ptb">
+                    <!-- <section class="space-ptb">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
                                     <h3 class="text-primary my-5">[ Our Blogs ]</h3>
-                                    <div id="blogs" class="blogs blog-grid grid-wrapper grid-xl-3 grid-lg-3 grid-md-2 grid-sm-2 grid-xs-1"></div>
+                                    <div class="col-md-12">
+										<div id="blogs" data-category="90" class="row"> </div>
+									</div>
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> -->
                     <!--Eend Blogs -->
 
                     <!-- Start Our Testimonial -->
@@ -925,16 +969,26 @@
 									<div class="action-box wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 										<div class="client-reviews">
 											<ul class="client-profile">
-												<li> <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing"> </li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
 											</ul>
-											<div class="reviews"><span class="reviews-number text-white"> 1,000+</span> <span>Client Reviews</span></div>
+											<div class="reviews">
+												<span class="reviews-number text-white"> 1,000+</span>
+												<span>Client Reviews</span>
+											</div>
 										</div>
 										<div class="action-box-content">
 											<div class="counter counter-style-1 p-0">
 												<div class="counter-number">
-													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4> </div>
+													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4> 
+												</div>
 											</div>
 											<p class=" rating-description">Customers are Satisfied with the Technology Services.</p>
 										</div>
@@ -944,8 +998,16 @@
 									<div class="owl-carousel owl-nav-center slider-overflow" data-nav-arrow="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-space="24">
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“Our website redesign was seamless and beautiful. The UI/UX team at DigiTroopers understood our vision and delivered a user-friendly design that boosted our conversion rate by 40%.”</p>
 												</div>
@@ -957,8 +1019,16 @@
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p>“The creative social media graphics helped us stand out in a crowded market. Engagement on our posts doubled within the first month after DigiTroopers took over our design work.”</p>
 												</div>
@@ -970,8 +1040,16 @@
 										</div>
 										<div class="item" data-cursor-type="arrow">
 											<div class="testimonial-wrapper">
-												<div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-												<div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+												<div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
 												<div class="testimonial-content">
 													<p> “From brochures to packaging, DigiTroopers nailed every detail. Their designs made our products look premium and customers instantly noticed the difference.”</p>
 												</div>
@@ -1023,7 +1101,9 @@
 														<div class="icon-box-info">
 															<h4 class="title">Email</h4>
 															<ul>
-																<li> <a class="email" href="mailto:sample@example.com">→ info@digitroopers.com</a> </li>
+																<li> 
+																	<a class="email" href="mailto:sample@example.com">→ info@digitroopers.com</a>
+																</li>
 															</ul>
 														</div>
 													</div>
@@ -1032,10 +1112,18 @@
 															<h4 class="title">Social network</h4>
 															<div class="widget-social">
 																<ul class="social-icon">
-																	<li> <a href="https://www.facebook.com/DigiTroopers/">Fa.</a> </li>
-																	<li> <a href="https://x.com/Digi_Troopers/">Tw.</a> </li>
-																	<li> <a href="https://www.linkedin.com/company/digitroopers/">Lin.</a> </li>
-																	<li> <a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a> </li>
+																	<li>
+																		<a href="https://www.facebook.com/DigiTroopers/">Fa.</a>
+																	</li>
+																	<li>
+																		<a href="https://x.com/Digi_Troopers/">Tw.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a>
+																	</li>
 																</ul>
 															</div>
 														</div>
@@ -1051,11 +1139,14 @@
 													<form class="contact-form form-style-fill">
 														<div class="row">
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required> </div>
+																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required>
+															</div>
 															<div class="col-md-12">
-																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required> </div>
+																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required>
+															</div>
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required> </div>
+																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required>
+															</div>
 															<div class="col-md-12">
 																<textarea class="form-control" placeholder="Write Message" rows="3"></textarea>
 															</div>
@@ -1278,64 +1369,6 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>
-        <script>
-            const blogsContainer = document.getElementById('blogs');
-            const BASE_API = 'https://blog.appsnation.co/api/get-blogs-api?category=e-commerce-app';
-            const PROXY = 'https://corsproxy.io/?';
-            const proxiedUrl = PROXY + encodeURIComponent(BASE_API);
-
-            fetch(proxiedUrl)
-            .then(res => {
-                if (!res.ok) throw new Error("Failed to fetch");
-                return res.json();
-            })
-            .then(response => {
-                blogsContainer.innerHTML = '';
-
-                const blogs = response.data;
-
-                if (!Array.isArray(blogs) || blogs.length === 0) {
-                blogsContainer.innerHTML = '<p class="p-black error">No blogs found.</p>';
-                return;
-                }
-
-                blogs.forEach(blog => {
-                const blogDiv = document.createElement('div');
-                blogDiv.className = 'blog';
-
-                const imageUrl = `https://blog.appsnation.co/wp-content/uploads/${blog.featured_image_url}`;
-
-                
-                blogDiv.innerHTML = `
-                    <div class="blog-post blog-style-02 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                        <div class="blog-post-img">
-                            <img class="img-fluid" src="${imageUrl}" alt="blogs">
-                            <div class="blog-post-category">
-                            <div class="post-meta-category">
-                                <a href="#" rel="category tag">Marketing</a>
-                            </div>
-                            </div>
-                        </div>
-                        <div class="blog-post-info">
-                            <h3 class="post-title">
-                            <a href="${blog.guid}">${blog.post_title}</a>
-                            </h3>
-                            <div class="post-meta">
-                            <ul>
-                                <li class="post-meta-date">${blog.post_date}</li>
-                            </ul>
-                            </div>
-                        </div>
-                    </div>
-                `;
-
-                blogsContainer.appendChild(blogDiv);
-                });
-            })
-            .catch(err => {
-                console.error(err);
-                blogsContainer.innerHTML = '<p class="p-black error">❌ Failed to load blogs. Please try again later.</p>';
-            });
-        </script>
+        <script src="assets/js/blogs.js"></script>
     </body>
 </html>

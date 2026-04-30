@@ -709,16 +709,16 @@ blockquote.blockquote-style-1 cite, blockquote.blockquote-style-1 p + p {
 
 /* Section Margin Padding */
 .space-ptb {
-	padding-top: 130px;
-	padding-bottom: 130px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 .space-pt {
-	padding-top: 130px;
+	padding-top: 80px;
 }
 
 .space-pb {
-	padding-bottom: 130px;
+	padding-bottom: 80px;
 }
 
 .space-medium-ptb {
@@ -1475,6 +1475,11 @@ section:has(.rounded-section) {
 
 .service-item .service-title {
 	color: var(--primary-color);
+}
+
+.animation-services .service-item:hover {
+    background: var(--secondary-color);
+    /* border: 1px solid var(--primary-color); */
 }
 
 .home-services .service-item:hover {
@@ -8533,4 +8538,11 @@ body:has(#search.open):before {
 	grid-template-rows: 1fr;
 	grid-column-gap: 10px;
 	grid-row-gap: 0px;
+}
+
+.pm-services {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-column-gap: 10px;
+	grid-row-gap: 10px;
 }

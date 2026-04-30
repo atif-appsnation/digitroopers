@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -30,6 +30,50 @@
         <link rel="stylesheet" href="assets/css/themes.css">
         <link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
+        <!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
     <body>
@@ -626,12 +670,12 @@
 										</div>
 									</div>
 								</div>
-                                <div class="col-lg-8 mt-5 mt-lg-0 ps-0 ps-md-5">
+                                <div class="col-lg-8 mt-5 mt-lg-0 ps-xl-5">
                                     <div class="service-single">
                                         <div class="service-img">
-                                            <img class="img-fluid pgsDownToUP wow" src="assets/images/services/animation/animation-01.png" alt="Animation">
+                                            <img class="img-fluid wow" src="assets/images/services/animation/animation-01.png" alt="Animation" loading="lazy">
                                         </div>
-                                        <div class="service-content ps-0 ps-md-5 mt-3 mt-sm-5">
+                                        <div class="service-content mt-3 mt-sm-5">
                                             <h2 class="service-title">Animation Services That Bring Brands to Life</h2>
                                             <div class="description wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                                 <p>The aspect of animation at Digi Troopers is not a mere design factor but ather the way we make brands to talk. Any project starts with the knowledge of your story, your audience and the feelings they experience. Then we put that wisdom onto the screen in cine images, which inform, prospurate and convert. </p>
@@ -640,7 +684,7 @@
                                             </div>
 
                                             <div class="service-img">
-                                                <img class="img-fluid pgsDownToUP wow" src="assets/images/services/animation/animation-02.png" alt="Animation">
+                                                <img class="img-fluid wow" src="assets/images/services/animation/animation-02.png" alt="Animation" loading="lazy">
                                             </div>
                                             <h3 class="service-title">Motion Graphics That Move Minds </h3>
                                             <div class="description wow fadeInUp" data-wow-delay="0.1s"
@@ -718,23 +762,23 @@
                             </div>
                             <div class="row mt-4 mt-md-5">
                                 <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+                                    <div class="services animation-services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
-                                                <h3 class="service-title  ">Explainer Video Animation Services</h3>
-                                                <p>Get your company's message out there uniquely with an animated explainer video. Our explainer videos are a means of transforming viewers into buyers. We create explainer videos to assist companies in telling their story in a way that is easy to remember and share. Our staff is prepared to make your pitch stand out, attract attention, and convey your message.</p>
+                                                <h3 class="service-title">Explainer Video Animation Services</h3>
+                                                <p class="mb-0">Get your company's message out there uniquely with an animated explainer video. Our explainer videos are a means of transforming viewers into buyers. We create explainer videos to assist companies in telling their story in a way that is easy to remember and share. Our staff is prepared to make your pitch stand out, attract attention, and convey your message.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h3 class="service-title">Logo Animation Services</h3>
-                                                <p>Your brand is the heartbeat of your logo and by incorporating motion, it will beat. Our custom animated logos are designed to communicate your values, tone and energy within a few few seconds. Our crew tries textures, physics and light to create sequences which are high-end and meaningful. You need filming soul on YouTube, smooth introductions to corporate films, or simple loops on websites and with our motion branding, everybody already recognizes you. Animated logos recall faster by up to 70 per cent, compared to a static design - and at a look they signify professionalism.</p>
+                                                <p class="mb-0">Your brand is the heartbeat of your logo and by incorporating motion, it will beat. Our custom animated logos are designed to communicate your values, tone and energy within a few few seconds. Our crew tries textures, physics and light to create sequences which are high-end and meaningful. You need filming soul on YouTube, smooth introductions to corporate films, or simple loops on websites and with our motion branding, everybody already recognizes you. Animated logos recall faster by up to 70 per cent, compared to a static design - and at a look they signify professionalism.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
-                                                <h3 class="service-title t ">3D Animation Services</h3>
-                                                <p>The 3D animation is a full-dimensional storytelling. It lets brands see the things, places and concepts that do not exist yet, and make them touchable. We are developing our own industry-standard tools (Maya, Blender, Unreal Engine) at Digi Troopers, as well as a cinematic production pipeline that produces realistic textures, lighting and physically simulated movement. Our 3D displays connect imagination and innovation in the form of an architectural walkthrough, demo of a technological product and a virtual experience in the metaverse. We make sure that all the models facilitate marketing results such as greater knowledge, better brand loyalty, and increased engagement.</p>
+                                                <h3 class="service-title">3D Animation Services</h3>
+                                                <p class="mb-0">The 3D animation is a full-dimensional storytelling. It lets brands see the things, places and concepts that do not exist yet, and make them touchable. We are developing our own industry-standard tools (Maya, Blender, Unreal Engine) at Digi Troopers, as well as a cinematic production pipeline that produces realistic textures, lighting and physically simulated movement. Our 3D displays connect imagination and innovation in the form of an architectural walkthrough, demo of a technological product and a virtual experience in the metaverse. We make sure that all the models facilitate marketing results such as greater knowledge, better brand loyalty, and increased engagement.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -742,22 +786,23 @@
                             </div>
                             <div class="row mt-4 mt-md-5">
                                 <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+                                    <div class="services animation-services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
-                                                <h3 class="service-title">2D Animation Services</h3>It is true that 2D animation is eternal since it anthropomorphizes the brands. Our 2D artists combine drawing, rhythm, and storyline in order to convey messages in a personal and lovable way. Your video will be purely brand-oriented in color palettes, typography, and character design that we create. The 2D animation is the best solution, as it is cheap, but it is still emotionally a binding tool and would be used in campaigns, education, or even in internal communication.</p>
+                                                <h3 class="service-title">2D Animation Services</h3>
+                                                <p class="mb-0">It is true that 2D animation is eternal since it anthropomorphizes the brands. Our 2D artists combine drawing, rhythm, and storyline in order to convey messages in a personal and lovable way. Your video will be purely brand-oriented in color palettes, typography, and character design that we create. The 2D animation is the best solution, as it is cheap, but it is still emotionally a binding tool and would be used in campaigns, education, or even in internal communication.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h3 class="service-title">Whiteboard Animation Services</h3>
-                                                <p>In some cases bareness sells best. Our whiteboard videos simplify complicated processes, statistics or corporate training content into simple lessons that tend to be easy to follow. We fill our works with the use of clean illustrations and the use of natural and approachable sounding voiceovers to keep the audience attentive at all points. This type of storytelling is known to increase the knowledge retention by up to 45% and is well fit for explainer content, onboarding, or e-learning.</p>
+                                                <p class="mb-0">In some cases bareness sells best. Our whiteboard videos simplify complicated processes, statistics or corporate training content into simple lessons that tend to be easy to follow. We fill our works with the use of clean illustrations and the use of natural and approachable sounding voiceovers to keep the audience attentive at all points. This type of storytelling is known to increase the knowledge retention by up to 45% and is well fit for explainer content, onboarding, or e-learning.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h3 class="service-title">Character Animation Services </h3>
-                                                <p>Brands become human when they are played by characters. We create expressive characters, who are personality-driven, and reflect your tone, whether that is fun, sophisticated, or bold, and make your story relatable. We have animators who are researching on body language, timing and emotion so that whatever gesture is done is real. We create mascots to sell us products, we create skulls to be used in advertisement campaigns, we create characters to appear in our films, fully rigged and moving like breathing storytellers.</p>
+                                                <p class="mb-0">Brands become human when they are played by characters. We create expressive characters, who are personality-driven, and reflect your tone, whether that is fun, sophisticated, or bold, and make your story relatable. We have animators who are researching on body language, timing and emotion so that whatever gesture is done is real. We create mascots to sell us products, we create skulls to be used in advertisement campaigns, we create characters to appear in our films, fully rigged and moving like breathing storytellers.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -765,23 +810,23 @@
                             </div>
                             <div class="row mt-4 mt-md-5">
                                 <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+                                    <div class="services animation-services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h3 class="service-title">TV Commercial Animation Services</h3>
-                                                <p>Animation can convey more than words in the six seconds that you have to attract attention. Our animation team of TV commercials constructs high impact sequences that can be recalled. We combine psychology of storytelling, color theory of the brand and dynamic sound design to create emotion in a fast and efficient way. Our commercials areTargeted to reach a multi-platform audience broadcasting, OTT, and digital streaming no matter what campaign you are promoting, be it a seasonal campaign or a nationwide launch.</p>
+                                                <p class="mb-0">Animation can convey more than words in the six seconds that you have to attract attention. Our animation team of TV commercials constructs high impact sequences that can be recalled. We combine psychology of storytelling, color theory of the brand and dynamic sound design to create emotion in a fast and efficient way. Our commercials areTargeted to reach a multi-platform audience broadcasting, OTT, and digital streaming no matter what campaign you are promoting, be it a seasonal campaign or a nationwide launch.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h3 class="service-title">Product Animation Videos</h3>
-                                                <p>The confidence is boosted when potential customers are aware of your product when they can see it in action. Flexible functions, design, and advantages are visualized and displayed in our product animation services and are not available in every other method such as in the case of the static photo. Our 3D product renders, exploded views and demo sequences are realistic and simplify complicated features. They are effective videos in e-commerce, as well as in crowdfunding, B2B sales presentations, and at trade-shows presentations (anywhere you have to convert interest into intent).</p>
+                                                <p class="mb-0">The confidence is boosted when potential customers are aware of your product when they can see it in action. Flexible functions, design, and advantages are visualized and displayed in our product animation services and are not available in every other method such as in the case of the static photo. Our 3D product renders, exploded views and demo sequences are realistic and simplify complicated features. They are effective videos in e-commerce, as well as in crowdfunding, B2B sales presentations, and at trade-shows presentations (anywhere you have to convert interest into intent).</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h3 class="service-title">Feature Film Animation Services</h3>
-                                                <p>Our full-cycle feature production animation department does all concept work and rendering. We have production house and brands, which need a narrative based animation with cinema depth. Professional pipelines and collaborative storyboarding offer us some ability to provide uniform visual tone, emotional rhythm and theater quality that can be directly delivered to the OTT.</p>
+                                                <p class="mb-0">Our full-cycle feature production animation department does all concept work and rendering. We have production house and brands, which need a narrative based animation with cinema depth. Professional pipelines and collaborative storyboarding offer us some ability to provide uniform visual tone, emotional rhythm and theater quality that can be directly delivered to the OTT.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -804,23 +849,23 @@
                             </div>
                             <div class="row mt-4 mt-md-5">
                                 <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+                                    <div class="services animation-services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h4 class="service-title">Strategic Consultation</h4>
-                                                <p>We begin with strategic discovery. Here we are associating your message to the emotional stimulations of your target audience, competitiveness and goals of the content. ith or without making an animation, it is this which ensures that it is not simply pretty.</p>
+                                                <p class="mb-0">We begin with strategic discovery. Here we are associating your message to the emotional stimulations of your target audience, competitiveness and goals of the content. ith or without making an animation, it is this which ensures that it is not simply pretty.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h4 class="service-title">Creative Experts</h4>
-                                                <p>In-house artists, copywriters, and designers are of various backgrounds film, gaming, UX, marketing, etc., and this enables us to feel out of the box. We believe that creativity can be measured; that is the reason why every storyboard will be equipped with KPIs that will relate to your marketing objectives.</p>
+                                                <p class="mb-0">In-house artists, copywriters, and designers are of various backgrounds film, gaming, UX, marketing, etc., and this enables us to feel out of the box. We believe that creativity can be measured; that is the reason why every storyboard will be equipped with KPIs that will relate to your marketing objectives.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h4 class="service-title">Flexible Engagement </h4>
-                                                <p>You can need one time campaigns, or you can need a creative partner that would engage in business with us; we have engagement models that are able to fit start ups, enterprises, and firms. Choose project-based, subscription, and white-label solutions, depending on your budget and time.</p>
+                                                <p class="mb-0">You can need one time campaigns, or you can need a creative partner that would engage in business with us; we have engagement models that are able to fit start ups, enterprises, and firms. Choose project-based, subscription, and white-label solutions, depending on your budget and time.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -828,23 +873,23 @@
                             </div>
                             <div class="row mt-4 mt-md-5">
                                 <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+                                    <div class="services animation-services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h4 class="service-title">Always-On Support</h4>
-                                                <p>Our support system is fast 24/7 and this is the reason why your project never halts. Account managers are committed individuals who ensure that the communication processes run smoothly across the time zone, which ensures that the process of revision, feedback, and approvals are made with no hassles.</p>
+                                                <p class="mb-0">Our support system is fast 24/7 and this is the reason why your project never halts. Account managers are committed individuals who ensure that the communication processes run smoothly across the time zone, which ensures that the process of revision, feedback, and approvals are made with no hassles.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h4 class="service-title">Full Transparency</h4>
-                                                <p>We do radical transparency - live project dashboard, updates of the milestones, cost tracking of the work. The clients are subjected to the entire stages of the development process, such as drawings until final renderings.</p>
+                                                <p class="mb-0">We do radical transparency - live project dashboard, updates of the milestones, cost tracking of the work. The clients are subjected to the entire stages of the development process, such as drawings until final renderings.</p>
                                             </div>
                                         </div>
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="service-content">
                                                 <h4 class="service-title">Post-Launch Optimization</h4>
-                                                <p>Delivery itself is not an end, but just the situation when optimization starts. We observe analytics, correct, re-format social, web and broadcast such that even when you released your video ages ago, it does not cease working.</p>
+                                                <p class="mb-0">Delivery itself is not an end, but just the situation when optimization starts. We observe analytics, correct, re-format social, web and broadcast such that even when you released your video ages ago, it does not cease working.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -868,70 +913,45 @@
 
                             <div class="row mt-4 mt-md-5">
                                 <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
+                                    <div class="services animation-services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                            <div class="service-icon">
-                                                <i class="fa-solid fa-1 fa-2xl" ></i>
-                                            </div>
-                                            <div class=" service-content">
-                                                <h4 class="service-title"> Discovery Analysis & Requirement Analysis.</h4>
-                                                <p>It all starts with knowledge in every great animation. We immerse into your brand, audience, and intent to determine tone, purpose and narrative direction. This is on the one hand because through data-based research, competitor research and market analysis, we will make every decision created consciously. This step is a set up to the animations that make direct communication to your customers and make them engaged.</p>
+                                            <div class="service-content">
+                                                <h4 class="service-title">1. Discovery Analysis & Requirement Analysis.</h4>
+                                                <p class="mb-0">It all starts with knowledge in every great animation. We immerse into your brand, audience, and intent to determine tone, purpose and narrative direction. This is on the one hand because through data-based research, competitor research and market analysis, we will make every decision created consciously. This step is a set up to the animations that make direct communication to your customers and make them engaged.</p>
                                             </div>
                                         </div>
 
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-                                            <div class="service-icon">
-                                                <i class="fa-solid fa-2 fa-2xl"></i>
-                                            </div>
                                             <div class="service-content">
-                                                <h4 class="service-title">Concept & Strategy</h4>
-                                                <p>When the light shines through, we will develop a strategy idea which can tie your business aims on the visuals of story telling. Emotion, pacing and messaging structure are defined by our strategizers so that there is a purpose of the frame. This step will change whatever is in your mind into a roadmap story where the elements of design, rhythm, and movement collide to motivate, educate and change your audience.</p>
+                                                <h4 class="service-title">2. Concept & Strategy</h4>
+                                                <p class="mb-0">When the light shines through, we will develop a strategy idea which can tie your business aims on the visuals of story telling. Emotion, pacing and messaging structure are defined by our strategizers so that there is a purpose of the frame. This step will change whatever is in your mind into a roadmap story where the elements of design, rhythm, and movement collide to motivate, educate and change your audience.</p>
                                             </div>
                                         </div>
 
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-                                            <div class="service-icon">
-                                                <i class="fa-solid fa-3 fa-2xl"></i>
-                                            </div>
                                             <div class="service-content">
-                                                <h4 class="service-title">Storyboarding & Design</h4>
-                                                <p>Storyboarding is a process that converts vision into form. Our designers plot every sequence developing the visual circulation and emotional rhythm. With detailed frames we ensure timing, composition and transitions are brought to the story, to provide an understanding of your narrative. Every visual aspect, such as characters, settings, and icons, is customized to reflect the tone of your brand, so there is no moment in the movie that does not complement what a harmonious and cinematic animation experience.</p>
+                                                <h4 class="service-title">3. Storyboarding & Design</h4>
+                                                <p class="mb-0">Storyboarding is a process that converts vision into form. Our designers plot every sequence developing the visual circulation and emotional rhythm. With detailed frames we ensure timing, composition and transitions are brought to the story, to provide an understanding of your narrative. Every visual aspect, such as characters, settings, and icons, is customized to reflect the tone of your brand, so there is no moment in the movie that does not complement what a harmonious and cinematic animation experience.</p>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row mt-4 mt-md-5">
-                                <div class="col-sm-12">
-                                    <div class="services grid-wrapper grid-xl-3 grid-lg-2 grid-xs-1">
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                            <div class="service-icon">
-                                                <i class="fa-solid fa-4 fa-2xl"></i>
-                                            </div>
                                             <div class="service-content">
-                                                <h4 class="service-title">Animation & Production</h4>
-                                                <p>This is where art comes alive. Our animators bring life and character to design through filmmaking effects, flowing time and shifting effects. Every motion, expression and the sound perfectly adds to the emotionality of a story and its clarity. Tech focus meetings with artistic richness, we produce animations that appeal and transform visual narration to attentive brand extensions.</p>
+                                                <h4 class="service-title">4. Animation & Production</h4>
+                                                <p class="mb-0">This is where art comes alive. Our animators bring life and character to design through filmmaking effects, flowing time and shifting effects. Every motion, expression and the sound perfectly adds to the emotionality of a story and its clarity. Tech focus meetings with artistic richness, we produce animations that appeal and transform visual narration to attentive brand extensions.</p>
                                             </div>
                                         </div>
 
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-                                            <div class="service-icon">
-                                                <i class="fa-solid fa-5 fa-2xl"></i>
-                                            </div>
                                             <div class="service-content">
-                                                <h4 class="service-title">Quality Control & Refinement </h4>
-                                                <p>The quality process of any animation is gudded. Timing, colors, frame rate, and audio sync are made perfect. Any sequence is put through a visual harmony test, a technical accuracy test, and a platform compatibility test. The attention to details ensures the smooth, efficient animation that would be consistent throughout all the channels, and would speak of the best production quality.</p>
+                                                <h4 class="service-title">5. Quality Control & Refinement </h4>
+                                                <p class="mb-0">The quality process of any animation is gudded. Timing, colors, frame rate, and audio sync are made perfect. Any sequence is put through a visual harmony test, a technical accuracy test, and a platform compatibility test. The attention to details ensures the smooth, efficient animation that would be consistent throughout all the channels, and would speak of the best production quality.</p>
                                             </div>
                                         </div>
 
                                         <div class="service-item wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
-                                            <div class="service-icon">
-                                                <i class="fa-solid fa-6 fa-2xl"></i>
-                                            </div>
                                             <div class="service-content">
-                                                <h4 class="service-title">Delivery & Optimization</h4>
-                                                <p> After this is done we provide your animation in optimized variant to be carried out on the Web, social, and broadcast. Our professionals solve compression, resolution and rendering to achieve perfection in playback. We also offer publishing advice/SEO and make sure your animation works on the digital platforms. The outcome: an aesthetically beautiful video that impresses viewers and increments brand presence.</p>
-
+                                                <h4 class="service-title">6. Delivery & Optimization</h4>
+                                                <p class="mb-0">After this is done we provide your animation in optimized variant to be carried out on the Web, social, and broadcast. Our professionals solve compression, resolution and rendering to achieve perfection in playback. We also offer publishing advice/SEO and make sure your animation works on the digital platforms. The outcome: an aesthetically beautiful video that impresses viewers and increments brand presence.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -950,7 +970,7 @@
                                         <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/package.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h5 class="title">Basic</h5>
                                                 <span class="subheading">Package for startup</span>
@@ -982,7 +1002,7 @@
                                             data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/book.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h5 class="title">Gold Package</h5>
                                                 <span class="subheading">Best for Small Business</span>
@@ -1016,7 +1036,7 @@
                                         <div class="pricing-box bg-light wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1500ms">
                                             <div class="pricing-header">
                                                 <span class="pricing-icon">
-                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="package">
+                                                    <img class="img-fluid" src="assets/images/svg/diamond.svg" alt="Package" loading="lazy">
                                                 </span>
                                                 <h5 class="title">PLATINUM PACKAGE</h5>
                                                 <span class="subheading">Fulfill all business needs</span>
@@ -1460,16 +1480,18 @@
                     <!-- End Portfolio -->
 
                     <!-- Start Blogs -->
-                    <section class="space-ptb">
+                    <!-- <section class="space-ptb">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
                                     <h3 class="text-primary my-5">[ Our Blogs ]</h3>
-                                    <div id="blogs" class="blogs blog-grid grid-wrapper grid-xl-3 grid-lg-3 grid-md-2 grid-sm-2 grid-xs-1"></div>
+                                    <div class="col-md-12">
+										<div id="blogs" data-category="90" class="row"> </div>
+									</div>
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> -->
                     <!--Eend Blogs -->
 
                     <!-- Start Our Testimonial -->
@@ -1477,8 +1499,10 @@
                         <div class="container">
                             <div class="row align-items-end justify-content-between">
                                 <div class="col-lg-6">
-                                    <div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="sub-title">[ Service Testimonials ]</span>
-                                        <h4 class="title">Client Speaks</h4> </div>
+                                    <div class="section-title mb-0 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                                        <span class="sub-title">[ Service Testimonials ]</span>
+                                        <h4 class="title">Client Speaks</h4>
+                                    </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <p>Check our customers success stories.</p>
@@ -1489,9 +1513,15 @@
                                     <div class="action-box wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                                         <div class="client-reviews">
                                             <ul class="client-profile">
-                                                <li> <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing"> </li>
-                                                <li> <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing"> </li>
-                                                <li> <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing"> </li>
+                                                <li>
+                                                    <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing" loading="lazy">
+                                                </li>
+                                                <li>
+                                                    <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing" loading="lazy">
+                                                </li>
+                                                <li>
+                                                    <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing" loading="lazy">
+                                                </li>
                                             </ul>
                                             <div class="reviews"><span class="reviews-number text-white"> 1,000+</span> <span>Client Reviews</span></div>
                                         </div>
@@ -1508,40 +1538,70 @@
                                     <div class="owl-carousel owl-nav-center slider-overflow" data-nav-arrow="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-space="24">
                                         <div class="item" data-cursor-type="arrow">
                                             <div class="testimonial-wrapper">
-                                                <div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-                                                <div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+                                                <div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
                                                 <div class="testimonial-content">
                                                     <p>“Our website redesign was seamless and beautiful. The UI/UX team at DigiTroopers understood our vision and delivered a user-friendly design that boosted our conversion rate by 40%.”</p>
                                                 </div>
                                                 <div class="testimonial-author">
                                                     <div class="author-info">
-                                                        <h5 class="author-name">Website & UI/UX Design</h5> <span class="author-position">Michael T., E-commerce Owner</span> </div>
+                                                        <h5 class="author-name">Website & UI/UX Design</h5>
+                                                        <span class="author-position">Michael T., E-commerce Owner</span>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item" data-cursor-type="arrow">
                                             <div class="testimonial-wrapper">
-                                                <div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-                                                <div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+                                                <div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
                                                 <div class="testimonial-content">
                                                     <p>“The creative social media graphics helped us stand out in a crowded market. Engagement on our posts doubled within the first month after DigiTroopers took over our design work.”</p>
                                                 </div>
                                                 <div class="testimonial-author">
                                                     <div class="author-info">
-                                                        <h5 class="author-name">Social Media Design</h5> <span class="author-position"> Aisha K., Marketing Manager</span> </div>
+                                                        <h5 class="author-name">Social Media Design</h5>
+                                                        <span class="author-position"> Aisha K., Marketing Manager</span>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item" data-cursor-type="arrow">
                                             <div class="testimonial-wrapper">
-                                                <div class="testimonial-ratings"> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-star"></i> <i class="fa-regular fa-star"></i> </div>
-                                                <div class="testimonial-quote"> <i class="fa-solid fa-quote-left"></i> </div>
+                                                <div class="testimonial-ratings">
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-solid fa-star"></i>
+													<i class="fa-regular fa-star"></i>
+												</div>
+												<div class="testimonial-quote">
+													<i class="fa-solid fa-quote-left"></i>
+												</div>
                                                 <div class="testimonial-content">
                                                     <p> “From brochures to packaging, DigiTroopers nailed every detail. Their designs made our products look premium and customers instantly noticed the difference.”</p>
                                                 </div>
                                                 <div class="testimonial-author">
                                                     <div class="author-info">
-                                                        <h5 class="author-name">Print & Packaging Design</h5> <span class="author-position"> Daniel P., Retail Business Owner</span> </div>
+                                                        <h5 class="author-name">Print & Packaging Design</h5>
+                                                        <span class="author-position"> Daniel P., Retail Business Owner</span>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1587,7 +1647,9 @@
                                                         <div class="icon-box-info">
                                                             <h4 class="title">Email</h4>
                                                             <ul>
-                                                                <li> <a class="email" href="mailto:sample@example.com">→ info@digitroopers.com</a> </li>
+                                                                <li>
+                                                                    <a class="email" href="mailto:sample@example.com">→ info@digitroopers.com</a>
+                                                                </li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -1596,10 +1658,18 @@
                                                             <h4 class="title">Social network</h4>
                                                             <div class="widget-social">
                                                                 <ul class="social-icon">
-                                                                    <li> <a href="https://www.facebook.com/DigiTroopers/">Fa.</a> </li>
-                                                                    <li> <a href="https://x.com/Digi_Troopers/">Tw.</a> </li>
-                                                                    <li> <a href="https://www.linkedin.com/company/digitroopers/">Lin.</a> </li>
-                                                                    <li> <a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a> </li>
+                                                                    <li>
+                                                                        <a href="https://www.facebook.com/DigiTroopers/">Fa.</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="https://x.com/Digi_Troopers/">Tw.</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a>
+                                                                    </li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1842,62 +1912,6 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>
-        <script>
-            const blogsContainer = document.getElementById('blogs');
-            const BASE_API = 'https://blog.appsnation.co/api/get-blogs-api?category=e-commerce-app';
-            const PROXY = 'https://corsproxy.io/?';
-            const proxiedUrl = PROXY + encodeURIComponent(BASE_API);
-
-            fetch(proxiedUrl)
-                .then(res => {
-                    if (!res.ok) throw new Error("Failed to fetch");
-                    return res.json();
-                })
-                .then(response => {
-                    blogsContainer.innerHTML = ''; // Clear "Loading..." message
-
-                    const blogs = response.data;
-
-                    if (!Array.isArray(blogs) || blogs.length === 0) {
-                        blogsContainer.innerHTML = '<p class="p-black error">No blogs found.</p>';
-                        return;
-                    }
-
-                    blogs.forEach(blog => {
-                        const blogDiv = document.createElement('div');
-                        blogDiv.className = 'blog';
-
-                        const imageUrl = `https://blog.appsnation.co/wp-content/uploads/${blog.featured_image_url}`;
-
-                        blogDiv.innerHTML = `
-                            <div class="blog-post blog-style-02 wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                                <div class="blog-post-img">
-                                    <img class="img-fluid" src="${imageUrl}" alt="blogs">
-                                    <div class="blog-post-category">
-                                        <div class="post-meta-category">
-                                            <a href="#" rel="category tag">Marketing</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="blog-post-info">
-                                    <h4 class="post-title">
-                                        <a href="${blog.guid}">${blog.post_title}</a>
-                                    </h4>
-                                <div class="post-meta">
-                                        <ul>
-                                            <li class="post-meta-date">${blog.post_date}</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        `;
-                        blogsContainer.appendChild(blogDiv);
-                    });
-                })
-                .catch(err => {
-                    console.error(err);
-                    blogsContainer.innerHTML = '<p class="p-black error">❌ Failed to load blogs. Please try again later.</p>';
-                });
-        </script>
+        <script src="assets/js/blogs.js"></script>
     </body>
 </html>

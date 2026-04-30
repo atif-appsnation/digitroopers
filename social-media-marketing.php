@@ -949,7 +949,7 @@
                                             <div class="grid-item" data-groups='["socialmedia"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                     <div class="case-studies-img">
-                                                            <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-03.webp" alt="Social Media Marketing" loading="lazy">
+                                                        <img class="img-fluid" src="assets/images/portfolio/social-media-marketing/social-media-marketing-03.webp" alt="Social Media Marketing" loading="lazy">
                                                     </div>
                                                     <div class="case-studies-info">
                                                         <div class="case-studies-info-inner">
@@ -1099,16 +1099,26 @@
 									<div class="action-box wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
 										<div class="client-reviews">
 											<ul class="client-profile">
-												<li> <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing"> </li>
-												<li> <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing"> </li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
+												<li>
+													<img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Social Media Marketing" loading="lazy">
+												</li>
 											</ul>
-											<div class="reviews"><span class="reviews-number text-white"> 1,000+</span> <span>Client Reviews</span></div>
+											<div class="reviews">
+												<span class="reviews-number text-white"> 1,000+</span>
+												<span>Client Reviews</span>
+											</div>
 										</div>
 										<div class="action-box-content">
 											<div class="counter counter-style-1 p-0">
 												<div class="counter-number">
-													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4> </div>
+													<h4 class="timer" data-to="4.5" data-speed="2000" data-decimals="1">4.5</h4>
+												</div>
 											</div>
 											<p class=" rating-description">Customers are Satisfied with the Technology Services.</p>
 										</div>
@@ -1201,8 +1211,10 @@
 										<div class="grid-wrapper grid-xl-2 grid-lg-2 align-items-center grid-md-1">
 											<div class="grid-left">
 												<div class="section-title wow fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-													<div class="title-border"> <span class="sub-title">[ Get in Touch ]</span>
-														<h3 class="title">Have questions? We are always to help you questions!</h3> </div>
+													<div class="title-border">
+														<span class="sub-title">[ Get in Touch ]</span>
+														<h3 class="title">Have questions? We are always to help you questions!</h3>
+													</div>
 													<p>Get the oars in the water and start rowing. Execution is the single biggest factor in achievement, the quicker you will get to the goals!</p>
 												</div>
 												<div class="grid-wrapper grid-xl-2 grid-lg-2 grid-md-2 grid-xs-1 grid-gap-50">
@@ -1227,7 +1239,9 @@
 														<div class="icon-box-info">
 															<h4 class="title">Email</h4>
 															<ul>
-																<li> <a class="email" href="mailto:sample@example.com">→ info@digitroopers.com</a> </li>
+																<li>
+																	<a class="email" href="mailto:sample@example.com">→ info@digitroopers.com</a>
+																</li>
 															</ul>
 														</div>
 													</div>
@@ -1236,10 +1250,18 @@
 															<h4 class="title">Social network</h4>
 															<div class="widget-social">
 																<ul class="social-icon">
-																	<li> <a href="https://www.facebook.com/DigiTroopers/">Fa.</a> </li>
-																	<li> <a href="https://x.com/Digi_Troopers/">Tw.</a> </li>
-																	<li> <a href="https://www.linkedin.com/company/digitroopers/">Lin.</a> </li>
-																	<li> <a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a> </li>
+																	<li>
+																		<a href="https://www.facebook.com/DigiTroopers/">Fa.</a>
+																	</li>
+																	<li>
+																		<a href="https://x.com/Digi_Troopers/">Tw.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
+																	</li>
+																	<li>
+																		<a href="https://www.instagram.com/digitalmarketingservicesusa/">In.</a>
+																	</li>
 																</ul>
 															</div>
 														</div>
@@ -1255,11 +1277,14 @@
 													<form class="contact-form form-style-fill">
 														<div class="row">
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required> </div>
+																<input type="text" class="form-control" placeholder="First Name*" aria-label="First name" required>
+															</div>
 															<div class="col-md-12">
-																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required> </div>
+																<input type="email" class="form-control" placeholder="Email*" aria-label="Email" required>
+															</div>
 															<div class="col-md-12">
-																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required> </div>
+																<input type="text" class="form-control" placeholder="Subject*" aria-label="Subject" required>
+															</div>
 															<div class="col-md-12">
 																<textarea class="form-control" placeholder="Write Message" rows="3"></textarea>
 															</div>
@@ -1445,7 +1470,6 @@
 										<li>
 											<a href="https://www.linkedin.com/company/digitroopers/">Lin.</a>
 										</li>
-
 									</ul>
 								</div>
 							</div>

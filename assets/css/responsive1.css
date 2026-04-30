@@ -74,6 +74,10 @@
     .smm-services {
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .pm-services {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
 
 @media (min-width:768px) and (max-width:1023px) {
@@ -116,6 +120,10 @@
     }
 
     .smm-services {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .pm-services {
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -175,6 +183,10 @@
     .smm-services {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .pm-services {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (min-width:1440px) and (max-width:1599px) {
@@ -205,6 +217,10 @@
     .smm-services {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .pm-services {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (min-width:1600px) and (max-width:1919px) {
@@ -225,6 +241,10 @@
     }
 
     .smm-services {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .pm-services {
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -252,6 +272,10 @@
     }
 
     .smm-services {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .pm-services {
         grid-template-columns: repeat(2, 1fr);
     }
 }
