@@ -531,25 +531,25 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-02.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-03.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-04.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-05.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-06.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-07.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-08.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-09.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-10.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-11.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-12.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-13.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-14.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-15.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-16.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-17.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-18.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-19.webp" class="d-block w-100" alt="Travel Guide">
-                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-20.webp" class="d-block w-100" alt="Travel Guide">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-02.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-03.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-04.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-05.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-06.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-07.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-08.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-09.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-10.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-11.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-12.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-13.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-14.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-15.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-16.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-17.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-18.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-19.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
+                <img src="assets/images/portfolio/travel-guide/travel-guide-mockup-20.webp" class="d-block w-100" alt="Travel Guide" loading="lazy">
                 <!-- End Content -->
             </div>
             

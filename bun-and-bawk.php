@@ -530,19 +530,19 @@
                     </div>
                 </div>
 
-                <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup.webp" class="d-block w-100" alt="Bun Bawk">
+                <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
 
                 <h2 class="text-center my-5 text-primary">Our Logos</h2>
                 <div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-02.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-02.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-03.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-03.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-04.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-04.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev">
@@ -556,49 +556,49 @@
                 </div>
 
                 <h2 class="text-center my-5 text-primary">Colors</h2>
-                <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-05.webp" class="d-block w-100" alt="Bun Bawk">
+                <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-05.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                 
                 <h2 class="text-center my-5 text-primary">Our Products</h2>
                 <div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-06.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-06.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-07.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-07.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-08.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-08.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-09.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-09.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-10.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-10.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-11.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-11.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-12.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-12.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-13.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-13.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-14.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-14.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-15.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-15.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-16.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-16.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-17.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-17.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-18.webp" class="d-block w-100" alt="Bun Bawk">
+                            <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-18.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev">
@@ -611,7 +611,7 @@
                     </button>
                 </div>
 
-                <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-19.webp" class="d-block w-100" alt="Bun Bawk">
+                <img src="assets/images/portfolio/bun-bawk/bun-bawk-mockup-19.webp" class="d-block w-100" alt="Bun Bawk" loading="lazy">
             </div>
 
             <!-- Start Footer -->

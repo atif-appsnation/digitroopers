@@ -531,19 +531,19 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/food-app/food-app-mockup-02.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-03.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-04.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-05.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-06.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-07.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-08.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-09.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-10.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-11.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-12.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-13.webp" class="d-block w-100" alt="Food App">
-                <img src="assets/images/portfolio/food-app/food-app-mockup-14.webp" class="d-block w-100" alt="Food App">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-02.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-03.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-04.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-05.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-06.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-07.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-08.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-09.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-10.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-11.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-12.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-13.webp" class="d-block w-100" alt="Food App" loading="lazy">
+                <img src="assets/images/portfolio/food-app/food-app-mockup-14.webp" class="d-block w-100" alt="Food App" loading="lazy">
                 <!-- End Content -->
             </div>
             

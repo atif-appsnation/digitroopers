@@ -531,14 +531,14 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-02.webp" class="d-block w-100" alt="Rangrez Visual">
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-03.webp" class="d-block w-100" alt="Rangrez Visual">
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-04.webp" class="d-block w-100" alt="Rangrez Visual">
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-05.webp" class="d-block w-100" alt="Rangrez Visual">
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-06.webp" class="d-block w-100" alt="Rangrez Visual">
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-07.webp" class="d-block w-100" alt="Rangrez Visual">
-                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-08.webp" class="d-block w-100" alt="Rangrez Visual">
-				<img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-09.webp" class="d-block w-100" alt="Rangrez Visual">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-02.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-03.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-04.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-05.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-06.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-07.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+                <img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-08.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
+				<img src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup-09.webp" class="d-block w-100" alt="Rangrez Visual" loading="lazy">
                 <!-- End Content -->
             </div>
 				

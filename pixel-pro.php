@@ -489,13 +489,13 @@
                 <div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-02.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-02.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-03.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-03.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev">
@@ -512,25 +512,25 @@
                 <div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-04.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-04.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-05.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-05.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-06.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-06.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-07.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-07.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-08.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-08.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-09.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-09.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-10.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-10.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev">
@@ -544,37 +544,37 @@
                 </div>
 
                 <h2 class="text-center text-primary my-5">Fonts</h2>
-                <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-11.webp" class="d-block w-100" alt="Pixel Pro">
+                <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-11.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
 
                 <h2 class="text-center text-primary my-5">Our Product</h2>
                 <div id="carouselThree" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-12.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-12.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-13.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-13.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-14.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-14.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-15.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-15.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-16.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-16.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-17.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-17.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-18.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-18.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-19.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-19.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-20.webp" class="d-block w-100" alt="Pixel Pro">
+                            <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-20.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev">
@@ -587,7 +587,7 @@
                     </button>
                 </div>
 
-                <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-21.webp" class="d-block w-100" alt="Pixel Pro">
+                <img src="assets/images/portfolio/pixel-pro/pixel-pro-mockup-21.webp" class="d-block w-100" alt="Pixel Pro" loading="lazy">
             </div>
 
             <!-- Start Footer -->

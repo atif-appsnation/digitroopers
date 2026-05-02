@@ -530,49 +530,49 @@
                     </div>
                 </div>
 
-                <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup.webp" class="d-block w-100" alt="Rapid Haul">
+                <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
 
                 <h2 class="text-center my-5 text-primary">Brand Guidelines</h2>
                 <div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-02.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-02.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-03.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-03.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-04.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-04.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-05.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-05.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-06.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-06.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-07.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-07.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-08.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-08.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-09.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-09.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-10.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-10.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-11.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-11.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-12.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-12.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-13.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-13.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-14.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-14.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev">
@@ -589,25 +589,25 @@
                 <div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-15.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-15.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-16.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-16.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-17.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-17.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-18.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-18.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-19.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-19.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-20.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-20.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-21.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-21.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev">
@@ -624,19 +624,19 @@
                 <div id="carouselThree" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-22.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-22.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-23.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-23.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-24.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-24.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-25.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-25.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-26.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-26.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev">
@@ -653,46 +653,46 @@
                 <div id="carouselFour" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-27.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-27.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-28.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-28.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-29.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-29.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-30.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-30.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-31.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-31.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-32.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-32.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-33.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-33.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src=".assets/images/portfolio/rapid-haul/rapid-haul-mockup-34.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src=".assets/images/portfolio/rapid-haul/rapid-haul-mockup-34.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-35.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-35.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-36.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-36.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-37.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-37.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-38.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-38.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src=".assets/images/portfolio/rapid-haul/rapid-haul-mockup-39.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src=".assets/images/portfolio/rapid-haul/rapid-haul-mockup-39.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-40.webp" class="d-block w-100" alt="Rapid Haul">
+                            <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-40.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselFour" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -705,7 +705,7 @@
                     </div>
                 </div>
   
-                <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-41.webp" class="d-block w-100" alt="Rapid Haul">
+                <img src="assets/images/portfolio/rapid-haul/rapid-haul-mockup-41.webp" class="d-block w-100" alt="Rapid Haul" loading="lazy">
             </div>
 
             <!-- Start Footer -->

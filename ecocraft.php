@@ -533,19 +533,19 @@
 				<div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-02.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-02.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-03.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-03.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-04.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-04.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-05.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-05.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-06.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-06.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 					</div>
 					<button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
@@ -556,22 +556,22 @@
 				<div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-07.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-07.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-08.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-08.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-09.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-09.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-10.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-10.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-11.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-11.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-12.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-12.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 					</div>
 					<button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
@@ -582,13 +582,13 @@
 				<div id="carouselThree" class="carousel slide" data-bs-ride="carousel">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-13.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-13.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-14.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-14.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-15.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-15.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 					</div>
 					<button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
@@ -599,13 +599,13 @@
 				<div id="carouselFour" class="carousel slide" data-bs-ride="carousel">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-16.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-16.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-17.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-17.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-18.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-18.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 					</div>
 					<button class="carousel-control-prev" type="button" data-bs-target="#carouselFour" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
@@ -616,47 +616,47 @@
 				<div id="carouselFive" class="carousel slide" data-bs-ride="carousel">
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-19.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-19.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-20.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-20.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-21.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-21.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-22.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-22.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-23.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-23.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-24.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-24.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-25.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-25.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-26.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-26.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-27.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-27.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-28.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-28.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-29.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-29.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 						<div class="carousel-item">
-							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-30.webp" class="d-block w-100" alt="Ecocraft">
+							<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-30.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 						</div>
 					</div>
 					<button class="carousel-control-prev" type="button" data-bs-target="#carouselFive" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
 					<button class="carousel-control-next" type="button" data-bs-target="#carouselFive" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="visually-hidden">Next</span> </button>
 				</div>
             
-            	<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-31.webp" class="d-block w-100" alt="Ecocraft">
+            	<img src="assets/images/portfolio/ecocraft/ecocraft-mockup-31.webp" class="d-block w-100" alt="Ecocraft" loading="lazy">
 			</div>
 
             <!-- Start Footer -->

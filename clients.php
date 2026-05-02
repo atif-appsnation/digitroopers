@@ -556,46 +556,46 @@
                                     <div class="client-logos">
                                         <div class="owl-carousel client-logo-slider" data-cursor-type="arrow" data-nav-dots="false" data-nav-arrow="false" data-items="6" data-lg-items="5" data-md-items="4" data-sm-items="3" data-xs-items="3" data-xx-items="2" data-space="82" data-autoheight="true">
                                             <div class="item">
-                                                <img class="img-fluid" src="assets/images/client-logo/client-1.webp" alt="Client Logo">
+                                                <img class="img-fluid" src="assets/images/client-logo/client-1.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid" src="assets/images/client-logo/client-2.webp" alt="Client Logo">
+                                                <img class="img-fluid" src="assets/images/client-logo/client-2.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-3.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-3.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-4.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-4.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-5.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-5.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-6.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-6.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-7.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-7.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-8.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-8.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-9.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-9.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-10.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-10.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-11.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-11.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-12.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-12.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-13.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-13.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                             <div class="item">
-                                                <img class="img-fluid"  src="assets/images/client-logo/client-14.webp" alt="Client Logo">
+                                                <img class="img-fluid"  src="assets/images/client-logo/client-14.webp" alt="Client Logo" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
@@ -722,13 +722,13 @@
                                     <div class="client-reviews">
                                         <ul class="client-profile">
                                             <li>
-                                                <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Testimonials">
+                                                <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Testimonials" loading="lazy">
                                             </li>
                                             <li>
-                                                <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Testimonials">
+                                                <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Testimonials" loading="lazy">
                                             </li>
                                             <li>
-                                                <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Testimonials">
+                                                <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Testimonials" loading="lazy">
                                             </li>
                                         </ul>
                                         <div class="reviews">

@@ -531,13 +531,13 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-02.webp" class="d-block w-100" alt="Skyline Estate">
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-03.webp" class="d-block w-100" alt="Skyline Estate">
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-04.webp" class="d-block w-100" alt="Skyline Estate">
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-05.webp" class="d-block w-100" alt="Skyline Estate">
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-06.webp" class="d-block w-100" alt="Skyline Estate">
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-07.webp" class="d-block w-100" alt="Skyline Estate">
-                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-08.webp" class="d-block w-100" alt="Skyline Estate">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-02.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-03.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-04.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-05.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-06.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-07.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
+                <img src="assets/images/portfolio/skyline-estate/skyline-estate-mockup-08.webp" class="d-block w-100" alt="Skyline Estate" loading="lazy">
                 <!-- End Content -->
             </div>
             

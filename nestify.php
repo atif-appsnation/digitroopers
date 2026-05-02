@@ -534,13 +534,13 @@
                 <div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-02.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-02.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-03.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-03.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev">
@@ -557,13 +557,13 @@
                 <div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-04.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-04.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-05.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-05.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-06.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-06.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev">
@@ -577,40 +577,40 @@
                 </div>
 
                 <h2 class="text-center text-primary my-5">Logo Concepts</h2>
-                <img src="assets/images/portfolio/nestify/nestify-mockup-07.webp" class="img-fluid" alt="Nestify">
-                <img src="assets/images/portfolio/nestify/nestify-mockup-08.webp" class="img-fluid" alt="Nestify">
+                <img src="assets/images/portfolio/nestify/nestify-mockup-07.webp" class="img-fluid" alt="Nestify" loading="lazy">
+                <img src="assets/images/portfolio/nestify/nestify-mockup-08.webp" class="img-fluid" alt="Nestify" loading="lazy">
 
                 <div id="carouselThree" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-09.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-09.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-10.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-10.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-11.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-11.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-12.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-12.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-13.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-13.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-14.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-14.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-15.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-15.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-16.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-16.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-17.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-17.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/nestify/nestify-mockup-18.webp" class="d-block w-100" alt="Nestify">
+                            <img src="assets/images/portfolio/nestify/nestify-mockup-18.webp" class="d-block w-100" alt="Nestify" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev">
@@ -623,8 +623,8 @@
                     </button>
                 </div>
 
-                <img src="assets/images/portfolio/nestify/nestify-mockup-20.webp" class="d-block w-100" alt="Nestify">
-                <img src="assets/images/portfolio/nestify/nestify-mockup-19.webp" class="d-block w-100" alt="Nestify">
+                <img src="assets/images/portfolio/nestify/nestify-mockup-20.webp" class="d-block w-100" alt="Nestify" loading="lazy">
+                <img src="assets/images/portfolio/nestify/nestify-mockup-19.webp" class="d-block w-100" alt="Nestify" loading="lazy">
             </div>
 
             <!-- Start Footer -->

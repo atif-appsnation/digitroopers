@@ -553,7 +553,7 @@
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/development.webp" alt="Idea Analysis" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/development.webp" alt="Idea Analysis" class="img-fluid radius-20 h-auto" loading="lazy">
                                 </div>
                                 <div class="col-lg-7 text-center text-lg-start mb-4 mb-md-0">
                                     <h2 class="title-process">Our Web Design Process</h2>
@@ -572,7 +572,7 @@
                                     <p> DigiTroopers is eager to partner with all kinds of businesses, from those that operate within defined geolocations to those with a multi-location business model. We want our client partners to feel that our content specialists and digital marketing experts are an integrated part of their team. All clients must have real-time access and a sound understanding of the reports we create and the data we use or produce. We work transparently to create awareness and traction for your brand. All marketing campaign data is accessible 24/7 through secure cloud storage or directly from our team during regular check-in meetings. </p>
                                 </div>
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/idea-analysis.webp" alt="Idea Analysis" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/idea-analysis.webp" alt="Idea Analysis" class="img-fluid radius-20 h-auto" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -590,7 +590,7 @@
                                     <p>A wireframe is a visual representation of the user interface. It provides a visual description of a site. This step can be a daunting task to set up your business website, but if you know what you want to achieve, the process will go quickly.</p>
                                 </div>
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/planning.webp" alt="Wireframing" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/planning.webp" alt="Wireframing" class="img-fluid radius-20 h-auto" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -606,7 +606,7 @@
                                     <p> After completing each step and the project definition, we start working on the User Interface. The UI design will determine how easily users can connect with your website, so planning this stage with excellent care. We have worked on many UI designs and have years of experience in giving our clients what they need. We work closely with you throughout this process, ensuring complete satisfaction and an extensive idea of how your site should look. </p>
                                 </div>
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/user interface.webp" alt="UI Design" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/user interface.webp" alt="UI Design" class="img-fluid radius-20 h-auto" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -622,7 +622,7 @@
                                     <p> In this stage, the design of your website is now under developers to run the codes on it to make it function and run smoothly. It is the most crucial step in development as, at this stage, we are ready to start making your website by converting it into digital wireframes, mockups, and prototypes. Elements designed in the previous steps are now utilized to create an actual web design. Our web development team will work with your feedback and make any changes. </p>
                                 </div>
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/functional-modeling.webp" alt="Development" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/functional-modeling.webp" alt="Development" class="img-fluid radius-20 h-auto">
                                 </div>
                             </div>
                         </div>
@@ -638,7 +638,7 @@
                                     <p> Quality Assurance is a vital part of the website development process, which includes debugging and avoiding faults before launching your site to the world. Our extensive QA process makes sure there are no errors and that it works smoothly across various devices. Our Quality Assurance team will check the page for zero styles of practicality errors. Every page and link are tested before launching the site to ensure nothing is broken. </p>
                                 </div>
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/quality-assurance.webp" alt="Quality Assurance" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/quality-assurance.webp" alt="Quality Assurance" class="img-fluid radius-20 h-auto" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -654,7 +654,7 @@
                                     <p> The website is now entirely built using advanced technologies and frameworks, equipped with excellent design, and successfully passes the standards of the Quality Assurance section. We tend to locate the project and build it live. Once your project is prepared, we take further steps to ensure that there isn't any single error or bug remaining on your site and that it fully satisfies your targeted audience. After the site goes live, our team stays in touch with the client to ensure a smooth transition from development to launching the website. </p>
                                 </div>
                                 <div class="col-lg-5 text-center">
-                                    <img src="./assets/images/our-process/deployment.webp" alt="Deployment" class="img-fluid radius-20 h-auto">
+                                    <img src="assets/images/our-process/deployment.webp" alt="Deployment" class="img-fluid radius-20 h-auto" loading="lazy">
                                 </div>
                             </div>
                         </div>

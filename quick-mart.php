@@ -531,14 +531,14 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-02.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-03.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-04.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-05.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-06.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-07.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-08.webp" class="d-block w-100" alt="Quick Mart">
-                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-09.webp" class="d-block w-100" alt="Quick Mart">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-02.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-03.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-04.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-05.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-06.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-07.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-08.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
+                <img src="assets/images/portfolio/quick-mart/quick-mart-mockup-09.webp" class="d-block w-100" alt="Quick Mart" loading="lazy">
                 <!-- End Content -->
             </div>
 

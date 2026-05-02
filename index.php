@@ -1032,7 +1032,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-1.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-1.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">Upcity.com names AppsNation as a top mobile app company</h6>
 														<p class="text-center">AppsNation - a leader in mobile app development</p>
 													</div>
@@ -1043,7 +1043,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-2.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-2.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">AppsNation named among top mobile app development companies </h6>
 														<p class="text-center">Top app firm listed AppsNation in top mobile app development companies</p>
 													</div>
@@ -1054,7 +1054,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-3.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-3.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">Top iOS App Development Company in the US</h6>
 														<p class="text-center">AppsNation among 30 top iOS app developers in USA 2021</p>
 													</div>
@@ -1065,7 +1065,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-4.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-4.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">AppsNation Named Among Top Software Companies</h6>
 														<p class="text-center">A leading software company in sept 2021</p>
 													</div>
@@ -1076,7 +1076,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-5.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-5.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">App Development Companies 2021</h6>
 														<p class="text-center">Top mobile app development companies in Florida</p>
 													</div>
@@ -1087,7 +1087,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-6.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-6.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">Top mobile app development company in Saudi Arabia</h6>
 														<p class="text-center">Top mobile app development company in Saudi Arabia</p>
 													</div>
@@ -1098,7 +1098,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-7.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-7.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">App Development Companies 2021</h6>
 														<p class="text-center">Top mobile app development companies in Florida</p>
 													</div>
@@ -1109,7 +1109,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-8.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-8.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">Top mobile app development company in Saudi Arabia</h6>
 														<p class="text-center">Top mobile app development company in Saudi Arabia</p>
 													</div>
@@ -1120,7 +1120,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-9.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-9.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">Top Website design Agencies</h6>
 														<p class="text-center">Best Website Design Agency Award</p>
 													</div>
@@ -1131,7 +1131,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-10.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-10.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">Top AR/VR Development Company</h6>
 														<p class="text-center">AppsNation | Top AR/VR Development Company In Saudi Arabia</p>
 													</div>
@@ -1142,7 +1142,7 @@
 											<div class="item">
 												<div class="card">
 													<div class="card-body">
-														<img src="assets/images/badges/badge-11.webp" class="img-fluid d-block mx-auto">
+														<img src="assets/images/badges/badge-11.webp" class="img-fluid d-block mx-auto" loading="lazy">
 														<h6 class="text-center">AppsNation among top 8 software development companies</h6>
 														<p class="text-center">Expertise lists AppsNation as top software development company</p>
 													</div>
@@ -1160,7 +1160,9 @@
 					<!-- Start Technologies & Platforms -->			
 					<div class="container tech-container my-5">
 						<div class="section-title wow fadeInUp wow fadeInUp">
-							<h5 class="title">Technologies & Platforms <span class="tech-highlight">We Use</span></h5>
+							<h5 class="title">Technologies & Platforms
+								<span class="tech-highlight">We Use</span>
+							</h5>
 							<p class="p-black">We provide diverse options to all our clients to ensure any current or future needs are met.</p>
 						</div>
 
@@ -1172,12 +1174,30 @@
 									<h3>Frontend</h3>
 								</div>
 								<div class="tech-card-body">
-									<div class="tech-item"><img src="assets/images/tech/react.webp" alt="ReactJS"><span>ReactJS</span></div>
-									<div class="tech-item"><img src="assets/images/tech/angular.webp" alt="AngularJS"><span>AngularJS</span></div>
-									<div class="tech-item"><img src="assets/images/tech/vue.webp" alt="Vue.js"><span>Vue.js</span></div>
-									<div class="tech-item"><img src="assets/images/tech/js.webp" alt="JavaScript"><span>JavaScript</span></div>
-									<div class="tech-item"><img src="assets/images/tech/css.webp" alt="CSS3"><span>CSS3</span></div>
-									<div class="tech-item"><img src="assets/images/tech/html.webp" alt="HTML5"><span>HTML5</span></div>
+									<div class="tech-item">
+										<img src="assets/images/tech/react.webp" alt="ReactJS" loading="lazy">
+										<span>ReactJS</span>
+									</div>
+									<div class="tech-item">
+										<img src="assets/images/tech/angular.webp" alt="AngularJS" loading="lazy">
+										<span>AngularJS</span>
+									</div>
+									<div class="tech-item">
+										<img src="assets/images/tech/vue.webp" alt="Vue.js" loading="lazy">
+										<span>Vue.js</span>
+									</div>
+									<div class="tech-item">
+										<img src="assets/images/tech/js.webp" alt="JavaScript" loading="lazy">
+										<span>JavaScript</span>
+									</div>
+									<div class="tech-item">
+										<img src="assets/images/tech/css.webp" alt="CSS3" loading="lazy">
+										<span>CSS3</span>
+									</div>
+									<div class="tech-item">
+										<img src="assets/images/tech/html.webp" alt="HTML5" loading="lazy">
+										<span>HTML5</span>
+									</div>
 								</div>
 							</div>
 
@@ -1468,13 +1488,13 @@
 										<div class="client-reviews">
 											<ul class="client-profile">
 												<li>
-													<img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Testimonials">
+													<img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Testimonials" loading="lazy">
 												</li>
 												<li>
-													<img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Testimonials">
+													<img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Testimonials" loading="lazy">
 												</li>
 												<li>
-													<img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Testimonials">
+													<img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Testimonials" loading="lazy">
 												</li>
 											</ul>
 											<div class="reviews">
@@ -1733,8 +1753,7 @@
 
 										<div class="accordion-item">
 											<h3 class="accordion-header" id="headingTwo">
-												<button  class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											2. How much does it cost to hire DigiTroopers for digital marketing?</button>
+												<button  class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">2. How much does it cost to hire DigiTroopers for digital marketing?</button>
 											</h3>
 											<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#pgsaccordion">
 												<div class="accordion-body">Our pricing is flexible. We offer both monthly retainers and one-time project-based services. Packages start affordably for small businesses and scale to advanced campaigns for enterprises. Every quote is customized, ensuring you only pay for what you need.</div>

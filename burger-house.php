@@ -531,15 +531,16 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-02.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-03.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-04.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-05.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-06.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-07.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-08.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-09.webp" class="d-block w-100" alt="Burger House">
-                <img src="assets/images/portfolio/burger-house/burger-house-mockup-10.webp" class="d-block w-100" alt="Burger House">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-02.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-02.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-03.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-04.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-05.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-06.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-07.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-08.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-09.webp" class="d-block w-100" alt="Burger House" loading="lazy">
+                <img src="assets/images/portfolio/burger-house/burger-house-mockup-10.webp" class="d-block w-100" alt="Burger House" loading="lazy">
                 <!-- End Content -->
             </div>
 

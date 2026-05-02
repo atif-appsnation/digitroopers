@@ -573,7 +573,7 @@
                                         <div class="grid-item" data-groups='["website"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/burger-house/burger-house-mockup.webp" alt="Burger House">
+                                                    <img class="img-fluid" src="assets/images/portfolio/burger-house/burger-house-mockup.webp" alt="Burger House" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -597,7 +597,7 @@
                                         <div class="grid-item" data-groups='["website"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/quick-mart/quick-mart-mockup.webp" alt="Quick Mart">
+                                                    <img class="img-fluid" src="assets/images/portfolio/quick-mart/quick-mart-mockup.webp" alt="Quick Mart" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -621,7 +621,7 @@
                                         <div class="grid-item" data-groups='["website"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/quran-hub/quran-hub-mockup.webp" alt="Quran Hub">
+                                                    <img class="img-fluid" src="assets/images/portfolio/quran-hub/quran-hub-mockup.webp" alt="Quran Hub" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -645,7 +645,7 @@
                                         <div class="grid-item" data-groups='["website"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup.webp" alt="Rangrez Visual">
+                                                    <img class="img-fluid" src="assets/images/portfolio/rangrez-visual/rangrez-visual-mockup.webp" alt="Rangrez Visual" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -669,7 +669,7 @@
                                         <div class="grid-item" data-groups='["website"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ride-smart/ride-smart-mockup.webp" alt="Ride Smart">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ride-smart/ride-smart-mockup.webp" alt="Ride Smart" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -692,7 +692,7 @@
                                         <div class="grid-item" data-groups='["website"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/skyline-estate/skyline-estate-mockup.webp" alt="Skyline Estate">
+                                                    <img class="img-fluid" src="assets/images/portfolio/skyline-estate/skyline-estate-mockup.webp" alt="Skyline Estate" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -719,7 +719,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-1.webp" alt="Burger House UI/UX">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-1.webp" alt="Burger House UI/UX" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -743,7 +743,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-2.webp" alt="Quick Mart UI/UX">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-2.webp" alt="Quick Mart UI/UX" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -767,7 +767,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-3.webp" alt="Quran Hub UI/UX">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-3.webp" alt="Quran Hub UI/UX" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -791,7 +791,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-4.webp" alt="Skyline Estate UI/UX">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-4.webp" alt="Skyline Estate UI/UX" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -815,7 +815,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-5.webp" alt="Rangrez Visual UI/UX">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ui-ux/ui-ux-mockup-5.webp" alt="Rangrez Visual UI/UX" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -839,7 +839,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/food-app/food-app-mockup.webp" alt="Food App UI/UX">
+                                                    <img class="img-fluid" src="assets/images/portfolio/food-app/food-app-mockup.webp" alt="Food App UI/UX" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -863,7 +863,7 @@
                                         <div class="grid-item" data-groups='["ui-ux"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/travel-guide/travel-guide-mockup.webp" alt="Travel Guide">
+                                                    <img class="img-fluid" src="assets/images/portfolio/travel-guide/travel-guide-mockup.webp" alt="Travel Guide" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -914,7 +914,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/glamora/glamora-mockup.webp" alt="Glamora Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/glamora/glamora-mockup.webp" alt="Glamora Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -938,7 +938,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/nestify/nestify-mockup.webp" alt="Nestify Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/nestify/nestify-mockup.webp" alt="Nestify Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -962,7 +962,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ecocraft/ecocraft-mockup.webp" alt="Ecocraft Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ecocraft/ecocraft-mockup.webp" alt="Ecocraft Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -986,7 +986,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/rapid-haul/rapid-haul-mockup.webp" alt="Rapid Haul Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/rapid-haul/rapid-haul-mockup.webp" alt="Rapid Haul Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1010,7 +1010,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/bun-bawk/bun-bawk-mockup.webp" alt="Bun & Bawk Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/bun-bawk/bun-bawk-mockup.webp" alt="Bun & Bawk Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1034,7 +1034,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/pixel-pro/pixel-pro-mockup.webp" alt="PixelPro Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/pixel-pro/pixel-pro-mockup.webp" alt="PixelPro Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1058,7 +1058,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/vibeta/vibeta-mockup.webp" alt="Vibeta Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/vibeta/vibeta-mockup.webp" alt="Vibeta Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1082,7 +1082,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/estaty/estaty-mockup.webp" alt="Estaty Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/estaty/estaty-mockup.webp" alt="Estaty Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1106,7 +1106,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ice-popz/ice-popz-mockup.webp" alt="IcePopz Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ice-popz/ice-popz-mockup.webp" alt="IcePopz Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1130,7 +1130,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/rang-o-nigar/rang-o-nigar-mockup.webp" alt="Rang-o-Nigar Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/rang-o-nigar/rang-o-nigar-mockup.webp" alt="Rang-o-Nigar Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1154,7 +1154,7 @@
                                         <div class="grid-item" data-groups='["logo"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/lams-e-husun/lams-e-husun-mockup.webp" alt="Lams e Husun Brand">
+                                                    <img class="img-fluid" src="assets/images/portfolio/lams-e-husun/lams-e-husun-mockup.webp" alt="Lams e Husun Brand" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1181,7 +1181,7 @@
                                         <div class="grid-item" data-groups='["mobile-app"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/reborn/reborn-mockup.webp" alt="Reborn">
+                                                    <img class="img-fluid" src="assets/images/portfolio/reborn/reborn-mockup.webp" alt="Reborn" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1205,7 +1205,7 @@
                                         <div class="grid-item" data-groups='["mobile-app"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/beat-house/beat-house-mockup.webp" alt="Beat House">
+                                                    <img class="img-fluid" src="assets/images/portfolio/beat-house/beat-house-mockup.webp" alt="Beat House" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1229,7 +1229,7 @@
                                         <div class="grid-item" data-groups='["mobile-app"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/fresh-cart/fresh-cart-mockup.webp" alt="Fresh Cart">
+                                                    <img class="img-fluid" src="assets/images/portfolio/fresh-cart/fresh-cart-mockup.webp" alt="Fresh Cart" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1253,7 +1253,7 @@
                                         <div class="grid-item" data-groups='["mobile-app"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/ar-furniture/ar-furniture-mockup.webp" alt="AR Furniture">
+                                                    <img class="img-fluid" src="assets/images/portfolio/ar-furniture/ar-furniture-mockup.webp" alt="AR Furniture" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1277,7 +1277,7 @@
                                         <div class="grid-item" data-groups='["mobile-app"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/glowe/glowe-mockup.webp" alt="Glowe">
+                                                    <img class="img-fluid" src="assets/images/portfolio/glowe/glowe-mockup.webp" alt="Glowe" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1304,7 +1304,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-01.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-01.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1328,7 +1328,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-02.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-02.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1352,7 +1352,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-03.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-03.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1376,7 +1376,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-04.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-04.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1400,7 +1400,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-05.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-05.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1424,7 +1424,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-06.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-06.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1448,7 +1448,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-07.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-07.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1472,7 +1472,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-08.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-08.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1496,7 +1496,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-09.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-09.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1520,7 +1520,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-10.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-10.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1544,7 +1544,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-11.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-11.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1568,7 +1568,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-12.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-12.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1592,7 +1592,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-13.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-13.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1616,7 +1616,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-14.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-14.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1640,7 +1640,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-15.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-15.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1664,7 +1664,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-16.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-16.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1688,7 +1688,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-17.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-17.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1712,7 +1712,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-18.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-18.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1736,7 +1736,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-19.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-19.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1760,7 +1760,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-20.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-20.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1784,7 +1784,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-21.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-21.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1808,7 +1808,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-22.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-22.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1832,7 +1832,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-23.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-23.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1856,7 +1856,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-24.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-24.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1880,7 +1880,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-25.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-25.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1904,7 +1904,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-26.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-26.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1928,7 +1928,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-27.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-27.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1952,7 +1952,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-28.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-28.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -1976,7 +1976,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-29.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-29.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2000,7 +2000,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-30.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-30.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2024,7 +2024,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-31.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-31.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2048,7 +2048,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-32.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-32.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2072,7 +2072,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-33.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-33.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2096,7 +2096,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-34.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-34.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2120,7 +2120,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-35.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-35.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2144,7 +2144,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-36.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-36.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2168,7 +2168,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-37.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-37.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2192,7 +2192,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-38.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-38.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2216,7 +2216,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-39.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-39.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2240,7 +2240,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-40.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-40.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2264,7 +2264,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-41.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-41.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2288,7 +2288,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-42.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-42.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2312,7 +2312,7 @@
                                         <div class="grid-item" data-groups='["graphic"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-43.webp" alt="Graphics">
+                                                    <img class="img-fluid" src="assets/images/portfolio/graphics/graphics-mockup-43.webp" alt="Graphics" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2745,7 +2745,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-01.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-01.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2769,7 +2769,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-02.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-02.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2793,7 +2793,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-03.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-03.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2817,7 +2817,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-04.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-04.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2841,7 +2841,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-05.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-05.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2865,7 +2865,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-06.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-06.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2889,7 +2889,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-07.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-07.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2913,7 +2913,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-08.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-08.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2937,7 +2937,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-09.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-09.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2961,7 +2961,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-10.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-10.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -2985,7 +2985,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-11.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-11.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3009,7 +3009,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-12.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-12.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3033,7 +3033,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-13.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-13.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3057,7 +3057,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-14.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-14.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3081,7 +3081,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-15.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-15.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3105,7 +3105,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-16.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-16.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3129,7 +3129,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-17.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-17.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3153,7 +3153,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-18.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-18.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3177,7 +3177,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-19.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-19.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3201,7 +3201,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-20.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-20.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3225,7 +3225,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-21.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-21.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3249,7 +3249,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-22.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-22.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3273,7 +3273,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-23.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-23.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3297,7 +3297,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-24.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-24.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3321,7 +3321,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-25.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-25.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3345,7 +3345,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-26.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-26.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3369,7 +3369,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-27.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-27.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3393,7 +3393,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-28.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-28.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3417,7 +3417,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-29.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-29.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3441,7 +3441,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-30.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-30.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3465,7 +3465,7 @@
                                         <div class="grid-item" data-groups='["3d-modeling"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-31.webp" alt="3D Modeling">
+                                                    <img class="img-fluid" src="assets/images/portfolio/3d-modal/3d-modal-mockup-31.webp" alt="3D Modeling" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3492,7 +3492,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-01.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-01.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3516,7 +3516,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-02.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-02.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3540,7 +3540,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-03.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-03.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3564,7 +3564,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-04.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-04.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3588,7 +3588,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-05.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-05.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3612,7 +3612,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-06.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-06.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3636,7 +3636,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-07.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-07.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3660,7 +3660,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-08.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-08.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3684,7 +3684,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-09.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-09.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3708,7 +3708,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-10.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-10.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3732,7 +3732,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-11.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-11.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3756,7 +3756,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-12.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-12.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3780,7 +3780,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-13.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-13.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3804,7 +3804,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-14.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-14.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3828,7 +3828,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-15.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-15.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3852,7 +3852,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-16.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-16.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3876,7 +3876,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-17.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-17.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3900,7 +3900,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-18.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-18.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3924,7 +3924,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-19.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-19.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3948,7 +3948,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-20.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-20.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3972,7 +3972,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-21.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-21.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -3996,7 +3996,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-22.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-22.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -4020,7 +4020,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-23.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-23.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -4044,7 +4044,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-24.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-24.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -4068,7 +4068,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                             <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-25.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-25.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -4092,7 +4092,7 @@
                                         <div class="grid-item" data-groups='["game-art"]'>
                                                 <div class="case-studies-wrapper case-studies-style-1">
                                                 <div class="case-studies-img">
-                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-26.webp" alt="Game Art">
+                                                    <img class="img-fluid" src="assets/images/portfolio/game-art/game-art-mockup-26.webp" alt="Game Art" loading="lazy">
                                                 </div>
                                                 <div class="case-studies-info">
                                                     <div class="case-studies-info-inner">
@@ -4143,13 +4143,13 @@
                                     <div class="client-reviews">
                                         <ul class="client-profile">
                                             <li>
-                                                <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Testimonials">
+                                                <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="Testimonials" loading="lazy">
                                             </li>
                                             <li>
-                                                <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Testimonials">
+                                                <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="Testimonials" loading="lazy">
                                             </li>
                                             <li>
-                                                <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Testimonials">
+                                                <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="Testimonials" loading="lazy">
                                             </li>
                                         </ul>
                                         <div class="reviews">

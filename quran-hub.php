@@ -531,13 +531,13 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-02.webp" class="d-block w-100" alt="Quran Hub">
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-03.webp" class="d-block w-100" alt="Quran Hub">
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-04.webp" class="d-block w-100" alt="Quran Hub">
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-05.webp" class="d-block w-100" alt="Quran Hub">
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-06.webp" class="d-block w-100" alt="Quran Hub">
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-07.webp" class="d-block w-100" alt="Quran Hub">
-                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-08.webp" class="d-block w-100" alt="Quran Hub">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-02.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-03.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-04.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-05.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-06.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-07.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
+                <img src="assets/images/portfolio/quran-hub/quran-hub-mockup-08.webp" class="d-block w-100" alt="Quran Hub" loading="lazy">
                 <!-- End Content -->
             </div>
             

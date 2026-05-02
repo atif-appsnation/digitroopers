@@ -531,16 +531,16 @@
                 </div>
 
                 <!-- Start Content -->
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-02.webp" class="d-block w-100" alt="Ride Smart">
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-03.webp" class="d-block w-100" alt="Ride Smart">
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-04.webp" class="d-block w-100" alt="Ride Smart">
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-05.webp" class="d-block w-100" alt="Ride Smart">
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-06.webp" class="d-block w-100" alt="Ride Smart">
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-07.webp" class="d-block w-100" alt="Ride Smart">
-                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-08.webp" class="d-block w-100" alt="Ride Smart">
-				<img src="assets/images/portfolio/ride-smart/ride-smart-mockup-09.webp" class="d-block w-100" alt="Ride Smart">
-				<img src="assets/images/portfolio/ride-smart/ride-smart-mockup-10.webp" class="d-block w-100" alt="Ride Smart">
-				<img src="assets/images/portfolio/ride-smart/ride-smart-mockup-11.webp" class="d-block w-100" alt="Ride Smart">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-02.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-03.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-04.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-05.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-06.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-07.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+                <img src="assets/images/portfolio/ride-smart/ride-smart-mockup-08.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+				<img src="assets/images/portfolio/ride-smart/ride-smart-mockup-09.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+				<img src="assets/images/portfolio/ride-smart/ride-smart-mockup-10.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
+				<img src="assets/images/portfolio/ride-smart/ride-smart-mockup-11.webp" class="d-block w-100" alt="Ride Smart" loading="lazy">
                 <!-- End Content -->
             </div>
 

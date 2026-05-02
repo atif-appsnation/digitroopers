@@ -490,8 +490,7 @@
                                 </li>
                                 <li>
                                     <i class="icon">
-                                        <svg width="22" height="22" fill="#0A66C2" viewBox="0 0 24 24"
-                                            xmlns="http://www.w3.org/2000/svg">
+                                        <svg width="22" height="22" fill="#0A66C2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.026-3.037-1.851-3.037-1.851 0-2.134 1.445-2.134 2.939v5.667H9.353V9h3.413v1.561h.049c.476-.899 1.637-1.85 3.369-1.85 3.6 0 4.264 2.369 4.264 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM6.778 20.452H3.893V9h2.885v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.226.792 24 1.771 24h20.451C23.2 24 24 23.226 24 22.271V1.729C24 .774 23.2 0 22.222 0z"></path>
                                         </svg>
                                     </i>
@@ -556,7 +555,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-4">
-                                                <img class="img-fluid radius-20 wow pgsLeftToRight" src="./assets/images/about-us/about-01.webp" alt="A woman in glasses and a business outfit sits at a desk with a laptop, smiling confidently amid office plants and bright windows.">
+                                                <img class="img-fluid radius-20 wow" src="assets/images/about-us/about-01.webp" alt="About Us" loading="lazy">
                                             </div>
                                             <div class="col-sm-8 mt-4 mt-sm-0 wow fadeInUp" data-duration="0.1s" data-delay="0.25s">
                                                 <p class="p-black mb-4 pb-0 pb-md-3">DigiTroopers is eager to partner with all kinds of business from those that operate within defined geolocation to those with a multi-location business model. We want our client partners to feel that our content specialists and digital marketing experts are an integrated part of their own team. All our clients must have real-time access and a sound understanding of the reports we create, data we gather, utilize or produce. We will do everything it takes to work transparently while we create awareness and traction for your brand. All marketing campaign data is therefore accessible 24/7 through secure cloud storage or directly from our team during our regular check-in meetings.</p>
@@ -607,7 +606,7 @@
                                 </div>
                                 <div class="col-sm-8 col-md-6 col-lg-5">
                                     <div class="about-img ps-xl-5">
-                                        <img class="img-fluid radius-20 wow pgsRightToLeft" src="./assets/images/about-us/about-02.webp" alt="A woman and a man collaborate at a wooden table, focused on a laptop amid papers, in a sunlit room with soft green walls—showing teamwork.">
+                                        <img class="img-fluid radius-20 wow" src="./assets/images/about-us/about-02.webp" alt="About Us" loading="lazy">
                                     </div>
                                 </div>
                             </div>
@@ -735,13 +734,13 @@
                                             <div class="services-bg-slider wow fadeInUp" data-duration="0.1s" data-delay="0.25s">
                                                 <div class="owl-carousel h-100" data-nav-dots="false" data-nav-arrow="false" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="0" data-autoheight="true">
                                                     <div class="item">
-                                                        <img class="img-fluid" src="./assets/images/why-choose-us/why-choose-us-01.webp" alt="Marketing Strategy">
+                                                        <img class="img-fluid" src="./assets/images/why-choose-us/why-choose-us-01.webp" alt="Marketing Strategy" loading="lazy">
                                                     </div>
                                                     <div class="item">
-                                                        <img class="img-fluid" src="./assets/images/why-choose-us/why-choose-us-01.webp" alt="Marketing Strategy">
+                                                        <img class="img-fluid" src="./assets/images/why-choose-us/why-choose-us-01.webp" alt="Marketing Strategy" loading="lazy">
                                                     </div>
                                                     <div class="item">
-                                                        <img class="img-fluid" src="./assets/images/why-choose-us/why-choose-us-01.webp" alt="Marketing Strategy">
+                                                        <img class="img-fluid" src="./assets/images/why-choose-us/why-choose-us-01.webp" alt="Marketing Strategy" loading="lazy">
                                                     </div>
                                                 </div>
                                                 <div class="services-bg-slider-content">
@@ -751,7 +750,7 @@
                                             </div>
                                             <div class="services-boxs service-fancy grid-wrapper grid-xl-1 grid-lg-1 grid-md-1 grid-sm-1">
                                                 <div class="service-item service-fancy-item wow fadeInUp" data-duration="0.1s" data-delay="0.25s">
-                                                    <img class="img-fluid service-img gsap-img-animation" src="./assets/images/service-fancy/service-fancy-01.webp" alt=" web and mobile applications">
+                                                    <img class="img-fluid service-img gsap-img-animation" src="./assets/images/service-fancy/service-fancy-01.webp" alt="web and mobile applications" loading="lazy">
                                                     <div class="service-content">
                                                         <div class="service-content-inner">
                                                             <div class="service-info">
@@ -772,7 +771,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="service-item service-fancy-item wow fadeInUp" data-duration="0.1s" data-delay="0.25s">
-                                                    <img class="img-fluid service-img gsap-img-animation" src="./assets/images/service-fancy/service-fancy-02.webp" alt="solve real-world problems">
+                                                    <img class="img-fluid service-img gsap-img-animation" src="./assets/images/service-fancy/service-fancy-02.webp" alt="solve real-world problems" loading="lazy">
                                                     <div class="service-content">
                                                         <div class="service-content-inner">
                                                             <div class="service-info">
@@ -793,7 +792,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="service-item service-fancy-item wow fadeInUp" data-duration="0.1s" data-delay="0.25s">
-                                                    <img class="img-fluid service-img gsap-img-animation" src="./assets/images/service-fancy/service-fancy-03.webp" alt="On Time Delivery">
+                                                    <img class="img-fluid service-img gsap-img-animation" src="./assets/images/service-fancy/service-fancy-03.webp" alt="On Time Delivery" loading="lazy">
                                                     <div class="service-content">
                                                         <div class="service-content-inner">
                                                             <div class="service-info">

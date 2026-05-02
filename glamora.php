@@ -534,13 +534,13 @@
                 <div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-02.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-02.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-03.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-03.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev">
@@ -557,13 +557,13 @@
                 <div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-04.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-04.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-05.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-05.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-08.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-08.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev">
@@ -576,40 +576,40 @@
                     </button>
                 </div>
                 <h2 class="text-center text-primary my-5">Fonts and Colors</h2>
-                <img src="assets/images/portfolio/glamora/glamora-mockup-06.webp" class="img-fluid" alt="Glamora">
-                <img src="assets/images/portfolio/glamora/glamora-mockup-07.webp" class="img-fluid" alt="Glamora">
+                <img src="assets/images/portfolio/glamora/glamora-mockup-06.webp" class="img-fluid" alt="Glamora" loading="lazy">
+                <img src="assets/images/portfolio/glamora/glamora-mockup-07.webp" class="img-fluid" alt="Glamora" loading="lazy">
 
                 <div id="carouselThree" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-09.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-09.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-10.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-10.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-11.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-11.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-12.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-12.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-13.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-13.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-14.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-14.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-15.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-15.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-16.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-16.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-17.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-17.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/glamora/glamora-mockup-18.webp" class="d-block w-100" alt="Glamora">
+                            <img src="assets/images/portfolio/glamora/glamora-mockup-18.webp" class="d-block w-100" alt="Glamora" loading="lazy">
                         </div> 
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev">
@@ -622,7 +622,7 @@
                     </button>
                 </div>
 
-                <img src="assets/images/portfolio/glamora/glamora-mockup-19.webp" class="d-block w-100" alt="Glamora">
+                <img src="assets/images/portfolio/glamora/glamora-mockup-19.webp" class="d-block w-100" alt="Glamora" loading="lazy">
             </div>
 
             <!-- Start Footer -->
