@@ -31,7 +31,6 @@
 		<link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/themes.css">
-		<link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
 	</head>
 

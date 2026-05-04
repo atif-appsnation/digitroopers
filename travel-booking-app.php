@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="keywords" content="HTML5 Template">
-		<meta name="author" content="potenzaglobalsolutions.com">
+    <head>
+        <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-		<meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-		<link rel="canonical" href="https://digitroopers.com/" />
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
 		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
 		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
 		<meta property="og:url" content="https://digitroopers.com/" />
@@ -16,32 +14,75 @@
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
 		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-		<meta name="twitter:image" content="assets/images/logo/favicon.webp" />
-		<link rel="shortcut icon" href="assets/images/logo/favicon.webp">
-		<link rel="stylesheet" href="assets/css/jost.css" >
-		<link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
-		<link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/vendors/bootstrap/bootstrap-icons.min.css">
-		<link rel="stylesheet" href="assets/vendors/owl-carousel/owl.carousel.min.css">
-		<link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css">
-		<link rel="stylesheet" href="assets/vendors/lenis/lenis.css">
-		<link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css">
-		<link rel="stylesheet" href="assets/vendors/animate/animate.min.css">
-		<link rel="stylesheet" href="assets/vendors/magnific-popup/magnific-popup.css">
-		<link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
-		<link rel="stylesheet" href="assets/css/style.css">
-		<link rel="stylesheet" href="assets/css/themes.css">
-		<link rel="stylesheet" href="assets/css/responsive.css">
-	</head>	
-    
-    <body>
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
+        <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
+        <link rel="stylesheet" href="assets/css/jost.css" >
+        <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
+        <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/vendors/bootstrap/bootstrap-icons.min.css">
+        <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css">
+        <link rel="stylesheet" href="assets/vendors/lenis/lenis.css">
+        <link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css">
+        <link rel="stylesheet" href="assets/vendors/magnific-popup/magnific-popup.css">
+        <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/themes.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+    </head>
+
+	<body>
         <!-- Start Cursor -->
-		<div id="cursor">
-			<div class="cursor__circle"></div>
-		</div>
-		<!-- End Cursor -->
-    
-        <div id="page" class="main">
+        <div id="cursor">
+            <div class="cursor__circle"></div>
+        </div>
+        <!-- End Cursor -->
+		
+		<div id="page" class="main">
             <!-- Start Header -->
 			<header class="header header-sticky">
 				<nav class="navbar navbar-static-top navbar-expand-lg">
@@ -226,7 +267,7 @@
 										</div>
 									</div>
 								</li>
-								<li class="nav-item">
+								<li class="nav-item active">
 									<a class="nav-link" href="portfolio">
 										<span>Portfolio</span>
 									</a>
@@ -276,7 +317,7 @@
 			</header>
 			<!-- End Header -->
 
-			<!-- Start Main Menu OffCanvas -->
+            <!-- Start Main Menu OffCanvas -->
 			<div class="offcanvas main-menu-offcanvas offcanvas-end" tabindex="-1" id="menuOffcanvas">
 				<div class="offcanvas-header">
 					<p class="offcanvas-title text-white fs-2" id="offcanvasNavbar2Label">Main Menu</p>
@@ -320,54 +361,53 @@
 										</li>
 									</ul>
 								</li>
-								<li class="dropdown nav-item">
+								<li class="dropdown nav-item active">
 									<a class="nav-link" href="javascript:void(0)" data-bs-toggle="dropdown">Services
 										<i class="fa-solid fa-chevron-down"></i>
 									</a>
 									<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-										<li>
-											<a class="dropdown-item" href="graphic-design">
-												<span>Designing</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="website-development">
-												<span>Web development</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="social-media-marketing">
-												<span>Social Media Marketing</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="seo">
-												<span>SEO Managment</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="email-marketing">
-												<span>E-mail Marketing</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="paid-marketing">
-												<span>PPC Managment Services</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="ecommerce">
-												<span>E-Commerce Project Managment</span>
-											</a>
-										</li>
-										<li>
-											<a class="dropdown-item" href="animation">
-												<span>Animation</span>
-											</a>
-										</li>
-									</ul>
+                                        <li>
+                                            <a class="dropdown-item" href="graphic-design">
+                                                <span>Designing</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="website-development">
+                                                <span>Web development</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="social-media-marketing">
+                                                <span>Social Media Marketing</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="seo">
+                                                <span>SEO Managment</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="email-marketing">
+                                                <span>E-mail Marketing</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="paid-marketing">
+                                                <span>PPC Managment Services</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="ecommerce">
+                                                <span>e-commerce-project-managment</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="animation">
+                                                <span>Animation</span>
+                                            </a>
+                                        </li>
+                                    </ul>
 								</li>
-
 								<li class="nav-item">
 									<a class="nav-link" href="portfolio">
 										<span>Portfolio</span>
@@ -384,7 +424,7 @@
 									</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link active" href="contactus">
+									<a class="nav-link" href="contactus">
 										<span>Contact Us</span>
 									</a>
 								</li>
@@ -395,7 +435,7 @@
 			</div>
 			<!-- End Main Menu OffCanvas -->
 
-			<!-- Start Search -->
+            <!-- Start Search -->
 			<div id="search">
 				<button type="button" class="close"></button>
 				<div class="search-inner">
@@ -408,7 +448,7 @@
 			</div>
 			<!-- End Search -->
 
-			<!-- Start Right Menu -->
+            <!-- Start Right Menu -->
 			<div class="offcanvas offcanvas-end header-sidepanel bg-white" tabindex="-1" id="offcanvasRight">
 				<div class="offcanvas-header text-end justify-content-end">
 					<button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close">
@@ -481,54 +521,25 @@
             <div class="site-content">
                 <div class="container-fluid">
                     <div class="item-efftect">
-						<div class="efftect overflow-hidden"></div>
-						<div class="efftect overflow-hidden"></div>
-						<div class="efftect overflow-hidden"></div>
-						<div class="efftect overflow-hidden"></div>
-						<div class="efftect overflow-hidden"></div>
+                        <div class="efftect overflow-hidden"></div>
+                        <div class="efftect overflow-hidden"></div>
+                        <div class="efftect overflow-hidden"></div>
+                        <div class="efftect overflow-hidden"></div>
+                        <div class="efftect overflow-hidden"></div>
                     </div>
                 </div>
 
-                <div class="content-wrapper">
-                    <!-- Start Inner Banner -->
-                    <section>
-                        <div class="inner-banner bg-holder rounded-section jarallax">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <h1 class="title text-white">Thank You</h1>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!-- End Inner Banner -->
-
-					<!-- Start Contact Form Section -->
-					<section class="space-medium-pb my-5">
-						<div class="container">
-							<div class="row justify-content-center">
-								<div class="col-lg-8">
-									<h2 class="text-center">Thank You</h1>
-									<p class="text-center">We have successfully received your request and Digitroopers will contact you shortly to discuss your requirements. Meanwhile, if you have any questions or concerns, please feel free to give us a call.</p>
-									<div class="mt-4 text-center">
-										<a href="https://new.digitroopers.com" class="btn">Back to Site
-											<svg fill="#ffffff" width="18px" height="18px" viewBox="0 0 32 32" version="1.1">
-												<g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-												<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-												<g id="SVGRepo_iconCarrier"><path d="M30.713 16.090c0.009-0.041 0.014-0.087 0.014-0.135 0-0.004-0-0.008-0-0.011v0.001c-0.006-0.184-0.079-0.35-0.196-0.475l0 0-10-10c-0.136-0.135-0.323-0.218-0.529-0.218-0.415 0-0.751 0.336-0.751 0.751 0 0.206 0.083 0.393 0.218 0.528l8.721 8.72h-26.189c-0.414 0-0.75 0.336-0.75 0.75s0.336 0.75 0.75 0.75v0h26.188l-8.72 8.719c-0.136 0.136-0.22 0.324-0.22 0.531 0 0.415 0.336 0.751 0.751 0.751 0.207 0 0.395-0.084 0.531-0.22l10-10.001c0.025-0.026 0.017-0.064 0.038-0.093 0.040-0.052 0.098-0.088 0.124-0.151 0.013-0.050 0.020-0.108 0.020-0.167 0-0.011-0-0.021-0.001-0.032l0 0.002z"></path></g>
-											</svg>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-					<!-- End Contact form section -->
-
-				</div>
-			</div>
-
+                <!-- Start Content -->
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-02.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-03.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-04.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-05.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-06.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-07.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <img src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup-08.webp" class="d-block w-100" alt="Travel Booking App" loading="lazy">
+                <!-- End Content -->
+            </div>
+            
             <!-- Start Footer -->
 			<footer class="site-footer footer-dark">
 				<div class="footer-main">
@@ -700,16 +711,15 @@
 			</footer>
 			<!-- End Footer -->
 
-			<!-- Start Back To Top -->
-			<div class="back-to-top">
-				<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-					<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
-				</svg>
-			</div>
+            <!-- Start Back To Top -->
+            <div class="back-to-top">
+                <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+                    <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+                </svg>
+            </div>
 			<!-- End Back To Top -->
-
-        </div>
-        
+		</div>
+		
         <script src="assets/vendors/jquery/jquery.min.js"></script>
 		<script src="assets/vendors/jquery-appear/jquery.appear.js"></script>
 		<script src="assets/vendors/popper/popper.min.js"></script>
@@ -728,5 +738,5 @@
 		<script src="assets/vendors/jarallax/jarallax.min.js"></script>
 		<script src="assets/js/themes.js"></script>
 		<script src="assets/js/custom.js"></script>
-    </body>
+	</body>
 </html>

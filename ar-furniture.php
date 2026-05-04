@@ -28,8 +28,7 @@
         <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/themes.css">
-        <link rel="stylesheet" href="assets/css/responsive1.css">
-		<link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
 		<!-- Meta Pixel Code -->
 		<script>
 			!function(f,b,e,v,n,t,s)
@@ -530,16 +529,16 @@
                     </div>
                 </div>
 
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-02.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-03.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-04.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-05.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-06.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-07.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-08.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-09.webp" class="d-block w-100" alt="AR Furniture">
-                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-10.webp" class="d-block w-100" alt="AR Furniture">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-02.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-03.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-04.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-05.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-06.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-07.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-08.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-09.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
+                <img src="assets/images/portfolio/ar-furniture/ar-furniture-mockup-10.webp" class="d-block w-100" alt="AR Furniture" loading="lazy">
             </div>
 
             <!-- Start Footer -->

@@ -28,8 +28,7 @@
         <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/themes.css">
-        <link rel="stylesheet" href="assets/css/responsive1.css">
-		<link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
 		<!-- Meta Pixel Code -->
 		<script>
 			!function(f,b,e,v,n,t,s)
@@ -533,13 +532,13 @@
                 <div id="carouselOne" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-02.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-02.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-03.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-03.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselOne" data-bs-slide="prev">
@@ -556,19 +555,19 @@
                 <div id="carouselTwo" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-04.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-04.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-05.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-05.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-06.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-06.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-07.webp" class="d-block w-100" alt="Vibeta Case Study">>
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-07.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-08.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-08.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselTwo" data-bs-slide="prev">
@@ -588,40 +587,40 @@
                 <div id="carouselThree" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-10.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-10.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-11.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-11.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-12.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-12.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-13.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-13.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-14.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-14.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-15.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-15.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-16.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-16.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-17.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-17.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-18.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-18.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-19.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-19.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-20.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-20.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-21.webp" class="d-block w-100" alt="Vibeta Case Study">
+                            <img src="assets/images/portfolio/vibeta/vibeta-mockup-21.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselThree" data-bs-slide="prev">
@@ -634,7 +633,7 @@
                     </button>
                 </div>
 
-                <img src="assets/images/portfolio/vibeta/vibeta-mockup-22.webp" class="d-block w-100" alt="Vibeta Case Study">
+                <img src="assets/images/portfolio/vibeta/vibeta-mockup-22.webp" class="d-block w-100" alt="Vibeta Case Study" loading="lazy">
             </div>
 
             <!-- Start Footer -->

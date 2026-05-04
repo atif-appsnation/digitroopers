@@ -2,19 +2,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
-        <meta name="description" content="Struggling to rank or grow sales? Our no-fluff digital marketing turns dead websites into profit machines. More traffic, better leads, faster growth.">
-        <link rel="canonical" href="https://digitroopers.com/" />
-        <meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
-        <meta property="og:url" content="https://digitroopers.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="assets/images/logo/favicon.webp" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
-        <meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
-        <meta name="twitter:image" content="assets/images/logo/favicon.webp" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>DigiTroopers: Premier Digital Marketing &amp; SEO Agency USA</title>
+		<meta name="description" content="Discover DigiTroopers, a leading digital marketing agency offering SEO, web development, and social media marketing services to boost your online presence.">
+		<!-- <link rel="canonical" href="https://digitroopers.com/" />
+		<meta property="og:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta property="og:description" content="We help businesses grow with SEO, Social Media Marketing & Web Development. Let’s turn your potential into profit." />
+		<meta property="og:url" content="https://digitroopers.com/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="assets/images/logo/favicon.webp" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="DigiTroopers | Digital Marketing & Growth Agency" />
+		<meta name="twitter:description" content="We help businesses grow with SEO, SMM & Web Development. Let’s make your brand shine." />
+		<meta name="twitter:image" content="assets/images/logo/favicon.webp" /> -->
         <link rel="shortcut icon" href="assets/images/logo/favicon.webp">
         <link rel="stylesheet" href="assets/css/jost.css" >
         <link rel="stylesheet" href="assets/vendors/font-awesome/all.min.css">
@@ -28,8 +28,51 @@
         <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/themes.css">
-        <link rel="stylesheet" href="assets/css/responsive1.css">
-		<link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Meta Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '596119242764284');
+			fbq('track', 'PageView');
+		</script>
+
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=596119242764284&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5E91ZZDGJ"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y5E91ZZDGJ');
+		</script>
+		
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Product",
+				"name": "E-Commerce Management Company USA | Digitroopers",
+				"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "557"
+				}
+			}
+		</script>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFQVC8Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
     </head>
 
 	<body>
@@ -486,15 +529,15 @@
                     </div>
                 </div>
 
-                <img src="assets/images/portfolio/reborn/reborn-mockup.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-02.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-03.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-04.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-05.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-06.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-07.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-08.webp" class="d-block w-100" alt="Reborn">
-                <img src="assets/images/portfolio/reborn/reborn-mockup-09.webp" class="d-block w-100" alt="Reborn">
+                <img src="assets/images/portfolio/reborn/reborn-mockup.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-02.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-03.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-04.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-05.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-06.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-07.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-08.webp" class="d-block w-100" alt="Reborn" loading="lazy">
+                <img src="assets/images/portfolio/reborn/reborn-mockup-09.webp" class="d-block w-100" alt="Reborn" loading="lazy">
             </div>
 
             <!-- Start Footer -->

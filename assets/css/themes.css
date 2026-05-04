@@ -390,3 +390,11 @@
 .night p {
 	color: var(--white-color);
 }
+
+.night .award-item h6, .night .award-item p {
+	color: var(--black-color);
+}
+
+#blogs h6 {
+	color: var(--black-color);
+}

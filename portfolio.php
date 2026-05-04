@@ -28,7 +28,6 @@
 		<link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="assets/css/themes.css">
-		<link rel="stylesheet" href="assets/css/responsive1.css">
 		<link rel="stylesheet" href="assets/css/responsive.css">
         <!-- Meta Pixel Code -->
 		<script>
@@ -1289,6 +1288,30 @@
                                                         </div>
                                                         <div class="case-studies-link">
                                                             <a class="btn-arrow" href="glowe">
+                                                                <svg width="42" height="42" viewBox="0 0 42 42" fill="none">
+                                                                    <path d="M12.25 29.75L29.75 12.25M29.75 12.25H14M29.75 12.25V28" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="grid-item" data-groups='["mobile-app"]'>
+                                            <div class="case-studies-wrapper case-studies-style-1">
+                                                <div class="case-studies-img">
+                                                    <img class="img-fluid" src="assets/images/portfolio/travel-booking-app/travel-booking-app-mockup.webp" alt="Travel Booking App" loading="lazy">
+                                                </div>
+                                                <div class="case-studies-info">
+                                                    <div class="case-studies-info-inner">
+                                                        <div class="case-studies-content">
+                                                            <h3 class="case-studies-title">
+                                                                <a href="travel-booking-app">Travel Booking App</a>
+                                                            </h3>
+                                                            <div class="case-studies-description">Mobile App</div>
+                                                        </div>
+                                                        <div class="case-studies-link">
+                                                            <a class="btn-arrow" href="travel-booking-app">
                                                                 <svg width="42" height="42" viewBox="0 0 42 42" fill="none">
                                                                     <path d="M12.25 29.75L29.75 12.25M29.75 12.25H14M29.75 12.25V28" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                                                 </svg>

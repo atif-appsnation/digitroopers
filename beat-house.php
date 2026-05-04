@@ -28,8 +28,7 @@
         <link rel="stylesheet" href="assets/vendors/slideshow/subtle-slideshow.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/themes.css">
-        <link rel="stylesheet" href="assets/css/responsive1.css">
-		<link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
 		<!-- Meta Pixel Code -->
 		<script>
 			!function(f,b,e,v,n,t,s)
@@ -530,15 +529,15 @@
                     </div>
                 </div>
 
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-02.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-03.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-04.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-05.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-06.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-07.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-08.webp" class="d-block w-100" alt="Beat House">
-                <img src="assets/images/portfolio/beat-house/beat-house-mockup-09.webp" class="d-block w-100" alt="Beat House">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-02.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-03.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-04.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-05.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-06.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-07.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-08.webp" class="d-block w-100" alt="Beat House" loading="lazy">
+                <img src="assets/images/portfolio/beat-house/beat-house-mockup-09.webp" class="d-block w-100" alt="Beat House" loading="lazy">
             </div>
 
             <!-- Start Footer -->
